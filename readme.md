@@ -7,32 +7,10 @@
 
 ## Intro
 
-Exceptional mathematical reasoning ability is one of the key features that demonstrate the power of large language models (LLMs). How to comprehensively define and evaluate the mathematical abilities of LLMs, and even reflect the user experience in real-world scenarios, has emerged as a critical issue. Current benchmarks predominantly concentrate on problem-solving capabilities, which presents a substantial risk of model overfitting and fails to accurately represent genuine mathematical reasoning abilities.
+Traditional evaluation methods for assessing causal reasoning primarily focus on task-specific answer accuracy, such as evaluating a model's performance on causal questions using causal reasoning datasets. These datasets typically feature scenarios where models are required to understand and deduce outcomes based on causal relationships. However, current approaches have a significant limitation: they mainly emphasize the model's problem-solving ability while neglecting the quality of the reasoning process itself. This oversight includes issues like misidentifying causal chains and relying on empirical inferences, as illustrated in Figure.
 
-In this paper, we argue that if a model really understands a problem, it should be robust and readily applied across a variety of tasks. Motivated by this, we introduce **MATHCHECK**, a well-designed checklist for testing test generation and reasoning capabilities, and an automatic tool to generate checklists efficiently. **MATHCHECK** utilizes multi-task mathematical reasoning and robustness test types for evaluating the capabilities of large models.
+Misidentifying causal chains occurs when a model infers an incorrect causal chain but still arrives at the correct answer. Such errors become evident with minor perturbations. For example, the correct causal chain in the diagram should be: working hours → amount of hair → performance. However, the model incorrectly posited that less hair leads to better performance. When perturbed by shaving everyone bald, the model mistakenly concluded that everyone’s performance would be excellent.
 
-### Key Features
-- Evaluates model’s mathematical reasoning ability
-- Generates multiple tasks automatically
-- Provides a comprehensive evaluation of math reasoning performance
+Empirical inference, on the other hand, happens when a model does not construct causal relationships but instead searches for answers within its pre-trained data. In this scenario, the model should identify two causal factors in the given context and infer the outcome based on these causes. However, the model "cheats" by retrieving an answer directly from its training data, without considering the context or understanding the cause of the outcome.
+<embed src="./cause.pdf" width="800px" height="600px" />
 
-## Dataset
-
-Here, you can provide a link or description of the dataset used for the project.
-
-[Dataset Link](https://example.com/dataset)
-
-## Results
-
-| Model        | Test 1 Accuracy | Test 2 Accuracy | Test 3 Accuracy |
-|--------------|-----------------|-----------------|-----------------|
-| Model A      | 85%             | 88%             | 90%             |
-| Model B      | 78%             | 80%             | 85%             |
-
-## Installation
-
-To use this project, you can clone the repository:
-
-```bash
-git clone https://github.com/dzh597/CausalityCheck.git
-cd CausalityCheck
