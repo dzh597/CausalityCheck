@@ -1,0 +1,1 @@
+The dataset comprises both the source data and the data processed by causalityCheck. The source data constitutes a subset of CausalProbe-2024, whilst the data tested in this experiment is the processed data.
