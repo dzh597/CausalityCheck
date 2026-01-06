@@ -1,0 +1,1332 @@
+[
+    {
+        "id": 1,
+        "context": "The walls leading to the children's ward at Wolverhampton's New Cross Hospital have been adorned with murals depicting enchanting scenes of unicorns, dinosaurs, and marine life. This project, which aims to provide a calming atmosphere for young patients, was brought to life by artists Daniel Russell-Ahern and Simon Greenaway with financial support from the Royal Wolverhampton NHS Trust (RWT) Charity. Videos of the artwork have achieved significant online popularity, accumulating over 600,000 views on TikTok.",
+        "question": "What is the result of the murals created at New Cross Hospital in Wolverhampton?",
+        "choice_1": "Increased engagement with artists Daniel Russell-Ahern and Simon Greenaway.",
+        "choice_2": "Enhanced visibility of the Royal Wolverhampton NHS Trust (RWT) Charity.",
+        "choice_3": "Reduction in anxiety and a pleasant start to patients' journey.",
+        "choice_4": "Transformation of bars and business spaces by the artists.",
+        "answer": 3
+    },
+    {
+        "id": 2,
+        "context": "As a token of appreciation for his upbringing on the island, the distinguished sculptor Michael Sandle RA gifted an ink illustration of the Isle of Man's coast to the Manx Museum. The piece portrays the cliff at Black Head and the geological feature referred to as the Drinking Dragon, situated off the southern shore of the island.",
+        "question": "What led Michael Sandle to donate the ink drawing of the Isle of Man coastline to the Manx Museum?",
+        "choice_1": "His inspiration from a boat trip to see basking sharks off the Manx coast.",
+        "choice_2": "His desire to have the drawing looked after in a suitable location.",
+        "choice_3": "The launch of a book featuring his drawings, with the Manx image as the front cover.",
+        "choice_4": "His gratitude for his childhood and upbringing on the Isle of Man.",
+        "answer": 4
+    },
+    {
+        "id": 3,
+        "context": "Ipswich-based illustrator Lily Hammond has published her third coloring book, which centers on creative women, particularly those from ethnic minority backgrounds. Featuring influential artists such as Iris Apfel, Kara Walker, Faith Ringgold, and Tracey Emin, the book originated as a personal project for Hammond, aimed at motivating youth, especially those who share her heritage.",
+        "question": "What is the result of Lily Hammond's project focusing on female creatives and minority ethnic women?",
+        "choice_1": "Increased interest in coloring books.",
+        "choice_2": "Greater recognition of female artists.",
+        "choice_3": "Inspiration for young people, especially those who look like her.",
+        "choice_4": "Collaboration with Suffolk County Council.",
+        "answer": 3
+    },
+    {
+        "id": 4,
+        "context": "Currently showcased at the Erin Arts Centre in Port Erin is an exhibition titled 'Crucible, Sculptures and Drawings of Robert Jones MRSS,' which features sculptures and ink drawings motivated by the dangers of the climate crisis. This collection, constructed from repurposed materials, acts as a cautionary message about the importance of cherishing the planet's resources. For this display, the artist, Robert Jones, has also produced new works prompted by materials remaining from a prior exhibition.",
+        "question": "What led Robert Jones to create a new body of work using leftover materials for his exhibition?",
+        "choice_1": "Overwhelmingly positive feedback from previous displays.",
+        "choice_2": "The need to experiment with different mediums.",
+        "choice_3": "The theme of valuing the Earth's resources.",
+        "choice_4": "Exhaustion from displaying his work in Peel and Port Erin.",
+        "answer": 3
+    },
+    {
+        "id": 5,
+        "context": "A man named Jason Lau has lodged a complaint alleging illegal discrimination against the Museum of Old and New Art in Tasmania. The complaint concerns an exhibit titled the \"Ladies Lounge,\" which is exclusively for women, created to offer them a secure environment to appreciate art and socialize. Lau argues that his admission ticket should grant him entry to all parts of the museum.",
+        "question": "What led to Jason Lau filing a complaint against the Museum of Old and New Art for illegal discrimination?",
+        "choice_1": "The exhibit's intention to provide a safe space for women.",
+        "choice_2": "The exclusion of men from the \"Ladies Lounge\" exhibit.",
+        "choice_3": "The museum's argument that the exhibit does not discriminate.",
+        "choice_4": "The presence of women dressed in navy power suits at the court hearing.",
+        "answer": 2
+    },
+    {
+        "id": 6,
+        "context": "Tasmania's Mona museum was the subject of a gender discrimination lawsuit initiated by a male patron who was refused access to a female-exclusive installation named the Ladies Lounge. The purpose of the exhibit was to spotlight historical misogyny through the exclusion of men. A court decision favored the male plaintiff, concluding that the museum's practice of barring men failed to advance equal opportunities for groups with a history of disadvantage.",
+        "question": "What led to the court ruling that men must be allowed into the women's-only exhibit at Mona museum?",
+        "choice_1": "The museum's claim that the rejection of male visitors was part of the artwork.",
+        "choice_2": "The inappropriate behavior of the museum's supporters during the court case.",
+        "choice_3": "The male visitor's argument that the museum violated the state's anti-discrimination act.",
+        "choice_4": "The court's finding that excluding men from the exhibit did not promote equal opportunity.",
+        "answer": 4
+    },
+    {
+        "id": 7,
+        "context": "A wall in Worcester currently marked by graffiti is slated to be converted into a musical mural honoring the city's history, a project led by artist Rob Draper in partnership with students from the University of Worcester. The artwork will display a quote from composer Edward Elgar and will promote inclusivity by presenting a poem in both standard text and braille for people with visual impairments.",
+        "question": "What is the result of the collaboration between artist Rob Draper, students from the University of Worcester, and the local community in Worcester?",
+        "choice_1": "The creation of a musical mural celebrating the city's heritage.",
+        "choice_2": "The removal of graffiti from a wall in Worcester.",
+        "choice_3": "The promotion of inclusivity in art projects.",
+        "choice_4": "The engagement of visually impaired individuals in the artistic process.",
+        "answer": 1
+    },
+    {
+        "id": 8,
+        "context": "At the University of Bristol Botanic Garden, the yearly Easter Sculpture and Arts Festival is set to present pieces from more than 30 regional creators who utilize materials such as stone, ceramic, wood, metal, and wire. This festival is designed to highlight the relationship between art and the natural environment by means of original sculptures, hands-on workshops, and activities suitable for the entire family.",
+        "question": "What is the result of the Easter Sculpture and Arts Festival at the University of Bristol Botanic Garden?",
+        "choice_1": "Increased awareness of local artists in Bristol.",
+        "choice_2": "Promotion of human creativity and harmony between art and nature.",
+        "choice_3": "Introduction of new art materials like stone, ceramic, wood, metal, and wire.",
+        "choice_4": "Collaboration between artists and art students from the University of West England.",
+        "answer": 2
+    },
+    {
+        "id": 9,
+        "context": "In tribute to the Sycamore Gap tree, North Yorkshire artist Lucy Pittaway initiated a project to plant a tree for every print she sells. After the tree, which was a subject of her paintings, was cut down last September, there was a significant surge in demand for her artwork. To date, she has sold nearly 2,400 prints, which has funded the planting of 600 young and mature trees to establish a new wooded area on the Swinton Estate.",
+        "question": "What is the result of Lucy Pittaway's initiative to plant trees for every print copy she sells in honor of the Sycamore Gap tree?",
+        "choice_1": "Increased demand for her artwork.",
+        "choice_2": "Revival of the Swinton Estate.",
+        "choice_3": "Preservation of the Sycamore Gap tree.",
+        "choice_4": "Expansion of the Swinton Park Hotel.",
+        "answer": 2
+    },
+    {
+        "id": 10,
+        "context": "A substantial obstacle confronts the Paisley Art Institute (PAI) amidst its discussions with OneRen, the organization managing culture and leisure for Renfrewshire Council. The talks concern the exhibition of PAI's historical art collection, which comprises over 400 pieces from notable artists, within the recently developed £45m Paisley Museum. With negotiations having reached an impasse, PAI is now exploring other avenues to preserve its collection.",
+        "question": "What led to the Paisley Art Institute facing its biggest challenge in its 148-year history?",
+        "choice_1": "Declining membership numbers in the organization.",
+        "choice_2": "Legal disputes and high insurance premiums.",
+        "choice_3": "Lack of interest from the Glasgow Art Club.",
+        "choice_4": "Inability to secure a significant display space in the new Paisley Museum.",
+        "answer": 4
+    },
+    {
+        "id": 11,
+        "context": "In Maryport, a new poster initiative seeks to safeguard the town's traditional expressions and dialect, drawing inspiration from the unique characteristics and humor of the local populace. This colorful artwork, a collaboration between Made in Maryport and Cumberland Council, is being exhibited at the town's Maritime Museum. The project aims to promote the usage of the regional vernacular and to initiate discussions focused on Cumbria.",
+        "question": "What is the result of the new poster campaign in Maryport aimed at preserving historic phrases and dialect?",
+        "choice_1": "Increased tourism to the town's Maritime Museum.",
+        "choice_2": "Encouragement for people to start talking about Cumbria.",
+        "choice_3": "Creation of colorful artwork inspired by local community.",
+        "choice_4": "Discouragement from using local dialect in schools.",
+        "answer": 2
+    },
+    {
+        "id": 12,
+        "context": "For the first time, a public exhibition at Moyse's Hall Museum in Bury St Edmunds, Suffolk, will feature illustrations by Sir Quentin Blake that were originally created for hospitals in the UK and France. Titled the Illustrated Hospital, this exhibition is intended to highlight the museum's success in drawing audiences with shows featuring modern artists such as Banksy and Tracey Emin.",
+        "question": "What is the result of displaying Sir Quentin Blake's illustrations at the Illustrated Hospital exhibition?",
+        "choice_1": "Increased interest in contemporary art.",
+        "choice_2": "Recognition of the museum's reputation for attracting visitors.",
+        "choice_3": "Collaboration with renowned writers.",
+        "choice_4": "Appointment as the first children's laureate.",
+        "answer": 2
+    },
+    {
+        "id": 13,
+        "context": "A request has been made for the public to refrain from disturbing artist Estee Angeline as she creates a mural in Union Passage on behalf of the county council. This appeal comes after she was subjected to verbal abuse, leading to the area being cordoned off to ensure she can complete her work without interruption.",
+        "question": "What led to the request for the public not to disrupt artist Estee Angeline while she works on the mural?",
+        "choice_1": "The reopening of Union Passage to the public.",
+        "choice_2": "Threats made towards the artist.",
+        "choice_3": "The commissioning of the mural by the county council.",
+        "choice_4": "The inspiration for the artwork from the artist's time at college.",
+        "answer": 2
+    },
+    {
+        "id": 14,
+        "context": "Following a 2021 charity performance for Global Citizen Live, an event intended to draw attention to worldwide poverty, climate change, and the requirement for coronavirus vaccines, Ed Sheeran arranged an exclusive three-hour tour of the Louvre for his parents and wife. This visit was characterized as a memorable occasion and served as Sheeran's way of expressing his gratitude to his family.",
+        "question": "What was the result of Ed Sheeran's private visit to the Louvre with his parents and wife after the charity concert?",
+        "choice_1": "Increased awareness of poverty, climate change, and the need for vaccines.",
+        "choice_2": "An extraordinary performance in front of the Eiffel Tower.",
+        "choice_3": "A way for Sheeran to express gratitude to his family.",
+        "choice_4": "A fundraising event for the Ipswich Art Society's Young Artists' Fund.",
+        "answer": 3
+    },
+    {
+        "id": 15,
+        "context": "At Houghton Hall in Norfolk, Sir Antony Gormley has unveiled a new installation titled Time Horizon, which consists of one hundred life-sized figures made from cast iron. The artwork, which draws comparisons to his celebrated iron men on Crosby beach, serves as a commentary on the disparity of wealth and humanity's connection with the environment. The exhibition will be accessible to visitors from April until October.",
+        "question": "What led Sir Antony Gormley to create the Time Horizon installation featuring cast iron figures in the grounds of Houghton Hall?",
+        "choice_1": "His desire to decorate the place with unique sculptures.",
+        "choice_2": "A commission from the Catanzaro province in Italy.",
+        "choice_3": "A comment on wealth inequality and our relationship to the planet.",
+        "choice_4": "The need to showcase his work in different locations.",
+        "answer": 3
+    },
+    {
+        "id": 16,
+        "context": "At The Setting gallery in Nailsworth, a collective exhibition is being presented, showcasing the artwork of a six-person artistic family from Stroud, comprised of parents Bryan and Helena Panks and their four children: Max, Rosie, George, and Fred.",
+        "question": "What led to the family of six artists deciding to hold a joint exhibition of their work?",
+        "choice_1": "The family's shared passion for art and creativity.",
+        "choice_2": "The success of Bryan Panks' Channel 4 series Max Bear.",
+        "choice_3": "The encouragement from TV cook Keith Floyd and actor Tom Baker.",
+        "choice_4": "The family's desire to showcase their different artistic styles together.",
+        "answer": 1
+    },
+    {
+        "id": 17,
+        "context": "The artwork of Wolverhampton student Sam McCracken is scheduled for exhibition at globally renowned locations, such as Times Square in New York and Paris's Louvre Museum. His creation, titled GLORYBOX XL, drew inspiration from public sex spaces and queer cruising culture, capturing the attention of The Holy Art gallery, which will showcase the piece in its displays.",
+        "question": "What is the result of Sam McCracken's project GLORYBOX XL being showcased in New York's Times Square and the Louvre Museum?",
+        "choice_1": "Increased recognition for The Holy Art gallery.",
+        "choice_2": "Enhanced visibility for Sam McCracken's artwork.",
+        "choice_3": "Expansion of art exhibitions in popular sites.",
+        "choice_4": "Promotion of public sex spaces and queer cruising culture.",
+        "answer": 2
+    },
+    {
+        "id": 18,
+        "context": "In Sussex, retired fire helmets have been repurposed into artistic creations for a charitable exhibition. These helmets, which were once utilized by firefighters from the West Sussex Fire and Rescue Service at various incidents, are now being showcased at Worthing Town Hall. The artworks, numbering over 60 designs from different artists, are set to be auctioned to generate funds for The Fire Fighters Charity.",
+        "question": "What is the result of the transformation of decommissioned fire helmets into works of art for a charity exhibition in Sussex?",
+        "choice_1": "Increased awareness about the importance of fire helmets.",
+        "choice_2": "Raised funds for The Fire Fighters Charity.",
+        "choice_3": "Enhanced the artistic skills of firefighters.",
+        "choice_4": "Improved the safety equipment used by firefighters.",
+        "answer": 2
+    },
+    {
+        "id": 19,
+        "context": "A new piece by Keith Piper, named Viva Voce, has been introduced at the Tate Britain. This work is intended to offer a critical perspective on and re-examine the controversial 1927 mural by Rex Whistler, which has been closed to public viewing since 2020 because of its racist depictions. Piper's film delves into the socio-political environment of Britain during the 1920s, utilizing historical footage to illuminate the offensive subject matter present in Whistler's creation.",
+        "question": "What led to the decision to commission the installation of Viva Voce by Keith Piper next to Rex Whistler's mural at Tate Britain?",
+        "choice_1": "The offensive imagery in Rex Whistler's mural.",
+        "choice_2": "The closure of the room housing the mural during the pandemic.",
+        "choice_3": "The need to provide historical context and challenge problematic themes.",
+        "choice_4": "The criticism from art critics The White Pube regarding the mural.",
+        "answer": 3
+    },
+    {
+        "id": 20,
+        "context": "The People's Republic of Stokes Croft (PRSC) will be hosting its fourth annual People's Art Fair in Bristol. Scheduled to run from April 12th to the 21st at the PRSC Space on Jamaica St, the fair will showcase a diverse array of creative works from more than 80 artists, both from the local Bristol area and from across the globe.",
+        "question": "What is the result of the collaborative nature of the People's Art Fair, according to a PRSC spokesperson?",
+        "choice_1": "Increased competition among artists.",
+        "choice_2": "Greater diversity of creative expression.",
+        "choice_3": "Higher entry fees for artists and visitors.",
+        "choice_4": "Limited accessibility to art.",
+        "answer": 2
+    },
+    {
+        "id": 21,
+        "context": "Famed recycle artist Thomas Dambo is the creator of over 100 large-scale troll sculptures made from reclaimed wood for his 'The Trail of a Thousand Trolls' project. The Sperrin Mountains in Northern Ireland, an area noted for its deep connections to ancient Celtic legends and Neolithic giants, now hosts four of these figures. Developed collaboratively with local councils, the Sperrin Sculpture Trail was established to champion the principles of sustainability and recycling through these artworks.",
+        "question": "What led to the development of the Sperrin Sculpture Trail in the Sperrin Mountains of Northern Ireland?",
+        "choice_1": "The presence of ancient Celtic myths and Neolithic giants in the area.",
+        "choice_2": "The genetic defect causing abnormal tallness in people living in Mid Ulster.",
+        "choice_3": "Thomas Dambo's desire to showcase recycling and sustainability through art.",
+        "choice_4": "The historical significance of the Sperrin Mountains as a 'giant hotspot'.",
+        "answer": 3
+    },
+    {
+        "id": 22,
+        "context": "South Bristol's street art festival, Upfest, is making a comeback this summer following its cancellation in 2023. The event will showcase 75 murals throughout the BS3 postcode, headlined by the trans artist and activist Mister Samo. Known for a worldwide artistic presence, Mister Samo's creations center on themes of community and intersectional gender identity.",
+        "question": "What is the result of Mister Samo being named as the headliner for Upfest 2024?",
+        "choice_1": "Increased funding for the festival.",
+        "choice_2": "Greater community involvement in the event.",
+        "choice_3": "Expansion of the festival to three weekends.",
+        "choice_4": "Inclusion and celebration of diversity in the art world.",
+        "answer": 4
+    },
+    {
+        "id": 23,
+        "context": "In April, Folkestone will host a trio of unique film screenings dedicated to the contributions of three influential female figures: Frida Kahlo, Ellen E Jones, and Ava DuVernay, who are described as \"powerful female disruptors.\" The screenings are intended to confront topics of race and racism, conveying significant messages to the local population.",
+        "question": "What is the result of the three film events in Folkestone showcasing the work of \"three powerful female disruptors\"?",
+        "choice_1": "Increased diversity in the community.",
+        "choice_2": "A thriving community in Folkestone.",
+        "choice_3": "Greater awareness of race and racism issues.",
+        "choice_4": "Improved representation of women in the film industry.",
+        "answer": 3
+    },
+    {
+        "id": 24,
+        "context": "For its 2024 edition in south Bristol, the Upfest street art festival has revealed its roster of artists. The event will see international artists creating murals throughout the BS3 area over a 17-day period. Since its inception more than 15 years ago, Upfest has expanded significantly, resulting in over 200 murals and art pieces across the city.",
+        "question": "What is the result of the growth of Upfest since its inception over 15 years ago?",
+        "choice_1": "Artists from around the world invited to paint murals in south Bristol.",
+        "choice_2": "Upfest Presents event running for 17 days in 2024.",
+        "choice_3": "More than 200 murals and artworks painted across the city.",
+        "choice_4": "Inclusion of creative workshops, artists' panels, comedy, theatre, and street art tours in the event.",
+        "answer": 3
+    },
+    {
+        "id": 25,
+        "context": "Making its debut in Wales, a self-portrait by Vincent van Gogh has been revealed at the National Museum in Cardiff. The display investigates the notion of self-portraits as the initial “selfies” and showcases pieces from a variety of creators, such as Rembrandt and Brenda Chamberlain.",
+        "question": "What led to the development of self-portraits by Vincent van Gogh?",
+        "choice_1": "Financial struggles and inability to afford a model.",
+        "choice_2": "Influence from other artists like Rembrandt and Brenda Chamberlain.",
+        "choice_3": "Desire to explore different artistic approaches.",
+        "choice_4": "The availability of mirrors for self-reflection.",
+        "answer": 1
+    },
+    {
+        "id": 26,
+        "context": "At Skipton Town Hall within the Yorkshire Dales, an immersive art installation is set to feature the region's landscape accompanied by a classical music score. Entitled the Soundscapes gallery, this exhibit by artist Michaela French and composer Ben Crick provides a 360-degree video journey for attendees, enhanced by a symphonic score performed by the Skipton Camerata.",
+        "question": "What is the result of the immersive art display showcasing Yorkshire Dales scenery with a classical music soundtrack?",
+        "choice_1": "Increased interest in classical music among visitors.",
+        "choice_2": "Enhanced accessibility of classical music to a wider audience.",
+        "choice_3": "Greater appreciation for the arts and nature.",
+        "choice_4": "Improved engagement with the emotions and experiences expressed through art.",
+        "answer": 3
+    },
+    {
+        "id": 27,
+        "context": "The Conservative party has suspended MP Andrew Bridgen following his comparison of the side effects from Covid vaccines to the Holocaust. Although he was once a proponent of vaccination, he has since promoted deceptive assertions, calling for a halt to their use by citing erroneous data and unproven accusations of concealment within medical studies. Bridgen's depiction of the vaccines as \"experimental gene therapy\" echoes common anti-vaccination narratives. His declarations, which have generated considerable controversy, are at odds with accepted scientific findings.",
+        "question": "What led to the suspension of Conservative MP Andrew Bridgen by his party?",
+        "choice_1": "Comparison of Covid vaccine side effects to the Holocaust.",
+        "choice_2": "Increasingly misleading statements about vaccine safety.",
+        "choice_3": "Calls for a complete suspension of Covid vaccines.",
+        "choice_4": "Refusal to provide evidence for claims made in Parliament.",
+        "answer": 1
+    },
+    {
+        "id": 28,
+        "context": "In a discussion with LBC, Education Secretary Gillian Keegan asserted that educators in particular regions of the nation fall within the highest ten percent of income earners. This declaration has sparked a debate about the compensation teachers receive and their ranking within the overall income hierarchy.",
+        "question": "What is the result of the discrepancy between Education Secretary Gillian Keegan's claim about teachers being in the top 10% of earners in some areas and the actual income data provided by the Office for National Statistics (ONS)?",
+        "choice_1": "Increased funding for schools over the next two years.",
+        "choice_2": "A clarification on the average salary of head teachers.",
+        "choice_3": "A response from the Department for Education regarding teacher salaries.",
+        "choice_4": "The discrepancy highlights the challenges of teacher-recruitment and retention.",
+        "answer": 4
+    },
+    {
+        "id": 29,
+        "context": "After Luiz Inácio Lula da Silva assumed the presidency of Brazil, followers of the former leader, Jair Bolsonaro, invaded the nation's Congress, Supreme Court, and presidential palace. The handling of the demonstration by law enforcement has drawn criticism for its insufficiency, which resulted in extensive destruction and disorder.",
+        "question": "What was the result of the police's failure to adequately control the protesters during the storming of government buildings in Brazil?",
+        "choice_1": "The protesters were granted official permission to march along the route.",
+        "choice_2": "The protesters peacefully dispersed after encountering barriers.",
+        "choice_3": "Protesters were able to breach security barriers and enter government buildings.",
+        "choice_4": "The police successfully prevented any damage to government property.",
+        "answer": 3
+    },
+    {
+        "id": 30,
+        "context": "President Jair Bolsonaro has expressed doubts about the dependability of Brazil's electronic voting systems, asserting they are susceptible to fraudulent activities. In the absence of supporting proof, Bolsonaro has advocated for reinstating paper ballots to improve security. Conversely, the Supreme Electoral Court insists the prevailing system is dependable, citing the multiple protocols implemented to protect the electoral process.",
+        "question": "What led President Bolsonaro to advocate for printable and auditable paper ballots in Brazil's elections?",
+        "choice_1": "Allegations of fraud in the 2018 presidential election.",
+        "choice_2": "Concerns about the lack of paper copies of individual ballots.",
+        "choice_3": "Claims that electronic voting machines can be easily manipulated.",
+        "choice_4": "The need for a more transparent and secure voting system.",
+        "answer": 3
+    },
+    {
+        "id": 31,
+        "context": "Following media interviews, Chancellor Jeremy Hunt's assertions regarding the 2023 Budget have faced scrutiny. Several of his statements are being examined for their factual correctness and lucidity.",
+        "question": "What led to the increase in the amount people are allowed to put into their pensions tax-free, according to Jeremy Hunt?",
+        "choice_1": "Pressure from the Royal College of Surgeons.",
+        "choice_2": "Concerns raised by all surgeons about the pension system.",
+        "choice_3": "The need to address the pensions \"tax-trap\" affecting consultant surgeons.",
+        "choice_4": "The government's aim to increase immigration by adding construction workers to the shortage occupation list.",
+        "answer": 3
+    },
+    {
+        "id": 32,
+        "context": "Cough syrups produced in India, which contained unsafe levels of contaminants, have been associated with the fatalities of almost 70 children in The Gambia. This incident has sparked alarm regarding the oversight of pharmaceutical manufacturing and commerce, especially within India.",
+        "question": "What is the result of underfunding of oversight bodies and lax interpretation of regulations in India's pharmaceutical industry?",
+        "choice_1": "Increased production of generic drugs",
+        "choice_2": "Stringent quality-control standards",
+        "choice_3": "Bans by overseas regulators",
+        "choice_4": "Flouting of quality standards and light punishment",
+        "answer": 4
+    },
+    {
+        "id": 33,
+        "context": "The Privileges Committee of MPs is conducting an inquiry into whether Boris Johnson provided deceptive statements to Parliament concerning social events at Downing Street that occurred during the lockdown. If found guilty, he could face penalties, which might include being barred from the Commons and a special election being called in his electoral district.",
+        "question": "What led to Boris Johnson being investigated by the Privileges Committee of MPs?",
+        "choice_1": "Boris Johnson's denial of misleading Parliament.",
+        "choice_2": "The potential sanctions, including suspension from the Commons.",
+        "choice_3": "The statements made by Boris Johnson about gatherings in Downing Street.",
+        "choice_4": "The admission of misleading Parliament by Boris Johnson.",
+        "answer": 3
+    },
+    {
+        "id": 34,
+        "context": "A disagreement has emerged between the Labour and Conservative parties in England concerning which party presides over areas with higher council tax. Each party has put forward assertions regarding the tax levels in territories administered by their rivals. This contention is focused on council tax rates within England, preceding the elections slated for May 2023.",
+        "question": "What led to the difficulty in definitively determining which party has the cheapest council tax rates in England?",
+        "choice_1": "Different types of councils in England.",
+        "choice_2": "Varied methodologies used by political parties to calculate council tax rates.",
+        "choice_3": "Allocation of council tax funds to different services and authorities.",
+        "choice_4": "Housing stock and property values affecting council tax rates.",
+        "answer": 2
+    },
+    {
+        "id": 35,
+        "context": "A significant pledge during the Brexit campaign centered on fishing, with the UK's objective being to regain authority over its own waters. Since the implementation of new fishing regulations between the UK and the EU, the fishing sector has experienced transformations, with uneven outcomes for different areas. The post-Brexit fishing environment has been characterized by difficulties and inconsistencies, which have affected various regions and segments of the industry.",
+        "question": "What led to the loss of jobs in the fishing industry, particularly for UK Fisheries based in Hull?",
+        "choice_1": "The increase in fishing quotas post-Brexit.",
+        "choice_2": "The exclusion of French and other EU boats from certain fishing zones.",
+        "choice_3": "The fishing deal negotiated with Norway in 2021.",
+        "choice_4": "The impact of additional export paperwork on seafood exports to the EU.",
+        "answer": 3
+    },
+    {
+        "id": 36,
+        "context": "A tweet from the Labour party asserted that the Conservatives were responsible for council tax hikes of up to 15%. In reality, the 15% increase was enacted by a single council, Croydon. The subsequent largest raises were 10%, implemented by the councils of Slough and Thurrock. The significant 15% tax increase in Croydon was a response to a substantial budget shortfall of £130m.",
+        "question": "What led to Croydon raising council tax by 15%?",
+        "choice_1": "Toxic debt and financial failures of the previous administration.",
+        "choice_2": "Funding plans for the refurbishment of a concert hall.",
+        "choice_3": "Organisational dysfunction at the most senior level in the council.",
+        "choice_4": "Lack of government funding.",
+        "answer": 1
+    },
+    {
+        "id": 37,
+        "context": "In the Russian city of Yeysk, a military aircraft collided with an apartment block, claiming the lives of 15 individuals, among them three minors. Russia's Defence Ministry reported that the incident was caused by a technical failure in one of the plane's engines. Footage and photographs from social media platforms have offered information regarding the event, with specialists examining this material to ascertain the reason for the accident.",
+        "question": "What was the main cause of the crash of the fighter jet in Yeysk, Russia, as indicated by experts?",
+        "choice_1": "A missile strike from an external source.",
+        "choice_2": "A malfunction in one of the engines.",
+        "choice_3": "Pilot error during a training flight.",
+        "choice_4": "Ignition of ammunition carried by the plane.",
+        "answer": 2
+    },
+    {
+        "id": 38,
+        "context": "Inaccurate reports claiming 15,000 death sentences were handed down to Iranian protesters spread rapidly across social media, which prompted Canadian Prime Minister Justin Trudeau to issue and subsequently retract a tweet criticizing the Iranian regime. This misinformation stemmed from the combination of correct estimations of arrests made during the continuous demonstrations and calls for severe punishments by Iranian officials.",
+        "question": "What led to the misleading claim of 15,000 death sentences being imposed on Iranian protesters?",
+        "choice_1": "Accurate estimates of the number of people arrested during the protests.",
+        "choice_2": "Demands by hardline MPs and the head of the judiciary for harsh sentences.",
+        "choice_3": "The death of Mahsa Amini and the subsequent crackdown on protests by Iranian authorities.",
+        "choice_4": "Misinterpretation of demands for harsh sentences and inaccurate reporting by Newsweek.",
+        "answer": 4
+    },
+    {
+        "id": 39,
+        "context": "The article examines the autonomy of pay review bodies (PRBs), which advise on pay levels for public-sector employees like those in the NHS. Concerns about the independence of these bodies have been raised because the government imposes ceilings on their recommendations. The NHS PRB, chaired by Philippa Hird, recently proposed a wage increase for NHS employees that the government subsequently approved. Nevertheless, PRBs operate under certain restrictions, such as government-mandated financial envelopes.",
+        "question": "What led to questions about the independence of the pay review bodies (PRBs) that recommend salaries for public-sector workers, including NHS staff?",
+        "choice_1": "The government's rejection of the NHS PRB's recommendation in 2014.",
+        "choice_2": "The acceptance of the NHS PRB's recommendation for a pay rise for NHS workers.",
+        "choice_3": "The government setting upper limits on recommendations made by PRBs.",
+        "choice_4": "The appointment of Philippa Hird as the chair of the NHS PRB.",
+        "answer": 3
+    },
+    {
+        "id": 40,
+        "context": "Following his defeat in Kenya's latest presidential election, Raila Odinga has initiated a court case to contest the outcome that named William Ruto as the victor. The legal petition submitted by Odinga is centered on the conduct of Wafula Chebukati, the head of the Independent Election and Boundaries Commission (IEBC), alongside claims that the election results were methodically altered.",
+        "question": "What led to Raila Odinga filing a legal challenge to the election result in Kenya?",
+        "choice_1": "Allegations of systematic manipulation of election results.",
+        "choice_2": "Discrepancies in the total number of votes cast for different positions in the same areas.",
+        "choice_3": "The role of the chair of the Independent Election and Boundaries Commission (IEBC), Wafula Chebukati.",
+        "choice_4": "Unexplained discrepancies in the official number of people who voted and the percentage given by election officials for the overall turnout.",
+        "answer": 1
+    },
+    {
+        "id": 41,
+        "context": "In the aftermath of Kenya's most recent presidential election, a flood of contradictory reports regarding the outcome has overwhelmed social media channels. The spread of inaccurate data and hyperbole has been pervasive, leading to premature victory declarations for both Deputy President William Ruto and opposition leader Raila Odinga. Prominent online commentators and political figures have been key in disseminating these falsehoods, sparking alarm among election monitoring bodies and observer groups.",
+        "question": "What is the result of the spread of misinformation and exaggeration on social media following Kenya's presidential election?",
+        "choice_1": "Increased voter turnout in favor of Deputy President William Ruto.",
+        "choice_2": "Decline in support for opposition leader Raila Odinga.",
+        "choice_3": "Confusion and false claims about election results.",
+        "choice_4": "Enhanced transparency and accuracy in the electoral process.",
+        "answer": 3
+    },
+    {
+        "id": 42,
+        "context": "Prime Minister Liz Truss justified her administration's mini-budget, which resulted in significant market instability and an increase in the cost of government borrowing that affected home loans and other economic sectors. The turmoil in the subsequent days was exacerbated by the lack of an economic projection from the Office for Budget Responsibility (OBR).",
+        "question": "What led to the rise in the cost of UK government borrowing and its impact on mortgages and other parts of the economy following the mini-budget announcement?",
+        "choice_1": "The absence of a forecast from the OBR.",
+        "choice_2": "The global rise in interest rates due to inflation.",
+        "choice_3": "The financial crash of 2008 and the Covid pandemic.",
+        "choice_4": "The UK government's lower proportion of debt compared to other nations.",
+        "answer": 1
+    },
+    {
+        "id": 43,
+        "context": "Prime Minister Rishi Sunak's administration announced five primary objectives: halving inflation, expanding the economy, decreasing national debt, shortening NHS wait times, and preventing unauthorized boat crossings of the English Channel. While success was achieved in some areas, like hitting the inflation reduction goal, difficulties persist in other domains such as economic expansion and debt management.",
+        "question": "What led to the government's struggle in achieving the pledge to grow the economy?",
+        "choice_1": "Increased interest rates by the Bank of England.",
+        "choice_2": "Slow economic growth due to reduced spending.",
+        "choice_3": "Challenges in reducing debt as a proportion of GDP.",
+        "choice_4": "All of the above.",
+        "answer": 4
+    },
+    {
+        "id": 44,
+        "context": "Following Russia's military action in Ukraine, numerous nations have committed to ceasing or limiting their procurement of Russian oil and gas. The primary goals are to obstruct Moscow's military operations and diminish its income. These actions have profoundly affected Russia's energy industry, highlighted by the European Union and the United States enacting embargoes on Russian oil, and the United Kingdom prohibiting Russian crude and refined petroleum products. Consequently, the value of Russian oil has decreased, resulting in a daily loss of millions of dollars for Moscow in fossil fuel export earnings. In response, nations such as China, India, and Turkey have ramped up their acquisitions of Russian oil, as European nations explore different energy suppliers.",
+        "question": "What is the result of the bans on Russian oil imports by the EU and the US?",
+        "choice_1": "Russia has increased its oil prices to compensate for the loss of revenue.",
+        "choice_2": "European countries have become more reliant on Russian oil imports.",
+        "choice_3": "Moscow is losing out on millions of dollars daily from fossil fuel exports.",
+        "choice_4": "The US has released some of its strategic oil reserves to offset the impact.",
+        "answer": 3
+    },
+    {
+        "id": 45,
+        "context": "Officials in the United Kingdom have confirmed the absence of any intention to create secure passages for Sudanese refugees who do not hold British citizenship. Although the UNHCR's resettlement program is noted as a potential option for individuals facing significant danger, it serves only a minor fraction of the global refugee population. Currently, the UK's resettlement efforts are exclusively focused on individuals from Afghanistan, which means that for any other nationality, registration with the UNHCR does not offer a pathway into the UK.",
+        "question": "What is the result of the UK government's current position on safe routes for refugees from Sudan who are not British nationals?",
+        "choice_1": "Increased acceptance of refugees from Sudan under the UNHCR resettlement scheme.",
+        "choice_2": "Limited options for refugees from Sudan to seek asylum in the UK.",
+        "choice_3": "Expansion of safe and legal routes for refugees from Sudan.",
+        "choice_4": "Collaboration with the UNHCR to establish new resettlement programs.",
+        "answer": 2
+    },
+    {
+        "id": 46,
+        "context": "A parliamentary committee examining whether Boris Johnson deceived MPs about Downing Street gatherings during lockdown has received his written testimony. Johnson maintains that he and his staff at No 10 were under the impression that they were complying with Covid regulations and advice, despite contradictory evidence.",
+        "question": "What is the result of the WhatsApp messages exchanged between the director of communications and a No 10 official regarding the birthday gathering for Boris Johnson?",
+        "choice_1": "Boris Johnson's belief that rules and guidance were followed at all times.",
+        "choice_2": "Evidence that some officials were struggling to explain how the gathering was permitted.",
+        "choice_3": "The Metropolitan Police fining Boris Johnson and the current prime minister.",
+        "choice_4": "No suggestion that concerns were passed on to Boris Johnson.",
+        "answer": 2
+    },
+    {
+        "id": 47,
+        "context": "A scarcity of tomatoes and other salad produce is affecting the United Kingdom, with some observers blaming Brexit for the situation. In contrast, the government asserts that adverse weather conditions in Spain and North Africa, the regions from which the items are imported, are the main reason. Additional elements exacerbating the problem include the effects of elevated energy costs on British farmers, supermarket pricing policies, and the paperwork mandates from Brexit for bringing in plant-based goods from the EU.",
+        "question": "What is the primary cause of the current tomato shortages in the UK, according to the Spanish government?",
+        "choice_1": "Brexit paperwork requirements for importing plant products from the EU.",
+        "choice_2": "High energy prices affecting UK growers.",
+        "choice_3": "Poor weather in Spain and North Africa.",
+        "choice_4": "Impact of Brexit on seasonal farm workers.",
+        "answer": 3
+    },
+    {
+        "id": 48,
+        "context": "Amidst a surge of anti-migrant feelings in Tunisia, deceptive and inaccurate social media videos concerning migrants from sub-Saharan Africa have circulated extensively. The country's president, Kais Saied, has articulated worries that migration constitutes a scheme to alter Tunisia's demographic composition, which has resulted in the return of citizens to Ivory Coast and Guinea.",
+        "question": "What is the result of the false and misleading social media videos about migrants from sub-Saharan Africa in Tunisia being widely shared?",
+        "choice_1": "Increased awareness about the challenges faced by migrants in Tunisia.",
+        "choice_2": "Repatriation of nationals from Ivory Coast and Guinea.",
+        "choice_3": "President Kais Saied's concerns about migration being a \"plot\" to change Tunisia's demographic profile.",
+        "choice_4": "A decrease in anti-migrant sentiment in Tunisia.",
+        "answer": 2
+    },
+    {
+        "id": 49,
+        "context": "In the wake of the seismic event affecting Turkey and Syria, deceptive and erroneous material began to proliferate online. This included the dissemination of images and footage from unrelated past events, falsely claiming they depicted the devastation from the recent earthquake. Such deceptive content amassed millions of shares and views across various social media networks.",
+        "question": "What is the result of sharing false and misleading content online following natural disasters like the earthquake in Turkey and Syria?",
+        "choice_1": "Increased awareness and accurate information dissemination.",
+        "choice_2": "Confusion and misinformation among the public.",
+        "choice_3": "Improved emergency response efforts.",
+        "choice_4": "Enhanced social media engagement and interaction.",
+        "answer": 2
+    },
+    {
+        "id": 50,
+        "context": "In a nationwide speech, President Putin spoke to the Russian populace, presenting assertions regarding the Ukrainian conflict and denouncing Western nations. To rationalize Russia's military incursion, he put forth unfounded allegations about a \"neo-Nazi regime\" in Ukraine. His address also touched upon the state and progress of the Russian economy.",
+        "question": "What led to the redirection of Russian trade to countries like India and China?",
+        "choice_1": "President Putin's claims about the war in Ukraine.",
+        "choice_2": "Western countries imposing sanctions on Russia.",
+        "choice_3": "The contraction of the Russian economy.",
+        "choice_4": "President Zelensky's comments on Ukraine's nuclear capabilities.",
+        "answer": 2
+    },
+    {
+        "id": 51,
+        "context": "Allegations circulating online and in news media suggested that Russian President Vladimir Putin uses actors during public appearances. To verify these claims, facial recognition technology was utilized, concentrating on a blonde woman present at several of Putin's engagements. The analysis produced low similarity scores when comparing the woman's image from a New Year's event to her appearances at earlier functions, implying she was a different individual. Nevertheless, a subsequent inquiry successfully identified the people in question, which included the woman and several men in fishing attire.",
+        "question": "What led to the use of facial recognition software to investigate claims about actors surrounding Vladimir Putin at events?",
+        "choice_1": "Allegations of Russian President Putin posing with actors at events.",
+        "choice_2": "Low similarity scores for a blonde woman at multiple events with Putin.",
+        "choice_3": "Social media claims about actors at events with Putin.",
+        "choice_4": "Previous investigations by BBC Russian into Putin's events.",
+        "answer": 3
+    },
+    {
+        "id": 52,
+        "context": "After a missile strike inside its borders resulted in two fatalities, Poland elevated the alert level for its military. The event took place during a period when Russia was launching missile assaults against Ukraine, and Ukrainian air defenses were actively trying to intercept them. An investigation into the provenance of the missile that hit Poland is underway, with theories suggesting it might have been from an S-300 system.",
+        "question": "What led to the speculation that the missile that landed in Poland may have come from an S-300 system?",
+        "choice_1": "The presence of similar debris patterns on the missile fragment found at the scene.",
+        "choice_2": "The confirmation that both Russia and Ukraine possess S-300 weapons.",
+        "choice_3": "The analysis by defense experts suggesting the missile may be from an S-300 system.",
+        "choice_4": "The proximity of Belarus, where S-300 weapons have been deployed, to the location of the missile strike.",
+        "answer": 3
+    },
+    {
+        "id": 53,
+        "context": "A publication examines patterns of violent criminal activity throughout the United States, highlighting the rise in homicides during 2021 relative to the preceding year. Doubts have been raised about the dependability of the FBI's crime statistics, stemming from missing information and modifications to their methods for gathering data.",
+        "question": "What is the result of the incomplete data and changes in data collection methods on the reliability of the FBI's crime report?",
+        "choice_1": "Decrease in violent crime rates.",
+        "choice_2": "Increase in robbery rates.",
+        "choice_3": "Difficulty in identifying national trends in crime.",
+        "choice_4": "Decrease in the number of murders.",
+        "answer": 3
+    },
+    {
+        "id": 54,
+        "context": "In the days leading up to the US midterm elections, inaccurate and deceptive assertions have spread rapidly across the internet, undermining confidence in the integrity of the electoral system in crucial states. These allegations vary from accusations of meddling with voting equipment to doctored information regarding candidates.",
+        "question": "What is the result of the false and misleading claims about the US midterm elections going viral online?",
+        "choice_1": "Increased voter turnout in key states.",
+        "choice_2": "Decreased trust in the legitimacy of the voting process.",
+        "choice_3": "Higher approval ratings for political candidates.",
+        "choice_4": "Improved transparency in election procedures.",
+        "answer": 2
+    },
+    {
+        "id": 55,
+        "context": "Following the 2020 US presidential election, numerous states, predominantly those governed by Republicans, have enacted new limitations on voting. These modifications have drawn condemnation from Democrats, who contend that such measures alienate underprivileged groups and create obstacles for citizens attempting to vote.",
+        "question": "What is the result of the new voting restrictions introduced in many states across the US since the 2020 presidential election?",
+        "choice_1": "Increased voter turnout levels.",
+        "choice_2": "Decreased instances of voter fraud.",
+        "choice_3": "Disenfranchisement of marginalized communities.",
+        "choice_4": "Greater ease in casting ballots.",
+        "answer": 3
+    },
+    {
+        "id": 56,
+        "context": "The piece covers the government's 'levelling up' initiative, which is intended to lessen inequality tied to geographic location. It underscores the censure the program has received, given that a mere 10% of the committed funds have been utilized. Apprehensions were voiced by the Public Accounts Committee regarding the clarity of fund distribution and holdups in the finalization of projects.",
+        "question": "What led to the criticism faced by the government's levelling up schemes?",
+        "choice_1": "Lack of transparency in fund allocation.",
+        "choice_2": "Delays in project completion.",
+        "choice_3": "Only 10% of promised funding spent.",
+        "choice_4": "All of the above.",
+        "answer": 4
+    },
+    {
+        "id": 57,
+        "context": "A statement made by Nigel Farage on Twitter suggested that London, Birmingham, and Manchester have become cities with a minority white population, citing newly released census data from November 29, 2021. Nevertheless, an examination of this data indicates that his assertion is largely false, confirming that London maintains a white majority.",
+        "question": "What is the result of the analysis of the census data regarding the ethnic breakdown of London, Birmingham, and Manchester?",
+        "choice_1": "Nigel Farage's claim of minority white cities is accurate.",
+        "choice_2": "The ONS has decided to stop asking about nationality and birthplace in future censuses.",
+        "choice_3": "London still has a white majority despite Farage's claim.",
+        "choice_4": "The ONS has confirmed that white people are now a minority in London and Manchester.",
+        "answer": 3
+    },
+    {
+        "id": 58,
+        "context": "A statement from Health Minister Maria Caulfield, asserting that a 1% salary increase for nurses would amount to a £700m government expense, has triggered a debate about its factual basis. In reality, this financial projection encompasses a wider range of NHS employees in England, not exclusively nurses.",
+        "question": "What is the result of Health Minister Maria Caulfield's claim that a 1% rise in nurses' pay would cost the government £700m?",
+        "choice_1": "The Department of Health and Social Care clarified that the cost estimate applies to a larger group of NHS workers, not just nurses.",
+        "choice_2": "Health Secretary Steve Barclay accepted the recommendations of the independent NHS Pay Review Body to give nurses a pay rise of at least £1,400.",
+        "choice_3": "The cost of a 1% pay rise quoted by Ms Caulfield does not apply to nurses' pay alone but covers more than twice as many staff in the NHS in England.",
+        "choice_4": "Further pay increases for nurses would mean taking money away from frontline services at a time when record waiting lists are being tackled due to the pandemic.",
+        "answer": 1
+    },
+    {
+        "id": 59,
+        "context": "In Edinburgh, The Elephant House cafe, famously known as a writing spot for JK Rowling's Harry Potter series, is preparing to welcome customers again after being closed for three years due to a fire. The reopening process was held up because the proprietor of the building entered liquidation following the blaze. The renovation is projected to require £1m, and construction is anticipated to commence in the near future.",
+        "question": "What led to the delay in the reopening of The Elephant House cafe in Edinburgh?",
+        "choice_1": "The refurbishment cost of £1m.",
+        "choice_2": "The liquidation of the building's owner.",
+        "choice_3": "The opening of a second Elephant House cafe.",
+        "choice_4": "The salvaging and restoration of JK Rowling's writing table.",
+        "answer": 2
+    },
+    {
+        "id": 60,
+        "context": "The latest novel by author Jilly Cooper, titled 'Tackle!', drew its creative stimulus from her time spent at the League Two football club, Forest Green Rovers. In the story, the protagonist Rupert Campbell-Black explores the football scene after being appointed chairman of a local team. The book's characters and settings were shaped by Mrs. Cooper's engagement with the club's personnel and her experiences attending their games.",
+        "question": "What inspired Jilly Cooper's latest book, 'Tackle!'?",
+        "choice_1": "Rupert Campbell-Black's involvement in various sports.",
+        "choice_2": "Forest Green Rovers' promotion to the Football League.",
+        "choice_3": "The beauty of Forest Green Rovers and interactions with club members.",
+        "choice_4": "The excitement of football compared to other activities.",
+        "answer": 3
+    },
+    {
+        "id": 61,
+        "context": "The acclaimed poet Benjamin Zephaniah has died at the age of 65, leaving behind a legacy of significant influence on emerging poets and writers, especially within the black community. Tributes from those he motivated underscore his dynamic and impactful role within the world of poetry.",
+        "question": "What was the impact of Benjamin Zephaniah's energetic and captivating performances on aspiring poets and writers?",
+        "choice_1": "It led to increased interest in poetry and writing among young individuals.",
+        "choice_2": "It resulted in a surge of poetry collections being published.",
+        "choice_3": "It caused a decline in traditional forms of poetry.",
+        "choice_4": "It led to a decrease in poetry performances at festivals.",
+        "answer": 1
+    },
+    {
+        "id": 62,
+        "context": "Leicester's De Montfort University (DMU) commemorated the poet and activist Benjamin Zephaniah, who passed away at 65 after receiving an honorary doctorate from the institution in 2015. The university lauded his influence on its community, referring to him as a \"one-man national grid\" for his perpetual energy and noting the significant effect his lectures and creative writing discussions had on both faculty and learners.",
+        "question": "What was the impact of Benjamin Zephaniah's interactions with staff and students at De Montfort University?",
+        "choice_1": "Increased enrollment in creative writing courses.",
+        "choice_2": "Improved academic performance among students.",
+        "choice_3": "Enhanced sense of vocation and self-belief in creative making.",
+        "choice_4": "Expansion of the university's poetry department.",
+        "answer": 3
+    },
+    {
+        "id": 63,
+        "context": "The writer, poet, and actor Benjamin Zephaniah, celebrated for his impact on British literature, has died at the age of 65 following a brain tumor diagnosis. A native of Handsworth, Birmingham, Zephaniah was a trailblazer in the dub poetry movement and made substantial contributions across various media, including literature, music, television, and radio. His notable activism included his 2003 refusal of an OBE, a decision rooted in his opposition to the British Empire and its historical involvement in slavery.",
+        "question": "What led Benjamin Zephaniah to reject an OBE in 2003?",
+        "choice_1": "His association with the British Empire and its history of slavery.",
+        "choice_2": "His criminal record and past activism.",
+        "choice_3": "His desire to impress governments and monarchy.",
+        "choice_4": "His lack of interest in receiving honors and awards.",
+        "answer": 1
+    },
+    {
+        "id": 64,
+        "context": "A forecast of new books scheduled for publication in 2024 is presented in the article, encompassing a broad spectrum of categories and writers, including autobiographies by public figures, novels set in the past, and crime thrillers.",
+        "question": "What led to the publication of Gabriel Garcia Marquez's latest novel, \"Until August,\" after his death?",
+        "choice_1": "The decision of his sons to honor his wishes.",
+        "choice_2": "The demand from fans for a new novel.",
+        "choice_3": "The success of his previous works.",
+        "choice_4": "The change of heart by his sons to release the novel.",
+        "answer": 4
+    },
+    {
+        "id": 65,
+        "context": "Irish writer Paul Lynch received the 2023 Booker Prize for his novel \"Prophet Song.\" The narrative, set in a dystopian version of Ireland under totalitarian control, delves into themes of authoritarianism, family dynamics, and the disintegration of society. It was inspired by contemporary global events, particularly the war in Syria and the associated refugee crisis. The novel's profound impact and storytelling depth are evidenced by Lynch's careful composition process and the high praise it has garnered from critics.",
+        "question": "What led to Paul Lynch's inspiration for writing Prophet Song?",
+        "choice_1": "The Booker Prize 2023 nomination",
+        "choice_2": "The dystopian setting of Ireland in the novel",
+        "choice_3": "The Syrian war and refugee crisis",
+        "choice_4": "The critical acclaim for his previous works",
+        "answer": 3
+    },
+    {
+        "id": 66,
+        "context": "The 2023 Booker Prize was awarded to Irish writer Paul Lynch for his novel, Prophet Song. The book, which is set in a dystopian Ireland descending into totalitarianism, was influenced by the Syrian war and the resulting refugee situation. Lynch conveyed his happiness at bringing the distinguished prize home to Ireland.",
+        "question": "What inspired Paul Lynch to write his Booker Prize-winning novel Prophet Song?",
+        "choice_1": "Recent rioting and violence in Dublin.",
+        "choice_2": "The political situation in Ireland.",
+        "choice_3": "The Syrian war and refugee crisis.",
+        "choice_4": "The impact of reading while detained in Iran.",
+        "answer": 3
+    },
+    {
+        "id": 67,
+        "context": "A recent surge in candid, heartfelt celebrity autobiographies, such as Britney Spears's The Woman in Me and Matthew Perry's Friends, Lovers, and the Big Terrible Thing, is offering unprecedented glimpses into the lives of stars. These books provide a firsthand perspective on the celebrity mindset, dismantling conventional ideas about fame and forging a deeper bond between admirers and the immensely famous.",
+        "question": "What led to the surge in sales of Matthew Perry's Friends, Lovers, and the Big Terrible Thing following news of his death?",
+        "choice_1": "The raw candor in which Perry discussed his battle with addiction in the memoir.",
+        "choice_2": "The iconic role of Chandler Bing played by Perry on the sitcom Friends.",
+        "choice_3": "The personal insights into Perry's struggles and opinions on Hollywood in the memoir.",
+        "choice_4": "The collaboration between Perry and a ghostwriter to create a riveting narrative arc.",
+        "answer": 1
+    },
+    {
+        "id": 68,
+        "Context": "The esteemed British graphic novelist, Bryan Talbot, is scheduled to be honored with an induction into the Will Eisner Comic Awards Hall of Fame, acknowledging his substantial influence on the comics field. His professional path was ignited by a childhood fascination with comics, which evolved into a distinguished career creating graphic novels. Both his collaborative efforts with notable authors and his independent creations have received widespread critical praise and multiple awards. It is Talbot's unwavering commitment to narrative art within comics that has garnered him widespread industry recognition and numerous honors.",
+        "Question": "What led to Bryan Talbot's decision to create the graphic novel \"Alice In Sunderland\"?",
+        "Choice_1": "His move to Sunderland with his wife Mary.",
+        "Choice_2": "His childhood love for Beano and Dandy comics.",
+        "Choice_3": "The success of his graphic novel \"The Adventures of Luther Arkwright\".",
+        "Choice_4": "His collaboration with Neil Gaiman on the Sandman series.",
+        "answer": 1
+    },
+    {
+        "id": 69,
+        "context": "The television dating series 'Couple to Throuple' has initiated public discourse on the topics of polyamory and ethically non-monogamous relationships. The program's format involves established couples introducing a third individual into their dynamic to experience a polyamorous arrangement. This development is indicative of a wider societal movement embracing non-monogamous relationship structures, a trend also mirrored in popular media such as television, film, and literature.",
+        "question": "What is the result of the increasing cultural acceptance of polyamory and ethical non-monogamy?",
+        "choice_1": "A rise in dating shows exploring non-monogamous relationships.",
+        "choice_2": "More open discussions about alternative relationship models.",
+        "choice_3": "Increased skepticism and pushback from certain communities.",
+        "choice_4": "A decrease in traditional monogamous relationships.",
+        "answer": 2
+    },
+    {
+        "id": 70,
+        "context": "A new poem by Dame Carol Ann Duffy, the Scottish poet, pays tribute to Pat Dunn, a pioneer among female football referees from Dorset. The work, entitled \"We See You,\" acknowledges Dunn's groundbreaking contributions to refereeing for women. Despite qualifying as an official referee in 1967, Dunn was subject to a prohibition that prevented women from overseeing FA or league games, a rule that remained in place until 1976. The poem commemorates both Dunn's resilience and the advancements achieved in the field of women's football officiating.",
+        "question": "What led to the ban on women officiating at FA or league matches until 1976?",
+        "choice_1": "Pat Dunn's passing of the official referees' examination in 1967.",
+        "choice_2": "The recognition of Pat Dunn as one of the first qualified women referees.",
+        "choice_3": "The presentation of flowers to Pat Dunn by Jenny Vallins at a Sunday league game.",
+        "choice_4": "The FA's decision to reverse its ban on women officiating at matches.",
+        "answer": 4
+    },
+    {
+        "id": 71,
+        "context": "Since the 1980s, Jilly Cooper's risqué novels have garnered significant popularity in Britain, even counting Prime Minister Rishi Sunak as an admirer. Cooper's books have been broadly embraced and cherished, challenging the nation's reputation for being demure about sexual matters. Her most recent book, 'Tackle!', builds upon the triumphs of her earlier publications.",
+        "question": "What led to Jilly Cooper's success as one of Britain's most popular authors for the last four decades?",
+        "choice_1": "The explicit sexual content in her novels.",
+        "choice_2": "The positive portrayal of sex and relationships in her books.",
+        "choice_3": "The influence of other successful authors in the genre.",
+        "choice_4": "The relatable and human characters in her stories.",
+        "answer": 2
+    },
+    {
+        "id": 72,
+        "context": "The University of Hertfordshire is set to posthumously award a degree to Gboyega Odubanjo, a celebrated poet, who was discovered deceased after vanishing from a music festival. His family has conveyed their appreciation for the university's acknowledgement of his accomplishments and enduring impact.",
+        "question": "What led to Gboyega Odubanjo being awarded a posthumous degree by the University of Hertfordshire?",
+        "choice_1": "His disappearance at the Shambala Festival",
+        "choice_2": "His family's request for the degree",
+        "choice_3": "The completion of his creative work",
+        "choice_4": "The ongoing coroner's investigation",
+        "answer": 3
+    },
+    {
+        "id": 73,
+        "context": "After a fall where he hit his head, novelist Hanif Kureishi sustained injuries that permanently altered his life, resulting in paralysis. Despite these challenges, he has found a new sense of meaning by documenting his ordeal in remarkably candid blog posts, which allows him to connect with his audience. The event has deeply reshaped his perspective on existence and personal connections.",
+        "question": "What led Hanif Kureishi to reflect on the profound impact of his accident on his life and relationships?",
+        "choice_1": "His sense of purpose in connecting with his readers through blog posts.",
+        "choice_2": "The unexpected nature of his collapse and paralysis.",
+        "choice_3": "The realization of the randomness and cruelty of sudden accidents.",
+        "choice_4": "The transformation of his relationships due to his paralysis.",
+        "answer": 2
+    },
+    {
+        "id": 74,
+        "context": "An early edition Harry Potter book, originally acquired for a mere 13p close to three decades ago, recently fetched £11,000 at auction. This particular book, an uncorrected proof of Harry Potter and the Philosopher's Stone, was found at a used book store in 1997. The individual who sold it, having paid only 40p for it as part of a three-book deal, was taken aback by its substantial worth.",
+        "question": "What led to the significant increase in value of the first-edition Harry Potter novel sold at auction?",
+        "choice_1": "The seller's interest in second-hand bookshops.",
+        "choice_2": "The seller's decision to contact Harry Potter books expert Jim Spencer.",
+        "choice_3": "The book being an uncorrected proof copy of Harry Potter and the Philosopher's Stone.",
+        "choice_4": "The book mistakenly stating the author's name as \"JA Rowling\" instead of \"JK Rowling\".",
+        "answer": 3
+    },
+    {
+        "id": 75,
+        "context": "Citing the problematic ethical considerations surrounding its provenance and past, Harvard University has detached the human skin cover from a 19th-century volume titled 'Des Destinées de l'Ame'. The binding had been crafted using skin taken from a deceased female patient whose body was left unclaimed after she died from natural causes.",
+        "question": "What led Harvard University to remove the binding of human skin from the book Des Destinées de l'Ame?",
+        "choice_1": "The book's content on the soul and life after death.",
+        "choice_2": "The book's arrival at Harvard in 1934.",
+        "choice_3": "The note written by Dr. Bouland about the human skin binding.",
+        "choice_4": "The ethically fraught nature of the book's origins and subsequent history.",
+        "answer": 4
+    },
+    {
+        "id": 76,
+        "context": "A bookshop located in Haworth named Wave of Nostalgia, which concentrates on selling books related to women and inclusivity, has received the title of the premier independent book retailer in northern England. This recognition means the store is now a contender for the national Independent Bookshop of the Year Award.",
+        "question": "What led to Wave of Nostalgia being named the best independent book retailer in the north of England?",
+        "choice_1": "Specializing in books about women and inclusivity.",
+        "choice_2": "Being located on Haworth's main cobbled street.",
+        "choice_3": "Selling handmade clothes, gifts, and books.",
+        "choice_4": "Affiliating as a specialist bookshop in 2021.",
+        "answer": 1
+    },
+    {
+        "id": 77,
+        "context": "Celebrated author Toni Morrison deliberately directed her literary works toward an African American audience, which she felt was essential for discovering her authentic voice. Her novels explored the intricate themes of identity, race, and history, conveyed through captivating language and a profound sense of humanity. This commitment to writing for a black readership was shaped by her early life encounters with racial prejudice and violence, alongside the vibrant narrative customs of her upbringing.",
+        "question": "What led Toni Morrison to write for her \"neighbourhood\" and consciously target a black American audience?",
+        "choice_1": "Her desire to explore the complexities of identity, race, and history.",
+        "choice_2": "Her childhood experiences of racial violence and discrimination.",
+        "choice_3": "Her passion for literature and gift for writing.",
+        "choice_4": "Her meeting and marrying Jamaican-born architect Harold Morrison.",
+        "answer": 2
+    },
+    {
+        "id": 78,
+        "context": "The esteemed writer Maryse Condé, renowned for her extensive novels that delve into the lasting effects of slavery and colonialism across Africa and the Caribbean, has died at 90 years old. For her exacting and powerful depictions of colonialism and the chaos that follows, she was awarded the New Academy Prize in Literature in 2018, a substitute for the Nobel Prize in Literature.",
+        "question": "What led to Maryse Condé winning the New Academy Prize in Literature in 2018?",
+        "choice_1": "Her epic novels addressing the legacy of slavery and colonialism.",
+        "choice_2": "Her marriage to Guinean actor Mamadou Condé.",
+        "choice_3": "Her move to study at the Sorbonne in Paris.",
+        "choice_4": "Her autobiography, Windward Heights.",
+        "answer": 1
+    },
+    {
+        "id": 79,
+        "context": "To manage the sorrow of his mother's passing in 2021, Mckenzy Dominy, a sixteen-year-old from Merthyr Tydfil, began writing creatively. His efforts resulted in a published novel, \"Why the Good Die Young,\" which is a supernatural tale about the afterlife featuring characters drawn from his personal experiences.",
+        "question": "What led Mckenzy Dominy to start writing his novel \"Why the Good Die Young\"?",
+        "choice_1": "His love for creative writing as a child.",
+        "choice_2": "The unexpected death of his mother in 2021.",
+        "choice_3": "The desire to become a successful author.",
+        "choice_4": "The opportunity to apply for an Amazon grant.",
+        "answer": 2
+    },
+    {
+        "id": 80,
+        "context": "A group of writers, featuring prominent names like Sir Michael Morpurgo and Malorie Blackman, has penned a public appeal requesting that the government allocate funds for reading initiatives aimed at young children. Their letter underscores the insufficient book availability and assistance for children from households with limited financial means, stressing how crucial reading is for surmounting socioeconomic barriers.",
+        "question": "What is the result of the lack of access to books and support for children from low-income families, according to the open letter signed by authors?",
+        "choice_1": "Decreased interest in reading among children.",
+        "choice_2": "Increased financial divisions in the country.",
+        "choice_3": "Higher literacy standards for children.",
+        "choice_4": "Deprivation of a rich reading life for children from poorer backgrounds.",
+        "answer": 4
+    },
+    {
+        "id": 81,
+        "context": "Middlesbrough-based illustrator Sally Agar, from Teesside, has received a nomination for the Waterstones Children's Book Prize for her contributions to 'The Queen Next Door', which she created alongside Marcela Ferreira. The book's content is inspired by Agar's hometown, and its ornamental details are shaped by her passion for patterns and the North Yorkshire landscape. Being shortlisted for the award is a thrilling experience for Agar, as 'The Queen Next Door' marks her debut as a picture book illustrator.",
+        "question": "What is the result of Sally Agar's love of pattern and inspiration from her environment in creating The Queen Next Door?",
+        "choice_1": "Shortlisted for the Waterstones Children's Book Prize.",
+        "choice_2": "Moved to North Yorkshire after living in Stockholm.",
+        "choice_3": "Started illustrating children's books.",
+        "choice_4": "Won the Waterstones Children's Book Prize.",
+        "answer": 1
+    },
+    {
+        "id": 82,
+        "context": "Author Jilly Cooper has been awarded a damehood in the New Year Honours List, recognizing her services to literature and philanthropy. Cooper, who is celebrated for her 'bonkbuster' books, conveyed her delight and thankfulness for the honour, which also commends her charitable activities.",
+        "question": "What is the result of Jilly Cooper being made a dame in the New Year Honours List?",
+        "choice_1": "Recognition of her contributions to literature and charity.",
+        "choice_2": "Increased interest in her Rutshire Chronicles series.",
+        "choice_3": "Adaptation of her work for the screen.",
+        "choice_4": "Establishment of new literary awards.",
+        "answer": 1
+    },
+    {
+        "id": 83,
+        "context": "The Nero Gold Prize Book of the Year has been awarded to Irish writer Paul Murray for his fourth book, titled The Bee Sting. This novel delves into the consequences of the Irish banking crisis after 2008 on a family from the middle class. The judging committee commended the work for its ambition, narrative skill, cleverness, and compassion.",
+        "question": "What led to Paul Murray winning the Nero Gold Prize Book of the Year for his novel, The Bee Sting?",
+        "choice_1": "The impact of the post-2008 Irish banking crisis on a middle-class Irish family.",
+        "choice_2": "The ambition and entrancing storytelling of the novel.",
+        "choice_3": "The inspiration taken from Brexit and the pandemic.",
+        "choice_4": "The individual compelling and gripping story arcs of the family members in the novel.",
+        "answer": 2
+    },
+    {
+        "id": 84,
+        "context": "At her upcoming concerts in Miami, the singer Pink has declared her intention to distribute 2,000 complimentary copies of books that certain Florida schools have prohibited. Her action is a direct response to the purging of literature dealing with sexual content, as well as themes of sexuality, gender identity, and race, from school libraries and classrooms within Florida. To tackle the state's book banning issue, Pink is collaborating with Pen America, an organization that defends authors' freedom of expression.",
+        "question": "What led to Pink's decision to give away banned books at her concerts in Florida?",
+        "choice_1": "Increased demand for banned books in Florida.",
+        "choice_2": "Collaboration with Pen America to defend freedom of expression.",
+        "choice_3": "Removal of books with sexual content and themes of sexuality, gender identity, and race from libraries and classrooms in Florida.",
+        "choice_4": "Florida's Department of Education denying book bans.",
+        "answer": 3
+    },
+    {
+        "id": 85,
+        "context": "In October, the transport firm Nexus initiated a competition for National Poetry Day, offering poets a chance to feature their work at Newcastle's Longbenton station. Currently, the triumphant submissions, which include the poem 'Crossing to Lindisfarne' by Claire Lynn, are exhibited on the station's platforms. This project's purpose is to introduce poetry into unconventional public locations, like railway stations.",
+        "question": "What led to the display of poetry at Longbenton station in Newcastle?",
+        "choice_1": "The launch of a National Poetry Day competition by Nexus.",
+        "choice_2": "Claire Lynn's 'Crossing to Lindisfarne' poem being selected as the overall winner.",
+        "choice_3": "The pandemic-inspired poetry displayed at the station in 2021.",
+        "choice_4": "The hope to inspire travellers to read and write more poetry.",
+        "answer": 1
+    },
+    {
+        "id": 86,
+        "context": "The movie adaptation of Alasdair Gray's novel, \"Poor Things,\" has received widespread praise and multiple awards. Directed by Yorgos Lanthimos, the film has generated discussion by relocating the story's setting from Glasgow to imaginative versions of Lisbon, Paris, and London. Nevertheless, Andrew, the son of Alasdair Gray, feels that the cinematic version honored the original book and has successfully highlighted his father's literary contributions.",
+        "question": "What led to the increased international attention on Alasdair Gray's work?",
+        "choice_1": "The film adaptation of \"Poor Things\" winning awards and critical acclaim.",
+        "choice_2": "The change in setting from Glasgow to futuristic versions of Paris, Lisbon, and London.",
+        "choice_3": "The sale of one of Gray's artworks for a record amount at auction.",
+        "choice_4": "The National Library of Scotland holding Gray's literary archive.",
+        "answer": 1
+    },
+    {
+        "id": 87,
+        "context": "A new novel by retired general practitioner Dr. David John, titled 'Harriet's Eternal Tears', draws its inspiration from the World War One experiences of his grandfather, Emrys John. All profits from the book are designated for Combat Stress, a mental health charity dedicated to assisting veterans suffering from PTSD. Emrys John's military service was with the XI Corps, Cyclist Battalion, in locations including Italy and Northern France throughout the war.",
+        "question": "What led Dr. David John to write the novel 'Harriet's Eternal Tears'?",
+        "choice_1": "His grandfather's experiences in World War One.",
+        "choice_2": "The need to raise funds for the Combat Stress mental health charity.",
+        "choice_3": "The lack of support for veterans with PTSD from the local NHS psychiatric service.",
+        "choice_4": "The emotional reaction of a mother to losing her son in war.",
+        "answer": 1
+    },
+    {
+        "id": 88,
+        "context": "A quarter of a century following the 1998 death of poet Ted Hughes, his widow, Carol Hughes, has gifted a compilation of his writings, correspondence, photos, and art to the Heritage Quay archive at the University of Huddersfield. The contribution features a variety of uncommon and special-edition pieces.",
+        "question": "What is the result of Carol Hughes' donation of Ted Hughes' collection to the University of Huddersfield?",
+        "choice_1": "Increased interest in Ted Hughes' poetry.",
+        "choice_2": "Establishment of Heritage Quay as a leading international Hughes collection.",
+        "choice_3": "Enhancement and complementation of existing collections at the Ted Hughes Research Network.",
+        "choice_4": "Public display of the donated works next year.",
+        "answer": 3
+    },
+    {
+        "id": 89,
+        "context": "Following the 2021 expiration of the UK copyright on George Orwell's writings, his celebrated books \"1984\" and \"Animal Farm\" were reinterpreted by authors Adam Biles and Sandra Newman. These literary works were reframed from a modern viewpoint, investigating alternate perspectives and addressing elements not covered in Orwell's original stories.",
+        "question": "What prompted the reimagining of George Orwell's \"1984\" and \"Animal Farm\" by writers Adam Biles and Sandra Newman?",
+        "choice_1": "The expiration of UK copyright for Orwell's work in 2021.",
+        "choice_2": "The desire to create sequels to Orwell's original novels.",
+        "choice_3": "The need to explore new perspectives and fill narrative gaps.",
+        "choice_4": "The intention to challenge Orwell's political purpose.",
+        "answer": 3
+    },
+    {
+        "id": 90,
+        "context": "A writer from Harlow, Essex, named Imogen Wade, secured victory in the National Poetry Competition for a piece inspired by her actual abduction in New York. The surprising £5,000 prize reminded her of a mugging she endured at nineteen, leading her to feel that she had at last derived a benefit from the ordeal. Wade responded to her win with astonishment and awkwardness, confessing she had completely 'blanked out' during the call notifying her of the award.",
+        "question": "What led Imogen Wade to feel like she had finally profited from being mugged at 19?",
+        "choice_1": "Winning the National Poetry Competition.",
+        "choice_2": "Being inspired by her grandfather and William Butler Yeats.",
+        "choice_3": "Working as a therapist.",
+        "choice_4": "Submitting her poem to The Poetry Society.",
+        "answer": 1
+    },
+    {
+        "id": 91,
+        "context": "Hannah Ritchie, a data scientist who previously held a pessimistic view on the future of humanity due to environmental issues, has shifted to a more hopeful outlook on achieving sustainability. Her change in perspective is attributed to encountering the work of Hans Rosling and observing encouraging signs of cautious optimism within environmental statistics. Ritchie underscores the crucial role of technology in realizing a more environmentally friendly future and points to favorable developments, like the fact that various pollution metrics have reached their peak.",
+        "question": "What prompted data scientist Hannah Ritchie to change her mind about humanity's future, and why does she believe \"doomist\" predictions do not inspire action?",
+        "choice_1": "Discovering the work of Hans Rosling and seeing signs of cautious optimism in environmental data.",
+        "choice_2": "The passing of peak pollution in various metrics and the falling cost of low carbon energy.",
+        "choice_3": "The lack of investment in clean technologies by fossil fuel companies and the levels of energy poverty in the world.",
+        "choice_4": "The belief that it is too late to address climate change and the idea that individual behavior change is ineffective.",
+        "answer": 1
+    },
+    {
+        "id": 92,
+        "context": "Initiatives are underway to rehabilitate California's redwood forests, which hold the largest amount of aboveground carbon of any forest worldwide. With only 5% of these forests remaining in their original, unlogged state, projects such as Redwoods Rising are dedicated to their recovery. These restoration activities are accelerating as the effects of climate change in the area become more pronounced.",
+        "question": "What is the result of the increasing impacts of climate change in the region on the restoration efforts for California's redwood forests?",
+        "choice_1": "Increased urgency and momentum in the restoration efforts.",
+        "choice_2": "Decreased focus on carbon storage in the forests.",
+        "choice_3": "Delay in the implementation of restoration programs.",
+        "choice_4": "Reduced interest from stakeholders in the restoration projects.",
+        "answer": 1
+    },
+    {
+        "id": 93,
+        "context": "The first-ever transatlantic commercial flight powered exclusively by biofuel, which was derived from plant sugars and waste fats, has been successfully completed by Virgin Atlantic. This type of fuel, known as Sustainable Aviation Fuel (SAF), is considered a more environmentally friendly alternative to traditional fossil-based jet fuels. Nevertheless, its large-scale production faces challenges, primarily due to the substantial quantity of biomass necessary to meet the demands of the entire aviation sector. Opponents also suggest that the continuous expansion of the airline industry could potentially offset any ecological gains achieved by transitioning to SAF.",
+        "question": "What is the potential issue with scaling up the production of Sustainable Aviation Fuel (SAF) for the aviation industry?",
+        "choice_1": "Limited availability of waste biomass for SAF production.",
+        "choice_2": "Challenges in obtaining a special permit for using SAF in commercial flights.",
+        "choice_3": "Concerns about the safety of using biofuels in commercial jets.",
+        "choice_4": "Competition for land and the vast amount of biomass required for SAF production.",
+        "answer": 4
+    },
+    {
+        "id": 94,
+        "context": "The piece examines the increasing popularity of purchasing pre-owned clothing, known as \"thrifting,\" as an eco-friendly option instead of fast fashion. A growing number of consumers are choosing second-hand stores to lessen their ecological footprint and support the sustainability movement. A notable surge in revenue from charity retailers has been noted by the Charity Retail Association, which they connect to the heightened public interest in sustainable apparel.",
+        "question": "What is the result of the increasing interest in sustainable fashion and \"thrifting\" among shoppers?",
+        "choice_1": "Decrease in greenhouse gas emissions from the fashion industry.",
+        "choice_2": "Growth in sales from charity shops.",
+        "choice_3": "Reduction in water and air pollution caused by fast fashion.",
+        "choice_4": "Improvement in working conditions in the fashion industry.",
+        "answer": 2
+    },
+    {
+        "id": 95,
+        "context": "As a result of increasing temperatures, Sweden is experiencing a reduction in its natural snowfall, which negatively impacts skiing. To address this issue, the nation has constructed indoor ski facilities, like the Torsby Ski Tunnel, enabling skiing to be available throughout the entire year.",
+        "question": "What led to the construction of indoor ski tunnels like the Torsby Ski Tunnel in Sweden?",
+        "choice_1": "Decrease in natural snow due to rising temperatures.",
+        "choice_2": "Lack of interest in outdoor skiing.",
+        "choice_3": "Increased availability of artificial snow.",
+        "choice_4": "Competition from other skiing resorts.",
+        "answer": 1
+    },
+    {
+        "id": 96,
+        "context": "A housing project proposal in Cricklade, which included the construction of up to 140 new residences at Stones Farm, was refused by Wiltshire Council. The decision was based on apprehensions regarding infrastructure and sustainability, overriding the argument that the development would satisfy local housing demands.",
+        "question": "What led to the rejection of the housing plans in Cricklade by Wiltshire Council?",
+        "choice_1": "Concerns over potential loss of agricultural land.",
+        "choice_2": "Lack of adequate provision for necessary infrastructure.",
+        "choice_3": "Objections from Cricklade Parish Council.",
+        "choice_4": "Issues relating to biodiversity in a previous application.",
+        "answer": 2
+    },
+    {
+        "id": 97,
+        "context": "The state of Florida is grappling with a significant challenge in the Everglades due to invasive Burmese pythons, which are responsible for severely reducing the population of native wildlife. In response to this issue, Florida has initiated a program that offers financial rewards to bounty hunters for the capture and removal of these snakes.",
+        "question": "What led to the implementation of a program that pays bounty hunters to catch invasive Burmese pythons in Florida?",
+        "choice_1": "The decrease in native wildlife population in the Everglades.",
+        "choice_2": "The introduction of the Burmese pythons through the exotic wildlife trade.",
+        "choice_3": "The success of the program in capturing and euthanizing pythons.",
+        "choice_4": "The need for a multifaceted approach to eradicate the invasive species.",
+        "answer": 1
+    },
+    {
+        "id": 98,
+        "context": "Residing on the small Caribbean isle of Gardi Sugdub, the Indigenous Guna community is confronted with the prospect of being among the initial climate change refugees in the Americas. The island has become unlivable due to escalating sea levels and overpopulation, prompting its inhabitants to arrange a move to a new settlement on the mainland.",
+        "question": "What led to the decision for the Guna people to abandon their island home of Gardi Sugdub and relocate to a new community on the mainland?",
+        "choice_1": "The destruction of nearby coral reefs and overcrowding on the island.",
+        "choice_2": "The lack of access to clean water and poor hygienic conditions on the island.",
+        "choice_3": "The rising sea levels and flooding on the island, making it uninhabitable.",
+        "choice_4": "The historical resistance of the Guna people to forced assimilation and cultural preservation.",
+        "answer": 3
+    },
+    {
+        "id": 99,
+        "context": "As one of the nations most susceptible to the effects of climate change, Bangladesh frequently endures natural calamities including cyclones, floods, and storm surges. According to government projections, climate change will cause the displacement of 13.3 million citizens by the year 2050. To assist these climate refugees, programs are being put in place that focus on constructing durable housing and creating employment prospects.",
+        "question": "What led to the need for Bangladesh to support climate refugees by building resilient homes and providing job opportunities?",
+        "choice_1": "The frequent natural disasters like cyclones, floods, and storm surges in Bangladesh.",
+        "choice_2": "The government's estimate that 13.3 million Bangladeshis will be displaced due to climate change by 2050.",
+        "choice_3": "The initiatives to economically empower displaced families and provide stable housing.",
+        "choice_4": "The lack of international funding for loss and damage in vulnerable countries.",
+        "answer": 1
+    },
+    {
+        "id": 100,
+        "context": "A method of activism known as craftivism, which employs crafting as a gentle form of protest, is becoming increasingly widespread within the climate movement. This approach, born from the fusion of craft and activism, provides a contemplative and non-aggressive means to tackle societal and environmental concerns. The movement has experienced considerable expansion, evidenced by organizations such as the Craftivist Collective growing their international presence and earning acknowledgment from influential individuals. Its capacity to engage multiple generations and initiate dialogue establishes craftivism as an effective instrument for heightening awareness and fostering societal transformation.",
+        "question": "What led to the growth and popularity of craftivism in addressing social and environmental issues?",
+        "choice_1": "The rise of social media platforms promoting craftivism.",
+        "choice_2": "The increasing demand for non-confrontational and reflective forms of activism.",
+        "choice_3": "The endorsement of craftivism by prominent figures like Christiana Figueres.",
+        "choice_4": "The availability of craft materials and workshops for people of all ages.",
+        "answer": 2
+    },
+    {
+        "id": 101,
+        "context": "In Lapland, reindeer are vital for the protection of the Arctic ecosystem. By controlling the expansion of shrubs, they uphold the albedo effect, which aids in reflecting heat away from the Earth. It has been discovered that their grazing practices mitigate the progression of climate change in that area.",
+        "question": "What is the result of reindeer grazing on the Arctic landscape in terms of climate change mitigation?",
+        "choice_1": "Increased CO2 emissions due to shrub growth.",
+        "choice_2": "Accelerated snowmelt in the spring.",
+        "choice_3": "Preservation of the tundra habitat.",
+        "choice_4": "Reduction of surface heating through the albedo effect.",
+        "answer": 4
+    },
+    {
+        "id": 102,
+        "context": "The text examines the significance of selecting appropriate footwear and outlines methods for extending its lifespan for many years. It underscores the durability of high-quality, properly cared-for shoes, citing examples such as Princess Kate's riding boots and various anecdotes. Additionally, the article explores eco-friendly habits like renting, mending, and recycling footwear as ways to minimize ecological harm and curb overproduction.",
+        "question": "What led to the opening of a repair and recycling project store by French sneaker brand Veja in Bordeaux?",
+        "choice_1": "The increasing demand for sustainable footwear options.",
+        "choice_2": "The desire to extend the life cycle of shoes and reduce waste.",
+        "choice_3": "The need to provide discounted Veja prototypes to customers.",
+        "choice_4": "The lack of recycling options for shoes in the US.",
+        "answer": 2
+    },
+    {
+        "id": 103,
+        "context": "A Christmas tree recycling initiative by Longfield Hospice has generated funds exceeding £68,000 from the collection of almost 4,000 trees across households in Stroud, Cirencester, and Gloucester. The proceeds are designated to support the hospice's services for patients with terminal illnesses. Separately, in Somerset, Noah's Ark Zoo Farm was given roughly 2,000 Christmas trees for the enjoyment of its animals.",
+        "question": "What is the result of Longfield Hospice's Christmas tree recycling scheme raising over £68,000?",
+        "choice_1": "Increased donations to other local charities.",
+        "choice_2": "Creation of a forest of Christmas trees at Noah's Ark Zoo Farm.",
+        "choice_3": "Support for patients with life-limiting conditions and their families.",
+        "choice_4": "Higher recycling collection rates by North Somerset Council.",
+        "answer": 3
+    },
+    {
+        "id": 104,
+        "context": "By developing solar farms on their own territories, Native American tribes are asserting control over their energy resources. This endeavor is intended to supply electricity to populations that have historically been without it and to foster economic growth through ventures in renewable energy.",
+        "question": "What led Native Americans to take control of their energy sources and build solar farms on tribal land?",
+        "choice_1": "Lack of access to basic power on reservations.",
+        "choice_2": "The success of the Dakota Access Pipeline protests.",
+        "choice_3": "The availability of renewable energy incentives from the government.",
+        "choice_4": "The desire to transition to renewables and achieve energy sovereignty.",
+        "answer": 4
+    },
+    {
+        "id": 105,
+        "context": "A primary school in Cornwall, Sir Robert Geffery's, has earned a finalist spot in a sustainable farming contest because of its 'no dig' method for vegetable cultivation. This approach involves gathering manure from the school's farm animals and utilizing cardboard to outline vegetable plots, which prevents soil disturbance and helps keep nutrients intact. The event is run by the charity Linking Environment and Farming (Leaf) with the aim of encouraging environmentally friendly vegetable cultivation practices.",
+        "question": "What is the result of Sir Robert Geffery's primary school's 'no dig' approach to growing vegetables?",
+        "choice_1": "Increased crop yields due to soil disturbance.",
+        "choice_2": "Higher energy consumption from digging.",
+        "choice_3": "Retention of nutrients in the soil.",
+        "choice_4": "Decreased compost production.",
+        "answer": 3
+    },
+    {
+        "id": 106,
+        "context": "Researchers are revealing the mysteries of the Amazon rainforest, highlighted by the finding of a forgotten city and the existence of Amazonian dark earth (ADE). This highly productive soil, developed by early indigenous groups, is a potent mixture of organic and inorganic substances that improves the land and still facilitates agriculture in the area. Functioning as a carbon sink, the carbon-dense ADE sequesters carbon in the ground, thereby slowing its emission into the atmosphere.",
+        "question": "What is the result of the carbon-rich Amazonian dark earth (ADE) acting as a carbon sink?",
+        "choice_1": "Increased soil fertility and crop yields in the Amazon.",
+        "choice_2": "Delayed release of carbon into the atmosphere.",
+        "choice_3": "Preservation of ancient artifacts in the rainforest.",
+        "choice_4": "Accelerated climate change in the Amazon.",
+        "answer": 2
+    },
+    {
+        "id": 107,
+        "context": "Urban centers across the globe are starting to remove concrete and asphalt, a practice called depaving, to substitute them with soil and plant life. The objective of this movement is to mitigate flooding, expand green areas, and enhance city landscapes. Depaving is being incorporated by certain municipalities into their climate resilience plans, acknowledging the value of establishing more natural environments within urban settings.",
+        "question": "What is the result of cities adopting depaving as part of their climate adaptation strategies?",
+        "choice_1": "Increased investment in new infrastructure.",
+        "choice_2": "Reduction in flooding during heavy rain.",
+        "choice_3": "Improved accessibility for people with impaired vision or mobility issues.",
+        "choice_4": "Greater availability of off-street parking spaces.",
+        "answer": 2
+    },
+    {
+        "id": 108,
+        "context": "The text examines the widespread appeal and influence of the \"climate stripes\" graphic, a visual tool that has been adopted by campaigners, news organizations, and prominent personalities to promote understanding of climate change. This image has appeared on a multitude of platforms, achieving worldwide recognition due to its straightforward yet powerful method of illustrating the increase in global temperatures caused by global warming.",
+        "question": "What led to the widespread recognition and use of the \"climate stripes\" image in various forms of media and public platforms?",
+        "choice_1": "The endorsement of the image by Greta Thunberg and other prominent activists.",
+        "choice_2": "The simplicity and effectiveness of the design in conveying the message of rising temperatures.",
+        "choice_3": "The involvement of cycling events and music festivals in promoting climate change awareness.",
+        "choice_4": "The partnership with TV meteorologists and reporters in over 100 countries to promote the image.",
+        "answer": 2
+    },
+    {
+        "id": 109,
+        "context": "The piece examines proven, cost-effective strategies for maintaining warmth in residences, particularly when temperatures drop. It underscores the effects of energy poverty on people and emphasizes the necessity of ensuring homes are heated sufficiently.",
+        "question": "What led to the creation of the Warm Home Prescription service in the UK?",
+        "choice_1": "The rising cost of housing and energy relative to people's incomes.",
+        "choice_2": "The need to assist households in heating their homes adequately.",
+        "choice_3": "The lack of affordable heating options for vulnerable populations.",
+        "choice_4": "The success of budget heating hacks in reducing energy costs.",
+        "answer": 2
+    },
+    {
+        "id": 110,
+        "context": "Due to racial discrimination and inequitable access to natural areas, individuals from ethnic minorities and communities of color tend to have less engagement with the outdoors. A number of organizations are actively trying to resolve this disparity, aiming to ensure that the advantages of nature are available to everyone equally.",
+        "question": "What is the result of historical racism and exclusion in the outdoors, according to KangJae \"Jerry\" Lee?",
+        "choice_1": "Increased diversity in outdoor organizations.",
+        "choice_2": "Limited access to green spaces for people of color.",
+        "choice_3": "Improved cognitive function and mental health.",
+        "choice_4": "Development of grassroots communities for outdoor activities.",
+        "answer": 2
+    },
+    {
+        "id": 111,
+        "context": "Floating houses engineered by the Manobo indigenous group in the Philippines enable them to prosper in wetland environments by resisting floods and storms. Their traditional methods have captured the interest of researchers, who see them as possible strategies for other populations confronting severe weather events caused by climate change.",
+        "question": "What led researchers to take interest in the traditional practices of the Manobo indigenous community in the Philippines?",
+        "choice_1": "The community's reliance on fishing for livelihood.",
+        "choice_2": "The community's spiritual and cultural practices.",
+        "choice_3": "The community's ability to adapt to changing landscapes.",
+        "choice_4": "The community's development of floating homes to withstand floods and storms.",
+        "answer": 4
+    },
+    {
+        "id": 112,
+        "context": "Known for its detrimental effect on the environment, the fashion sector's manufacturing phase is especially problematic. The creation of leather, for instance, is identified as a major source of greenhouse gases and involves hazardous substances. In response, the fashion industry is seeing the rise of novel, environmentally friendly substitutes derived from fungi, cacti, pineapple leaves, and similar origins. The purpose of these new materials is to lessen the ecological footprint of apparel manufacturing and provide consumers with sustainable choices.",
+        "question": "What is the result of the emergence of innovative materials made from fungi, cacti, pineapple leaves, and other sources in the fashion industry?",
+        "choice_1": "Increased greenhouse gas emissions from leather production.",
+        "choice_2": "A shift towards more sustainable fabrics and materials in fashion.",
+        "choice_3": "A decrease in consumer awareness of the environmental impact of clothing.",
+        "choice_4": "A rise in the use of harmful chemicals in clothing manufacturing.",
+        "answer": 2
+    },
+    {
+        "id": 113,
+        "context": "In the Halipuu Forest in Finland, the World Tree Hugging Championships serve the dual purpose of fostering a connection between people and the natural world while safeguarding the forest from logging. The competition, which sees contestants embrace trees using various styles, seeks to cultivate a more profound respect for nature.",
+        "question": "What led to the creation of the World Tree Hugging Championships in Finnish Lapland?",
+        "choice_1": "The desire to host a quirky competition in the forest.",
+        "choice_2": "The need to generate income from the forest without cutting down trees.",
+        "choice_3": "The family's tradition of hugging trees for good luck.",
+        "choice_4": "The intention to help people reconnect with nature and protect the forest.",
+        "answer": 4
+    },
+    {
+        "id": 114,
+        "context": "In South America's Atlantic Forest, digital surveillance instruments are being employed to safeguard wildlife against illegal hunting. To better anticipate poaching hotspots and make ranger patrols more effective, researchers are investigating novel techniques like the creation of sound-based maps.",
+        "question": "What led researchers to use acoustic monitoring methods to map poaching hotspots in the Iguazu National Parks?",
+        "choice_1": "Increased deforestation and incursions by roads and agriculture.",
+        "choice_2": "The need to improve ranger patrols and predict poaching activity.",
+        "choice_3": "The decline in the jaguar population in the Iguazu parks.",
+        "choice_4": "The use of Smart technology by park rangers.",
+        "answer": 2
+    },
+    {
+        "id": 115,
+        "context": "Following Russia's invasion, Ukraine's pursuit of environmental justice has encompassed legal actions, artistic expression, and the safeguarding of threatened wildlife like the sandy blind mole-rat. A major ecological catastrophe, the Kakhovka disaster, stemmed from the failure of a dam in a Russian-controlled area, resulting in extensive environmental harm and a decrease in biodiversity. Even with persistent obstacles, Ukraine is actively seeking environmental accountability and justice for acts of ecocide.",
+        "question": "What led to Ukraine's push for the international recognition of ecocide?",
+        "choice_1": "The collapse of the Kakhovka dam in a region occupied by Russia.",
+        "choice_2": "The loss of biodiversity due to the Kakhovka disaster.",
+        "choice_3": "The involvement of environmentalists in post-war reconstruction efforts.",
+        "choice_4": "The need for long-term environmental reparations and recovery.",
+        "answer": 1
+    },
+    {
+        "id": 116,
+        "context": "Dr. Georgina Gough has been selected by the University of the West of England (UWE) in Bristol to be the professor of education for sustainable development, a position created to spearhead sustainability efforts. The new professorship is designed to embed sustainability across UWE's curriculum, research, and educational practices, building on a recent initiative that launched a no-cost climate course driven by student requests. This appointment underscores UWE's dedication to maintaining a leading position in the field of sustainable development education.",
+        "question": "What led to the creation of the new role of professor of education for sustainable development at UWE?",
+        "choice_1": "Introduction of a free climate course",
+        "choice_2": "Dr. Gough's passion for making society better through education",
+        "choice_3": "UWE's commitment to integrating sustainability into teaching and research",
+        "choice_4": "Student demands for more education on sustainability and climate change",
+        "answer": 4
+    },
+    {
+        "id": 117,
+        "context": "In an initiative to mitigate worldwide electronic waste, Fairphone has engineered a sustainable smartphone that users can fix on their own. The organization's objective is to prolong the usable life of smartphones and curtail e-waste by designing repairable and adaptable devices. Although Fairphone utilizes recycled materials and ethically sourced gold and silver in its products, it still encounters difficulties with sourcing sustainable components and lessening its environmental footprint.",
+        "question": "What led to the push for legislation in the US to give consumers the right to repair their own electronics?",
+        "choice_1": "The increasing demand for portable devices and smartphones.",
+        "choice_2": "The high price tag of sustainable smartphones like Fairphone.",
+        "choice_3": "The difficulty in recycling smartphones due to their complex design.",
+        "choice_4": "The need to combat throwaway culture and promote repairability.",
+        "answer": 4
+    },
+    {
+        "id": 118,
+        "context": "A European initiative is detailed in the article, focusing on the removal of dams to re-establish the natural flow of rivers and reconnect them. The text points out the advantages of this action, including the resurgence of fish species, enhanced ecological well-being, and new possibilities for tourism. This process of dismantling dams is presented as a countermeasure to the detrimental effects of river fragmentation that result from man-made obstructions.",
+        "question": "What led to the movement in Europe to dismantle dams and restore river connectivity?",
+        "choice_1": "Increased tourism opportunities",
+        "choice_2": "Improved ecosystem health",
+        "choice_3": "Negative impacts of river fragmentation",
+        "choice_4": "Return of fish populations",
+        "answer": 3
+    },
+    {
+        "id": 119,
+        "context": "The Japanese town of Ozu has experienced a profound revitalization, earning acclaim as a premier destination for sustainable tourism. This town, which once faced economic hardship despite its historical charm, has become a paragon of sustainable travel by preserving and repurposing its heritage buildings. The triumph of Ozu's redevelopment is credited to the cooperative partnership involving the municipal authorities, a local hotel, and the town's residents.",
+        "question": "What led to Ozu's successful transformation into a sustainable tourism destination?",
+        "choice_1": "The town's historical significance and rich cultural heritage.",
+        "choice_2": "The vibrant energy and collaborative spirit of the community.",
+        "choice_3": "The conservation and conversion of heritage structures into accommodations and businesses.",
+        "choice_4": "Collaborative efforts between the city government, hotel, and community.",
+        "answer": 4
+    },
+    {
+        "id": 120,
+        "context": "A discussion is presented on Azerbaijan's profound historical link with fire, a connection derived from its Zoroastrian background. The element of fire, which stands for renewal, safeguarding, and spirituality, is deeply woven into the country's scenery, customs, and cultural practices. Although Islam is the prevailing religion in contemporary Azerbaijan, remnants of Zoroastrianism are still observable in different facets of national life, including the Nowruz festival. The nation's ancestral ties to Zoroastrianism are showcased by its fire temples, like the Surakhani ateshgah, which remain popular tourist sites and act as monuments to Azerbaijan's multifaceted religious past.",
+        "question": "What is the significance of the ateshgah fire temples in Azerbaijan's cultural and religious heritage?",
+        "choice_1": "They represent the dominance of Islam in modern-day Azerbaijan.",
+        "choice_2": "They serve as symbols of Zoroastrianism's decline in the region.",
+        "choice_3": "They highlight the multicultural past of Azerbaijan at the crossroads of different faiths.",
+        "choice_4": "They demonstrate the influence of Soviet traditions on Azerbaijani religious practices.",
+        "answer": 3
+    },
+    {
+        "id": 121,
+        "context": "The creative foundation for Beyoncé's recent album, Cowboy Carter, is the Black cowboy culture of Texas, which serves to spotlight the extensive heritage of Black cowboys within the state. This work mirrors the profound connection of cowboy traditions within the African American community and seeks to elevate the profile of Black country music.",
+        "question": "What led to the creation of Beyoncé's album, Cowboy Carter, drawing inspiration from Black cowboy culture in Texas?",
+        "choice_1": "The annual Houston Livestock Show and Rodeo",
+        "choice_2": "The historical exhibitions at the Black Cowboy Museum in Rosenburg",
+        "choice_3": "The long history of Black cowboys in Texas",
+        "choice_4": "The success of musicians like Lil Nas X and Blanco Brown in the country genre",
+        "answer": 3
+    },
+    {
+        "id": 122,
+        "context": "The Brazilian city of Belo Horizonte, once overlooked, has risen to prominence as a favored Carnival location, bringing in millions of attendees and global performers. Its Carnival is now a major cultural celebration and a substantial boost to the local economy, gaining recognition for its distinctive vibe and cost-effectiveness when compared to Brazil's more traditional Carnival hubs.",
+        "question": "What factors have contributed to the growing popularity of Belo Horizonte's Carnival as a destination for Brazilians?",
+        "choice_1": "The city's historical significance and colonial architecture.",
+        "choice_2": "The presence of beautiful beaches and coastal attractions.",
+        "choice_3": "The city's reputation for being a safe and affordable destination.",
+        "choice_4": "The strict organization and commercialization of Carnival events.",
+        "answer": 3
+    },
+    {
+        "id": 123,
+        "context": "In an effort to protect their cultural legacy from the effects of climate change, Indigenous groups in Alaska are gathering for the Arctic Winter Games to participate in ancestral sports. These Games function as a stage where athletes can display long-standing rituals and customs, in addition to competing in modern sports. The traditional lifestyle of these populations is jeopardized by the consequences of climate change in the Arctic, such as rising temperatures and disappearing ice.",
+        "question": "What is the result of the impact of climate change on the Arctic region in relation to traditional sports and cultural practices?",
+        "choice_1": "Increased participation in mainstream sports at the Arctic Winter Games.",
+        "choice_2": "Preservation of ancient rituals and traditions through sports competitions.",
+        "choice_3": "Threat to the origin of Arctic sports like the sledge jump due to lack of snow.",
+        "choice_4": "Collaboration between Arctic communities to adapt to changing environmental conditions.",
+        "answer": 3
+    },
+    {
+        "id": 124,
+        "context": "Following a historic parliamentary decision, Greece has emerged as the first country with a majority Christian Orthodox population to permit same-sex marriage. This development builds upon the nation's extensive history of LGBTQ+ tolerance, which has roots in antiquity and has seen considerable advancements in LGBTQ+ rights throughout the years. Nevertheless, ongoing issues of prejudice and social disapproval persist, fueling continued activism from within the community.",
+        "question": "What led to Greece becoming the first Christian Orthodox-majority nation to legalize same-sex marriage?",
+        "choice_1": "The country's long history of LGBTQ+ acceptance.",
+        "choice_2": "The activism and advocacy efforts of the LGBTQ+ community.",
+        "choice_3": "The legal recognition and equality for LGBTQ+ individuals.",
+        "choice_4": "The vibrant LGBTQ+ scenes in cities like Athens and Thessaloniki.",
+        "answer": 2
+    },
+    {
+        "id": 125,
+        "context": "The piece examines the historical sources and commonalities between the American Groundhog Day custom and comparable European practices, including the observance of the female blackbird in northern Italy and the bear in Milan. These customs originate from Indo-European societies dating back 3,000 to 5,000 years and are associated with legendary bears from Greek and Irish mythology. At the core of these customs is the concept of regeneration and the emergence of new life from a period of darkness, which is personified by goddesses such as Demeter, Artemis, and Brigid.",
+        "question": "What is the result of the traditions surrounding the days of the female blackbird, the bear, and the groundhog in predicting the arrival of spring?",
+        "choice_1": "The emergence of rebirth and new life from darkness.",
+        "choice_2": "The celebration of Candlemas or Candelora on 2 February.",
+        "choice_3": "The prediction of further cold if the weather is sunny.",
+        "choice_4": "The protection of people psychologically from anxiety and looming realities.",
+        "answer": 1
+    },
+    {
+        "id": 126,
+        "context": "Due to the effects of global warming, Japan's cherry blossom season is commencing sooner annually, with 2023 marking an unprecedented early flowering. Climate change, particularly the rise in springtime temperatures, is considered the reason for this alteration in the blossoms' timing. The influence of climate change on the cherry blossoms acts as a clear signal of more extensive environmental shifts.",
+        "question": "What is the result of the warming of spring temperatures on the timing of cherry blossoms in Japan?",
+        "choice_1": "Cherry blossoms blooming in February.",
+        "choice_2": "Cherry blossoms blooming later than usual.",
+        "choice_3": "Cherry blossoms blooming earlier than usual.",
+        "choice_4": "Cherry blossoms not blooming at all.",
+        "answer": 3
+    },
+    {
+        "id": 127,
+        "context": "In India, Gen Z is spearheading a movement toward more environmentally friendly Holi festivities, merging sustainable habits with contemporary approaches to lessen the celebration's ecological footprint. This new approach involves utilizing organic and plant-based dyes, repurposing old garments, and championing respectful and consensual interactions throughout the festival.",
+        "question": "What led Gen Z in India to incorporate sustainable practices into their Holi celebrations?",
+        "choice_1": "Influence from traditional Holi celebrations",
+        "choice_2": "Pressure from older generations",
+        "choice_3": "Concern for the planet's wellbeing",
+        "choice_4": "Desire for more colorful celebrations",
+        "answer": 3
+    },
+    {
+        "id": 128,
+        "context": "The French seaside resort of Le Touquet-Paris-Plage shares a profound historical link with Great Britain, which has made it a popular destination for British visitors and helped it cultivate a British ambiance. To underscore the lasting friendship between France and the UK, even in the face of obstacles such as Brexit and the Covid pandemic, the town plans to name its airport in honor of Queen Elizabeth II.",
+        "question": "What led to the decision to rename the airport in Le Touquet after Queen Elizabeth II?",
+        "choice_1": "The decline in British tourists visiting the town.",
+        "choice_2": "The historical connection between Le Touquet and Britain.",
+        "choice_3": "The economic impact of Brexit and Covid on local businesses.",
+        "choice_4": "The need to strengthen the bond between Britain and France.",
+        "answer": 2
+    },
+    {
+        "id": 129,
+        "context": "The city of Miami, Florida, rests upon the land of one of the most ancient Indigenous civilizations in America, known as the Tequesta. An expansion in the area's population has resulted in the discovery of archaeological artifacts that illuminate the Indigenous heritage of Miami. Nevertheless, with ongoing construction in neighborhoods such as Brickell, these historic Indigenous locations are being uncovered and are now at risk due to commercial construction projects.",
+        "question": "What is the result of the rapid population growth in Miami in terms of its impact on ancient Indigenous sites?",
+        "choice_1": "Increased awareness and preservation of Indigenous history.",
+        "choice_2": "Unearthing of ancient artifacts and human remains.",
+        "choice_3": "Development and construction leading to the destruction of Indigenous sites.",
+        "choice_4": "Collaboration between developers and Indigenous communities for site protection.",
+        "answer": 3
+    },
+    {
+        "id": 130,
+        "context": "Toronto boasts a dynamic comedy environment, celebrated for its history of nurturing legendary comics. Natalie Norman, a comedian based in the city, reveals her six preferred comedy locations, which span from iconic establishments like The Second City to smaller settings such as The Corner Comedy Club.",
+        "question": "What is the result of Toronto's diverse voices and comedy traditions, according to comedian Natalie Norman?",
+        "choice_1": "Increased popularity of comedy in the city.",
+        "choice_2": "A wide variety of comedy styles and performances.",
+        "choice_3": "Higher demand for local comedians.",
+        "choice_4": "Improved comedy venues in Toronto.",
+        "answer": 2
+    },
+    {
+        "id": 131,
+        "context": "The article explores the Turkish custom of tasseography, which is the practice of reading fortunes in coffee grounds and has been a beloved tradition for over five centuries. This custom has adapted to contemporary times, now incorporating modern approaches such as virtual fortune-telling and coffee readings produced by AI, which appeal to a broad demographic, including the younger Gen Z audience.",
+        "question": "What led to the popularity of virtual coffee readings and AI-generated fortune telling in Turkey?",
+        "choice_1": "The introduction of coffee to the Ottoman Empire",
+        "choice_2": "The inscribing of Turkish coffee in Unesco's Intangible Cultural Heritage List",
+        "choice_3": "The exclusion of women from public coffee houses in the past",
+        "choice_4": "The shift towards technology and digital platforms for fortune telling",
+        "answer": 4
+    },
+    {
+        "id": 132,
+        "context": "Throughout the Second World War, German forces occupied the Channel Islands, including Jersey. The local population utilized their native Jèrriais language as a clandestine communication method to oppose the occupiers. Even though its use diminished post-war, initiatives are underway to revitalize the language, which has included its formal adoption as an official language by the Jersey government.",
+        "question": "What led to the decline of the Jèrriais language after World War Two?",
+        "choice_1": "The occupation of the Channel Islands by German troops.",
+        "choice_2": "The lack of interest in preserving minority languages in Britain.",
+        "choice_3": "The perception that speaking Jèrriais marked individuals as uneducated.",
+        "choice_4": "The introduction of English as the primary language in schools.",
+        "answer": 4
+    },
+    {
+        "id": 133,
+        "context": "A compilation of the finest global tourism villages for 2023 has been published by the United Nations World Tourism Organization, which honors rural destinations for championing sustainable tourism. The selection features villages from across the globe that are dedicated to safeguarding their natural surroundings, cultural legacy, and local customs.",
+        "question": "What led to the selection of the villages for the United Nations World Tourism Organization's list of the world's best tourism villages in 2023?",
+        "choice_1": "The presence of ancient marine fossils in Zapatoca, Colombia.",
+        "choice_2": "The commitment of Lerici, Italy to preserving its traditional fishing industry.",
+        "choice_3": "The efforts of Lephis, Ethiopia to support local heritage through ecotourism initiatives.",
+        "choice_4": "The villages' demonstration of sustainable tourism practices and preservation of natural environments, cultural heritage, and local traditions.",
+        "answer": 4
+    }
+]

@@ -1,0 +1,1152 @@
+[
+    {
+        "id": 1,
+        "context": "Reporters are under fire for their part in inflating the buzz around artificial intelligence (AI) and for inaccurately conveying its abilities and shortcomings. The heightened curiosity in AI has caused an upsurge in media focus, with some authorities urging for a more balanced portrayal that reflects both the benefits and drawbacks of AI.",
+        "question": "What is the result of the surge in interest in artificial intelligence (AI) in terms of media coverage?",
+        "choice_1": "Increased scrutiny on AI by journalists.",
+        "choice_2": "More balanced reporting on the positive and negative aspects of AI.",
+        "choice_3": "Greater responsibility on the media to report on AI accurately.",
+        "choice_4": "Improved understanding of AI technologies by journalists.",
+        "answerable": 1
+    },
+    {
+        "id": 2,
+        "context": "There has been considerable controversy surrounding the fashion industry's adoption of AI models. Levi's decision to utilize AI for creating models with varied body shapes and skin colors, in addition to human models, was instantly met with disapproval. Critics from the modeling community accused the brand of 'laziness,' claiming it was merely a cosmetic gesture of diversity that bypassed employing real diverse models and jeopardized their careers.",
+        "question": "What led to the anger within the modelling world towards fashion brand Levi's for using AI to generate models of diverse body types and skin tones?",
+        "choice_1": "The commitment to using AI technologies equitably and transparently.",
+        "choice_2": "The backlash from within the industry accusing the brand of laziness.",
+        "choice_3": "The introduction of a team of AI chatbots modelled on celebrities by Meta.",
+        "choice_4": "The demand for virtual models and influencers growing in the fashion industry.",
+        "answerable": 1
+    },
+    {
+        "id": 3,
+        "context": "Faced with a worldwide surge in artificial intelligence, the city council of Peterborough, led by Mayor Nick Sandford, has started initial talks regarding the technological impacts on local governance. The council is contemplating the establishment of a committee to scrutinize AI uses and has planned multiple workshops for staff to gain awareness of AI fundamentals. These anticipatory actions aim to ready the city for impending technological advancements.",
+        "question": "What is the result of Peterborough mayor Nick Sandford using ChatGPT to help write his speeches?",
+        "choice_1": "Increased public engagement with civic events.",
+        "choice_2": "Improved efficiency in speechwriting for the mayor.",
+        "choice_3": "Implementation of an AI strategy by the city council.",
+        "choice_4": "Development of ethical guidelines for AI use in the council.",
+        "answerable": 0
+    },
+    {
+        "id": 4,
+        "context": "While regulations are in place to prevent the creation of deceitful images, researchers demonstrated that artificial intelligence tools can readily produce fake photos related to elections. The Center for Countering Digital Hate (CCDH) evaluated four well-known AI platforms and managed to fabricate misleading images 41% of the time, such as pictures of presidential candidates in compromising scenarios and fabricated images that erode confidence in the electoral process.",
+        "question": "What led to the successful creation of fake election-related images using artificial intelligence tools?",
+        "choice_1": "Lack of restrictions on image creation by AI platforms.",
+        "choice_2": "Researchers' ability to bypass AI platform rules.",
+        "choice_3": "Increased demand for fake election-related images.",
+        "choice_4": "Inadequate AI platform safeguards against misleading content.",
+        "answerable": 1
+    },
+    {
+        "id": 5,
+        "context": "Nvidia, a company specializing in chip manufacturing, has achieved a market capitalization of $2 trillion due to its swift expansion in artificial intelligence. Its stock prices have climbed sharply after a favorable earnings report, with global demand for its chips rising.",
+        "question": "What is the result of Nvidia's success in the AI sector?",
+        "choice_1": "Increase in market value to $2tn.",
+        "choice_2": "Significant gains in share prices.",
+        "choice_3": "Doubling of turnover to over $60bn.",
+        "choice_4": "Becoming the world's fourth most valuable publicly traded company.",
+        "answerable": 1
+    },
+    {
+        "id": 6,
+        "context": "The concept of a four-day workweek is becoming more popular in many nations, with firms crediting artificial intelligence (AI) tools for their achievements. Evidence shows that companies that heavily rely on AI are more inclined to adopt a shortened workweek since these technologies enhance efficiency and free up employee time. While AI is regarded as a significant enabler of a four-day workweek, the company's culture and support from leadership are also vital for its effective implementation.",
+        "question": "What factor is believed to accelerate the adoption of a four-day workweek in the workplace, according to the article?",
+        "choice_1": "Increased employee satisfaction",
+        "choice_2": "Implementation of generative AI tools",
+        "choice_3": "Reduction in time to fill permanent roles",
+        "choice_4": "Organizational culture and executive buy-in",
+        "answerable": 1
+    },
+    {
+        "id": 7,
+        "context": "Barnsley College has introduced a new 10-week AI course aiming to inform individuals about how artificial intelligence can assist them professionally. The course is designed to demonstrate how AI can augment their tasks without substituting their roles, aiding in routine activities such as composing emails and organizing documents.",
+        "question": "What is the expected outcome of using AI to assist with regular tasks in the workplace, according to the leader of the AI course at Barnsley College?",
+        "choice_1": "Increased efficiency in completing tasks.",
+        "choice_2": "Replacement of human workers with AI technology.",
+        "choice_3": "Decreased job roles and responsibilities for workers.",
+        "choice_4": "Enhanced support for workers in their current roles.",
+        "answerable": 1
+    },
+    {
+        "id": 8,
+        "context": "Google has announced that it is limiting the variety of election-related inquiries that can be made to its AI chatbot Gemini, as part of preparations for the global elections in 2024. The intent behind this decision is to prevent issues tied to misinformation and debates surrounding AI technology.",
+        "question": "What led Google to restrict the types of election-related questions users can ask its AI chatbot Gemini?",
+        "choice_1": "Concerns about misinformation related to generative AI.",
+        "choice_2": "Recent controversies surrounding AI technology.",
+        "choice_3": "Plans announced last year around Google's approach to elections.",
+        "choice_4": "Government regulations on AI technology.",
+        "answerable": 1
+    },
+    {
+        "id": 9,
+        "context": "A number of companies have turned to AI-based recruitment platforms to evaluate job seekers, aiming to minimize biases during hiring. Still, there is rising worry that these artificial intelligence tools might inadvertently exclude exceptionally qualified individuals, which could lead to workplace inequality.",
+        "question": "What is the result of companies using AI-driven hiring platforms to screen job applicants?",
+        "choice_1": "Increased efficiency in the hiring process.",
+        "choice_2": "Reduction of biases in the hiring process.",
+        "choice_3": "Filtering out highly qualified candidates.",
+        "choice_4": "Improved diversity in the workplace.",
+        "answerable": 1
+    },
+    {
+        "id": 10,
+        "context": "Through joint efforts, the University of Bradford and Newcastle Upon Tyne Hospitals NHS Foundation Trust have created OrQA, an avant-garde AI system crafted to assess medical information concerning possible transplant organs. This initiative has been acknowledged for its inventive use of AI within a medical environment and has recently been nominated for a national NHS accolade. The development team concentrates on the ethical considerations and the technical hurdles of implementing the system into healthcare operations, rather than its immediate effects on transplant metrics or operational productivity.",
+        "question": "What is the result of using the OrQA AI technology for organ transplants?",
+        "choice_1": "Increased efficiency in assessing organ quality.",
+        "choice_2": "Reduction in the number of patients receiving transplants.",
+        "choice_3": "Decrease in the success rate of kidney and liver transplants.",
+        "choice_4": "Higher costs associated with organ transplant procedures.",
+        "answerable": 0
+    },
+    {
+        "id": 11,
+        "context": "Arm Holdings, a chip design firm from the UK, has experienced a nearly twofold increase in its stock market value in under a week, driven by the heightened demand for technology associated with AI. The company's chips are integral to almost every smartphone globally, and its clientele features prominent names like Apple. Arm's technology is becoming a preferred choice for chip manufacturers such as Nvidia for CPUs that accompany their AI-centric chips, resulting in a spike in Arm's stock prices.",
+        "question": "What is the result of the increasing demand for AI-related technology on Arm Holdings' stock market value?",
+        "choice_1": "Arm's shares have almost doubled in less than a week.",
+        "choice_2": "Arm's technology is being chosen by chip makers like Nvidia.",
+        "choice_3": "Arm's customers include major brands like Apple.",
+        "choice_4": "Arm's stock market value has surpassed $1.4 trillion.",
+        "answerable": 1
+    },
+    {
+        "id": 12,
+        "context": "The gambling sector is progressively adopting artificial intelligence (AI) to improve user satisfaction, customize wagering opportunities, and anticipate player actions. Some individuals argue that AI might aid in mitigating gambling issues, yet others doubt the industry's commitment to using AI for harm prevention. Implementing AI in gambling brings up moral issues regarding the manipulation of players and promoting overspending.",
+        "question": "What is the result of the gambling industry's increasing use of artificial intelligence (AI) in terms of customer behavior?",
+        "choice_1": "Increased engagement and personalized betting experiences.",
+        "choice_2": "Enhanced player safety and customer experience.",
+        "choice_3": "Ethical concerns about exploiting players and encouraging excessive spending.",
+        "choice_4": "Reduction in problem gambling and addiction.",
+        "answerable": 1
+    },
+    {
+        "id": 13,
+        "context": "A KPMG survey examining artificial intelligence (AI) in accounting highlights notable transformations in the auditing field. The findings show that AI's automation of routine activities enhances efficiency, prompting companies to reduce team sizes. As a result, this boost in efficiency due to AI means that fewer auditors are necessary for tasks dominated by large volumes of data and repetitive work.",
+        "question": "What is the result of the increased efficiency brought by AI in auditing, according to a KPMG survey?",
+        "choice_1": "A reduction in the size of auditing teams.",
+        "choice_2": "An increase in manual audit and reporting tasks.",
+        "choice_3": "A shift towards traditional reconciliations and ledgers work.",
+        "choice_4": "A decrease in the need for client-facing skills.",
+        "answerable": 1
+    },
+    {
+        "id": 14,
+        "context": "There is a rising apprehension about the influence of artificial intelligence (AI) on elections and democracy, mainly due to the threat of deepfakes and foreign meddling. On the flip side, some argue that AI could positively impact democracy by improving campaign strategies and decision-making. Numerous entities are investigating AI's application in political campaigns, ranging from the production of electoral brochures to the evaluation of polling statistics.",
+        "question": "What led to the creation of Tory Techs and Campaign Lab?",
+        "choice_1": "Concerns about AI-generated deepfakes and foreign interference in elections.",
+        "choice_2": "The desire to harness AI's power to enhance democracy.",
+        "choice_3": "The need to train politicians on the positive uses of AI.",
+        "choice_4": "The rejection of AI-powered election candidate Andrew Gray.",
+        "answerable": 1
+    },
+    {
+        "id": 15,
+        "context": "At the World Economic Forum in Davos, international leaders are deliberating over whether to impose regulations directly on AI or to regulate its outcomes after development. The discussion arises as AI is anticipated to transform industries and workforce landscapes, leading to worries about potential unforeseen effects and improper use.",
+        "question": "What is the result of the debate on whether to regulate AI directly or focus on regulating its effects once developed at the World Economic Forum in Davos?",
+        "choice_1": "Increased scrutiny on AI's potential impact on industries.",
+        "choice_2": "Concerns about unintended consequences and misuse of AI.",
+        "choice_3": "Discussion on the need for regulations to manage AI risks.",
+        "choice_4": "Emphasis on ensuring AI is used for good.",
+        "answerable": 1
+    },
+    {
+        "id": 16,
+        "context": "An artificial intelligence system named VespAI has been engineered by the University of Exeter to pinpoint invasive Asian hornets with nearly flawless precision. This innovation employs sensors to detect the hornets and transmits image notifications to users for verification. Asian hornets pose a risk to honeybees and ecosystems, as evidenced by unprecedented sightings in the UK in 2023.",
+        "question": "What led to the development of the VespAI system by the University of Exeter?",
+        "choice_1": "High numbers of Asian hornet incursions in the UK.",
+        "choice_2": "Threat to honeybees and biodiversity by Asian hornets.",
+        "choice_3": "Misidentification of hornet reports by the majority of people.",
+        "choice_4": "Need for a cost-effective and versatile early warning system for detecting Asian hornets.",
+        "answerable": 1
+    },
+    {
+        "id": 17,
+        "context": "DPD had to turn off a section of their online help chatbot after a profanity-laden interaction with a customer, which was caused by a bug following a system upgrade. This situation caught the public's eye through social media, leading to criticism of the chatbot's behavior.",
+        "question": "What led to the disabling of part of DPD's online chatbot?",
+        "choice_1": "The use of artificial intelligence in the chatbot.",
+        "choice_2": "The availability of human operators for customer queries.",
+        "choice_3": "A system update that caused the chatbot to swear at a customer.",
+        "choice_4": "The popularity of the incident on social media.",
+        "answerable": 1
+    },
+    {
+        "id": 18,
+        "context": "Linwei Ding, who formerly worked as a software engineer for Google, faces charges of appropriating trade secrets connected to artificial intelligence (AI) while employed by two Chinese companies. It is alleged that he transferred more than 500 sensitive documents from Google's system to his own account and did not inform Google about his employment with the Chinese businesses. This case underscores worries about the theft of intellectual property and the competitive AI technology rivalry between the US and China.",
+        "question": "What led to the US Attorney General Merrick Garland stating that Linwei Ding was seeking to enrich himself by covertly working for Chinese companies?",
+        "choice_1": "Failure to disclose his work for Chinese companies to Google.",
+        "choice_2": "Uploading over 500 confidential files from Google's network to his personal account.",
+        "choice_3": "Presenting his own tech firm at an investor conference in China.",
+        "choice_4": "Booking a one-way ticket from San Francisco to Beijing without Google's knowledge.",
+        "answerable": 1
+    },
+    {
+        "id": 19,
+        "context": "The escalating energy requirements of data centres, especially those focused on artificial intelligence (AI), are leading to challenges concerning electricity usage. To tackle this problem, some companies are exploring the incorporation of Small Modular Reactors (SMRs) as a dedicated energy solution for these centres. Although SMRs are not yet in widespread commercial use, there is a mounting interest in their potential to supply power to data centres.",
+        "question": "What is the primary reason for considering the integration of Small Modular Reactors (SMRs) into data centres?",
+        "choice_1": "Rising costs of electricity for data centres.",
+        "choice_2": "Increased power requirements due to artificial intelligence (AI) processing.",
+        "choice_3": "Environmental concerns related to data centre operations.",
+        "choice_4": "Lack of access to renewable energy sources.",
+        "answerable": 1
+    },
+    {
+        "id": 20,
+        "context": "Google has allocated $1bn (£790m) to establish its initial UK data centre in Waltham Cross, Hertfordshire. Scheduled for completion by 2025, this facility will enhance Google's digital offerings, advance AI developments, and bolster the UK's computing resources. Its construction is intended to support net-zero objectives, with plans to utilize the surplus heat produced to warm local homes and businesses.",
+        "question": "What is the result of Google's $1bn investment in building its first UK data centre in Hertfordshire?",
+        "choice_1": "Creation of construction and technical jobs for the local community.",
+        "choice_2": "Expansion of data centres for artificial intelligence (AI) across the UK.",
+        "choice_3": "Growth in the UK's tech economy.",
+        "choice_4": "Support for Google's digital services, AI innovations, and compute capacity in the UK.",
+        "answerable": 1
+    },
+    {
+        "id": 21,
+        "context": "Google has encountered backlash regarding its new AI image generation tool, Gemini. Reports suggest that the tool is excessively correcting for potential racial bias by producing images with diverse genders and ethnicities, even when such representations might not be historically accurate. This has sparked worries about the authenticity of the images created.",
+        "question": "What is the result of Google's Gemini AI tool over-correcting against the risk of being racist?",
+        "choice_1": "Users are unable to access accurate images.",
+        "choice_2": "The tool generates images of a wide range of genders and ethnicities.",
+        "choice_3": "The tool is suspended from generating images of people.",
+        "choice_4": "Users are criticizing Google for training the bot to be overly woke.",
+        "answerable": 1
+    },
+    {
+        "id": 22,
+        "context": "In Guernsey, artificial intelligence (AI) has been employed to examine various bat sounds through the Bailiwick Bat Survey. Utilizing a technique known as \"machine learning,\" the AI differentiated between social interactions and feeding noises across different bat types. This study is pivotal for the protection of bats and offers valuable information on the condition of the local ecosystem.",
+        "question": "What is the result of using AI to identify bat calls in Guernsey?",
+        "choice_1": "Increased volunteer participation in the Bailiwick Bat Survey.",
+        "choice_2": "Improved understanding of how bats use the island.",
+        "choice_3": "Implementation of Guernsey's Strategy for Nature.",
+        "choice_4": "Expansion of the Bailiwick Bat Survey to other regions.",
+        "answerable": 1
+    },
+    {
+        "id": 23,
+        "context": "IUU fishing poses a major risk to marine life, leading various organizations to adopt sophisticated technology in response. Global Fishing Watch, formed by Google, Oceana, and SkyTruth, employs artificial intelligence alongside satellite data to generate a publicly available, near-instant map of fishing operations, aiming for greater openness. This information aids scientists and decision-makers in analyzing fishing trends and pushing for sustainable ocean practices. The core objective of the initiative is to transform formerly confidential information into public knowledge, while not specifying how this information is utilized for enforcement measures.",
+        "question": "What is the result of the use of AI and satellite imagery by Global Fishing Watch to monitor fishing vessels?",
+        "choice_1": "Detection of illegal fishing activities.",
+        "choice_2": "Increase in the number of marine protected areas.",
+        "choice_3": "Reduction in the global fish catch.",
+        "choice_4": "Implementation of stricter fishing regulations.",
+        "answerable": 0
+    },
+    {
+        "id": 24,
+        "context": "Researchers from the Carnegie Institution for Science have created an innovative AI technique capable of differentiating between biological and non-biological specimens. Their study reveals that applying this AI to analyze a variety of rock samples containing indications of both present and historical life led to a notable enhancement in precision. The AI attained a 90% accuracy rate in accurately identifying previously living materials from non-living ones, marking a significant advance for astrobiology missions.",
+        "question": "What is the result of using AI to analyze rock samples for signs of present or past life, according to the Carnegie Institution for Science?",
+        "choice_1": "Increased funding for space exploration projects.",
+        "choice_2": "Improved accuracy in distinguishing former living and non-living material.",
+        "choice_3": "Enhanced communication with potential alien civilizations.",
+        "choice_4": "Greater focus on exploring Saturn's moons.",
+        "answerable": 1
+    },
+    {
+        "id": 25,
+        "context": "With the global shift towards renewable energy and the increasing need for electricity, concerns over grid reliability are intensifying in the UK. Energy Secretary Claire Coutinho issued a grave caution regarding possible future power outages. She stressed that although renewables are essential, their inconsistent supply requires dependable alternatives. Therefore, she advocated for the immediate construction of additional gas-fired power plants to maintain power supply during times when wind and solar output are insufficient.",
+        "question": "What led to the warning from UK Energy Secretary Claire Coutinho about potential blackouts in the future?",
+        "choice_1": "Increasing demand for electricity worldwide.",
+        "choice_2": "The fragility of power grids revealed by the winter storm Uri in Texas.",
+        "choice_3": "The transition to renewable energy sources.",
+        "choice_4": "The need for new gas powered power stations as backup.",
+        "answerable": 1
+    },
+    {
+        "id": 26,
+        "context": "Nhung Ho, Intuit's vice president of artificial intelligence, talks about her shift from a career in astrophysics to data science, highlighting her involvement in advancing AI at the company. She stresses the significance of allowing data to drive narrative and decisions. Her motivation for changing fields was the desire to make a real-world impact on consumers, something she found more attainable through data science than astrophysics.",
+        "question": "What led Nhung Ho to transition from astrophysics to data science at Intuit?",
+        "choice_1": "Her passion for solving non-obvious problems using simple techniques.",
+        "choice_2": "The need to challenge assumptions based on data insights.",
+        "choice_3": "The opportunity to have real-world consumer-facing impact.",
+        "choice_4": "The lack of smartness in Intuit products that she used.",
+        "answerable": 1
+    },
+    {
+        "id": 27,
+        "context": "Innovative techniques are being crafted by tech firms to harvest clean drinking water from the atmosphere utilizing solar-driven hydropanels and absorbing materials. These breakthroughs are designed to ensure water availability in regions with water scarcity and isolated communities, leveraging artificial intelligence to enhance the efficiency of water collection.",
+        "question": "What led to advancements in extracting clean drinking water from the air using solar-powered hydropanels and desiccants?",
+        "choice_1": "The availability of desiccant materials in the market.",
+        "choice_2": "The use of artificial intelligence to monitor changing conditions and maximize water extraction.",
+        "choice_3": "The increasing demand for clean drinking water in water-stressed areas.",
+        "choice_4": "The development of solar panels that produce water.",
+        "answerable": 1
+    },
+    {
+        "id": 28,
+        "context": "Microsoft is advancing its extensive partnership with OpenAI, investing billions into integrating advanced AI models across its suite of products. As part of this international initiative, Mustafa Suleyman, the head of Microsoft's AI division, outlined strategies to bolster AI implementation in services like Azure and Bing. A newly established office in London is integral to this growth, primarily aimed at facilitating the European launch of these integrated services and working alongside current engineering teams.",
+        "question": "What led Microsoft to open a new AI office in London?",
+        "choice_1": "Collaboration with OpenAI in the UK.",
+        "choice_2": "Mustafa Suleyman's previous experience in AI research.",
+        "choice_3": "The UK's thriving AI sector and pro-innovation approach.",
+        "choice_4": "Microsoft's multi-billion partnership with OpenAI.",
+        "answerable": 0
+    },
+    {
+        "id": 29,
+        "context": "Sir Tony Blair and Lord Hague have put forth a plan to market anonymized medical records from the NHS to spearhead a new revolution in biotechnology industries. They argue that utilizing the extensive data repository within the NHS can provide the UK with a competitive edge in the advancement of innovations such as biotechnology and AI. The initiative intends to enhance public services and research efforts by capitalizing on NHS data.",
+        "question": "What is the result of selling anonymized medical records from the NHS, according to Sir Tony Blair and Lord Hague?",
+        "choice_1": "Boosting public services and research.",
+        "choice_2": "Creating personalized \"AI doctors\" for every person in Britain.",
+        "choice_3": "Overhauling how the NHS handles data.",
+        "choice_4": "Redesigning government for better productivity.",
+        "answerable": 1
+    },
+    {
+        "id": 30,
+        "context": "Nvidia, the leading chip company in terms of market value, announced a significant rise in sales as revenues soared by 265% to reach $22 billion. In light of these results, the company's CEO mentioned that AI has reached a 'critical threshold,' leading to an increase of over 9% in Nvidia's share price during after-hours trading in New York. Moreover, the firm anticipated a 233% growth in quarterly revenues for the ongoing quarter, bolstering investor trust.",
+        "question": "What is the result of Nvidia's record sales and the surge in demand for AI technology?",
+        "choice_1": "Nvidia's stock market value has soared by 225% over the last year.",
+        "choice_2": "Nvidia's data centre business contributed the vast majority of its revenues in the most recent quarter.",
+        "choice_3": "Nvidia's CEO stated that AI is at a 'tipping point' with demand surging worldwide.",
+        "choice_4": "Nvidia's share price jumped by more than 9% in extended New York trading.",
+        "answerable": 1
+    },
+    {
+        "id": 31,
+        "context": "Nvidia's market capitalization recently reached an unprecedented $2 trillion milestone for the first time last month. This significant feat was directly linked to the company's stock increasing by about 240% over the previous year, propelled by the escalating demand for its processors utilized in artificial intelligence applications. This growth mirrors investor trust in Nvidia's pivotal contribution to the AI surge.",
+        "question": "What led to Nvidia's market value touching $2tn last month?",
+        "choice_1": "Introduction of the B200 \"Blackwell\" AI chip.",
+        "choice_2": "Unveiling of new software tools at the annual developer conference.",
+        "choice_3": "Major customers like Amazon, Google, Microsoft, and OpenAI using Nvidia's new flagship chip.",
+        "choice_4": "Surge of 240% in Nvidia's shares over the past year.",
+        "answerable": 1
+    },
+    {
+        "id": 32,
+        "context": "A research team at the University of Surrey has created an AI system capable of estimating the three-dimensional stance of dogs using two-dimensional photographs. To achieve this, they utilized the video game Grand Theft Auto to design digital dogs, building a resource named DigiDogs. This AI system shows promise for various uses ranging from environmental studies to animated film production.",
+        "question": "What is the result of training the AI system on CGI dogs and using it to make 3D skeletal models from real animal photographs?",
+        "choice_1": "Improved accuracy in predicting 3D poses from real dog pictures.",
+        "choice_2": "Creation of virtual dogs in Grand Theft Auto.",
+        "choice_3": "Development of the DigiDogs database.",
+        "choice_4": "Fine-tuning the system using Meta's DINOv2 model.",
+        "answerable": 1
+    },
+    {
+        "id": 33,
+        "context": "AI-generated fake images, known as deepfakes, are becoming a significant concern for both businesses and individuals. Enterprises such as Yoti and Reality Defender are creating tools to identify deepfakes, which are increasingly hard to tell apart from genuine images. The proliferation of deepfakes in audio and visual content has heightened fears about the potential for widespread societal instability and the spread of misinformation.",
+        "question": "What is the potential consequence of the increasing sophistication of deepfake technology?",
+        "choice_1": "Increased reliance on AI solutions to detect deepfakes.",
+        "choice_2": "Difficulty in distinguishing real from fake images.",
+        "choice_3": "Widespread societal disruption and misinformation.",
+        "choice_4": "The need for human checkers to verify content.",
+        "answerable": 1
+    },
+    {
+        "id": 34,
+        "context": "In the wake of explicit fake images of Taylor Swift being massively shared online, US legislators are advocating for new laws to make the production of deepfake images a criminal offense. Deepfakes leverage artificial intelligence to alter images or videos, and their creation has surged notably since 2019. Although no federal deepfake-specific laws exist in the US, certain states have implemented measures to tackle the problem. In contrast, the UK has already outlawed the distribution of deepfake pornography.",
+        "question": "What led US politicians to call for new legislation to criminalize the creation of deepfake images?",
+        "choice_1": "The widespread circulation of explicit faked photos of Taylor Swift online.",
+        "choice_2": "The emergence of artificial intelligence technology.",
+        "choice_3": "The lack of federal laws against deepfakes in the US.",
+        "choice_4": "The increase in the creation of doctored images fueled by AI.",
+        "answerable": 1
+    },
+    {
+        "id": 35,
+        "context": "The article covers the emergence of conversational AI companions like Pi.ai, which are designed to deliver a seamless and intuitive chat experience for users. These AI entities engage in dialogue with individuals, providing empathy and customized feedback. Companies are channeling resources into conversational AI technologies to improve user interaction and develop AI companions with voices that closely resemble those of humans.",
+        "question": "What is the result of the development of conversational AI technology with human-like voices?",
+        "choice_1": "Increased user engagement and natural conversations.",
+        "choice_2": "Enhanced empathy and tailored responses from AI companions.",
+        "choice_3": "Expansion of the global market for conversational AI technology.",
+        "choice_4": "Potential risks associated with viewing AI companions as real people.",
+        "answerable": 1
+    },
+    {
+        "id": 36,
+        "context": "Supporters of Donald Trump have been involved in the production and distribution of AI-crafted fake images depicting black voters to motivate African Americans to support the Republican party. This manipulation forms part of a broader misinformation campaign as the US presidential election approaches in November. The campaign aims to use AI-created visuals strategically to showcase Mr. Trump as favored by the black community, with the potential to sway voter perceptions.",
+        "question": "What is the potential impact of the use of AI-generated fake images of black voters by Donald Trump supporters on the upcoming US presidential election?",
+        "choice_1": "Increased voter turnout among African American voters.",
+        "choice_2": "Greater skepticism and awareness among voters regarding manipulated images.",
+        "choice_3": "Influence on the perception of Mr. Trump's popularity within the black community.",
+        "choice_4": "Strengthening of trust in the electoral process among disillusioned voters.",
+        "answerable": 1
+    },
+    {
+        "id": 37,
+        "context": "According to a global Ipsos survey, there has been a notable decline in the public's faith in human television newsreaders, driven by fears of bias and sensational reporting. This waning trust has inadvertently paved the way for alternative news mediums. The survey also highlights a concurrent increase in the acceptance of AI-generated news anchors, as they are regarded by some audiences as more impartial and fact-focused, which has prompted their employment by numerous global news organizations.",
+        "question": "What is the result of the drop in trust in human TV newsreaders, according to a survey by Ipsos?",
+        "choice_1": "Increased reliance on social media influencers for news.",
+        "choice_2": "Rise in popularity of AI-generated news presenters.",
+        "choice_3": "Decrease in viewership of traditional news channels.",
+        "choice_4": "Shift towards more personalized news content.",
+        "answerable": 1
+    },
+    {
+        "id": 38,
+        "context": "Tyler Perry has paused the $800 million growth project for his film studio in Atlanta, expressing worries about new AI advancements, particularly OpenAI's Sora video generator. Perry is concerned that the functions of this AI could cause considerable job reductions in the film sector, rendering activities like location scouting and set construction unnecessary.",
+        "question": "What led Tyler Perry to put the $800m expansion of his film studio on hold?",
+        "choice_1": "Concerns over job losses in the film industry due to AI technology.",
+        "choice_2": "The release of OpenAI's video generator Sora.",
+        "choice_3": "The success of AI technology in producing lifelike footage.",
+        "choice_4": "The need to protect the future of the film industry amidst rapid changes.",
+        "answerable": 1
+    },
+    {
+        "id": 39,
+        "context": "With a £45 million investment, the University of York has launched the Institute for Safe Autonomy (ISA) to investigate and offer proof regarding the safety of Artificial Intelligence (AI) in daily life. The objective of the institute is to alleviate public worries and foster confidence in autonomous technology by demonstrating its security across various applications.",
+        "question": "What is the purpose of the Institute for Safe Autonomy (ISA) at the University of York?",
+        "choice_1": "To develop new AI technologies for commercial use.",
+        "choice_2": "To provide research and evidence on the safety of AI for everyday use.",
+        "choice_3": "To train individuals in the field of AI and robotics.",
+        "choice_4": "To promote public skepticism towards AI technology.",
+        "answerable": 1
+    },
+    {
+        "id": 40,
+        "context": "At the University of York, scientists have created an innovative two-armed robot designed to aid people in putting on clothes. The robot, incorporating artificial intelligence, aims to replicate human actions and lessen discomfort for users. This development may allow caregivers to focus on other responsibilities.",
+        "question": "What is the result of the new two-armed robot developed by researchers at the University of York?",
+        "choice_1": "Increased demand for care workers.",
+        "choice_2": "Improved efficiency in dressing assistance.",
+        "choice_3": "Decreased need for AI technology.",
+        "choice_4": "Reduced discomfort for care givers.",
+        "answerable": 1
+    },
+    {
+        "id": 41,
+        "context": "American farmers are turning more to artificial intelligence (AI) to confront the difficulties encountered in agriculture, such as a lack of labor and falling crop yields. There is a growing trend of employing AI technologies, such as drones and GPS, to boost efficiency and productivity in farming. Additionally, the US government is channeling funds into AI research centers directed at agriculture to create decision-making tools for land managers.",
+        "question": "What led to the US government's implementation of grants and investments into AI research institutes focused on agriculture?",
+        "choice_1": "The need to address labor shortages in the agriculture industry.",
+        "choice_2": "The declining crop yields due to climate change.",
+        "choice_3": "The increasing adoption of AI tools by American farmers.",
+        "choice_4": "The potential benefits of AI in improving productivity and sustainability in farming operations.",
+        "answerable": 1
+    },
+    {
+        "id": 42,
+        "context": "To address the increase in deceptive robocalls utilizing AI-generated voices for extortion, impersonation of celebrities, and misleading voters, the US Federal Communications Commission (FCC) has prohibited AI-generated robocalls. This initiative is intended to clamp down on the orchestrators of such calls and curb the dissemination of false information.",
+        "question": "What led to the FCC making AI-generated robocalls illegal in the US?",
+        "choice_1": "The rise in fraudulent calls using AI-generated voices to extort and impersonate celebrities.",
+        "choice_2": "The potential to confuse consumers with misinformation by imitating public figures and close family members.",
+        "choice_3": "A criminal investigation into robocalls impersonating US President Joe Biden in New Hampshire.",
+        "choice_4": "Concerns about the use of AI technology in consumer communications and the manipulation of audio and video through deepfakes.",
+        "answerable": 1
+    },
+    {
+        "id": 43,
+        "context": "Researchers at Histofy, a company spun out from The University of Warwick, have created an artificial intelligence (AI) tool named MitPro to support cancer detection and management. The tool evaluates cell division to gauge cancer severity and helps in making treatment decisions. Conventional methods for counting cell division have proven to be both unreliable and cumbersome, which led to the creation of MitPro.",
+        "question": "What led to the development of the AI tool MitPro by scientists at Histofy?",
+        "choice_1": "Poor reliability of traditional cell division counting methods.",
+        "choice_2": "The need for better cancer care and treatment.",
+        "choice_3": "The increasing prevalence of cancer diagnoses.",
+        "choice_4": "The desire to enhance the current standard of care for grading various cancers.",
+        "answerable": 1
+    },
+    {
+        "id": 44,
+        "context": "The author unexpectedly appeared on a listing compiled by an AI chatbot, categorizing them as a major source of disinformation on social networks. Attempts to rectify the situation were met with obstacles, as existing laws and officials did not provide a straightforward means to address the issue. This scenario underscores the difficulties individuals face when AI creates misleading or damaging statements about them.",
+        "question": "What led to the author's difficulty in addressing the false information generated by the AI chatbot?",
+        "choice_1": "Lack of access to the AI chatbot in question.",
+        "choice_2": "Inadequate AI regulation in the UK.",
+        "choice_3": "Reluctance of UK regulators to address non-criminal AI-generated content.",
+        "choice_4": "Difficulty in proving the harmful impact of the false information.",
+        "answerable": 1
+    },
+    {
+        "id": 45,
+        "context": "The social media site X has restricted searches for Taylor Swift following the circulation of AI-generated explicit images of her on the platform. This dissemination of false images has raised concern among both US officials and Taylor Swift's supporters, prompting X to act to ensure safety and remove the questionable content. The matter has also gained the attention of the White House, which is now advocating for legislative measures to address the abuse of AI technology on social media.",
+        "question": "What led to the blocking of searches for Taylor Swift on social media platform X?",
+        "choice_1": "The emergence of deepfake images of the singer.",
+        "choice_2": "Calls from US politicians for new laws against deepfake images.",
+        "choice_3": "The spread of explicit AI-generated images of Taylor Swift.",
+        "choice_4": "The enactment of the Online Safety Act in the UK.",
+        "answerable": 1
+    },
+    {
+        "id": 46,
+        "context": "The Cambridge council has decided to remove The Don statue, which honors Prince Philip's period as chancellor of Cambridge University, because it violated planning regulations. The statue, criticized for being an 'eyesore' and 'resembling kitsch', was denied planning permission a decade ago but was moved to a different spot without approval in 2023.",
+        "question": "What led to the council's decision to order the removal of The Don statue in Cambridge?",
+        "choice_1": "The statue's poor quality and controversial appearance.",
+        "choice_2": "The refusal of planning permission for the statue.",
+        "choice_3": "The unauthorized relocation of the statue to Hills Road.",
+        "choice_4": "The negative impact of the statue on the character of the area.",
+        "answerable": 1
+    },
+    {
+        "id": 47,
+        "context": "Poppy Cahill, an art student from Beccles, Suffolk, translates her encounters with chronic illnesses into her artwork. Her creations, which span prints, drawings, and paintings, delve into subjects linked to her experiences with eczema and ulcerative colitis. Her pieces often convey highly personal themes, occasionally illustrating medical devices such as the stoma bag she uses post-colostomy. This artistic endeavor allows Cahill a deeply personal means to delve into her identity and lived experiences visually.",
+        "question": "What is the result of Poppy Cahill sharing her artwork on social media under the project Chronically Beautiful?",
+        "choice_1": "Increased awareness of chronic illness.",
+        "choice_2": "Reduction of the stigma around stomas and chronic illness.",
+        "choice_3": "Positive response to her artwork.",
+        "choice_4": "Personal therapeutic benefit for Poppy Cahill.",
+        "answerable": 0
+    },
+    {
+        "id": 48,
+        "context": "The Serendipity Art and Craft Group situated in Weston-super-Mare has emerged as an essential center for community members grappling with isolation, offering a supportive environment for people of diverse ages experiencing both physical and mental health issues. Thanks to a grant provided by a local housing association, participants are now able to engage routinely in a variety of art and craft endeavors, which helps to alleviate loneliness and enhance their confidence and overall well-being.",
+        "question": "What is the result of the new grant from a local housing association for the Serendipity Art and Craft Group in Weston-super-Mare?",
+        "choice_1": "Increased participation in art and craft activities.",
+        "choice_2": "Creation of a support network for residents.",
+        "choice_3": "Reduction in feelings of loneliness.",
+        "choice_4": "Improvement in confidence and happiness.",
+        "answerable": 1
+    },
+    {
+        "id": 49,
+        "context": "The curator points out that an art exhibition, displaying works of art by vulnerable adults, has been instrumental in helping these individuals shift away from their struggles. Named Artists in Residence, the exhibition features diverse artistic creations by those dealing with mental health issues and other difficulties. This initiative sought to offer a creative avenue and an environment for personal development for the artists involved.",
+        "question": "What is the result of the art exhibition on vulnerable adults participating in the project?",
+        "choice_1": "Participants were able to showcase their artwork to a wider audience.",
+        "choice_2": "Participants were able to learn new art techniques and skills.",
+        "choice_3": "Participants were able to move away from the hardships they are facing.",
+        "choice_4": "Participants were able to receive financial compensation for their artwork.",
+        "answerable": 1
+    },
+    {
+        "id": 50,
+        "context": "Artists Nathan Murdoch and Tony Nero have recently finished a large mural portraying a scene from Cowgate, Peterborough, in 1908 on the side of a barber shop. The creation, which was done using both spray paint and brushes, required around 100 hours of work. The mural was commissioned by Peterborough Positive, a nonprofit organization representing local businesses, inspired by a photograph taken of Cowgate in 1908.",
+        "question": "What inspired the commissioning of the mural depicting a street scene from 1908 in Cowgate, Peterborough?",
+        "choice_1": "The collaboration between artists Nathan Murdoch and Tony Nero.",
+        "choice_2": "The use of spray paint and brushes in creating the mural.",
+        "choice_3": "The visual appeal of Cowgate.",
+        "choice_4": "A 1908 photograph of Cowgate on a postcard.",
+        "answerable": 1
+    },
+    {
+        "id": 51,
+        "context": "Artists are being invited by North Lincolnshire Council to create horse sculptures for a trail throughout the region, marking the 300th anniversary of famed equine artist George Stubbs, who had historical ties to this locale. The trail is set to display 10 life-size sculptures in key locations and an additional 10 within the Normanby Hall Country Park grounds. George Stubbs, celebrated for his horse paintings and the influential volume \"The Anatomy of the Horse,\" accomplished much of his work while residing in Horkstow.",
+        "question": "What is the result of the celebration of George Stubbs' 300th birthday through the Horsing Around trail in North Lincolnshire?",
+        "choice_1": "Increased tourism in the region.",
+        "choice_2": "Promotion of local artistic talent.",
+        "choice_3": "Preservation of equestrian heritage.",
+        "choice_4": "Enhancement of public art installations.",
+        "answerable": 1
+    },
+    {
+        "id": 52,
+        "context": "Over fifty sculptures crafted by artist Helen Skelton from Bridlington are going to be sold in an auction to benefit the Marie Curie hospice charity. These sculptures, which are abstracts made of wood depicting animals and plants, range in size from small to 6 feet tall. They were left behind by Skelton after her passing last year. The auction has drawn noteworthy attention, showcasing Skelton's shift to sculpting during the 1980s, later in her life.",
+        "question": "What is the result of Helen Skelton's decision to leave her sculptures to Marie Curie?",
+        "choice_1": "Increased interest in abstract art in East Yorkshire.",
+        "choice_2": "Recognition of Skelton's artistic talent in the local community.",
+        "choice_3": "Funds raised for the hospice charity Marie Curie.",
+        "choice_4": "Expansion of the art collection at Sewerby Hall.",
+        "answerable": 1
+    },
+    {
+        "id": 53,
+        "context": "London's Soho will host the world's largest assembly of genuine Banksy pieces at 100 Charing Cross Road, showcasing over 150 creations by the secretive artist. The exhibition highlights famous works like Dismaland and includes pieces on the Ukraine conflict. Although not officially sanctioned by Banksy, the show has toured globally and is now set to open in London. Statements from Banksy’s press office, Pest Control, have previously emphasized that these kinds of independent exhibitions occur without the artist’s approval, leading them to criticize this latest show as being done without their consent.",
+        "question": "What is the result of the unauthorized Banksy exhibition being displayed in London's Soho?",
+        "choice_1": "Increased interest in Banksy's artworks worldwide.",
+        "choice_2": "The debut of new Banksy works like Mona Lisa.",
+        "choice_3": "The collection being on display in London for another year.",
+        "choice_4": "Banksy's press office Pest Control denouncing the exhibition as non-consensual.",
+        "answerable": 1
+    },
+    {
+        "id": 54,
+        "context": "Berthe Morisot's painting \"The Cradle\" is celebrated as a significant piece within Impressionism, defying conventional artistic standards while depicting the multifaceted nature of motherhood. Although often outshone by her male peers, Morisot's distinct technique of conveying feelings and expressions is deemed groundbreaking.",
+        "question": "What led to Berthe Morisot's painting \"The Cradle\" being considered a key work in the Impressionist movement?",
+        "choice_1": "The admiration and support of her mentor, Camille Corot.",
+        "choice_2": "The controversial placement of the painting next to provocative artworks in an exhibition.",
+        "choice_3": "The recognition of the psychological complexity and modernity in her portrayal of motherhood.",
+        "choice_4": "The criticism from contemporary critics like Louis Leroy.",
+        "answerable": 1
+    },
+    {
+        "id": 55,
+        "context": "Angela Charles, an artist from Somerset who is legally blind due to Retinitis Pigmentosa, is displaying a sculpture of her guide dog Flynn at the Paws on the Wharf art trail located in Canary Wharf. Over the last 13 years, Angela's vision has deteriorated progressively, yet she continues to actively engage with her love for art.",
+        "question": "What led Angela Charles to create a sculpture of her guide dog Flynn for the Paws on the Wharf art trail?",
+        "choice_1": "Her desire to showcase her artistic talent publicly.",
+        "choice_2": "Her gradual loss of sight over the past 13 years.",
+        "choice_3": "Her passion for painting despite her sight loss.",
+        "choice_4": "Her realization that she needed a guide dog for assistance.",
+        "answerable": 1
+    },
+    {
+        "id": 56,
+        "context": "Verona Medhurst, residing in Bolton, Greater Manchester, has earned local recognition for her detailed models crafted from clay and balsa, depicting the town's significant landmarks. Her expansive collection of meticulously crafted miniatures representing notable streets and buildings has grown so substantially that it completely occupies her front room. Due to heightened public interest, Bolton Council is exploring options to exhibit her remarkable collection in a suitable venue accessible to the public.",
+        "question": "What led Verona Medhurst to start making models of local buildings and streets?",
+        "choice_1": "Her recovery from a series of operations in 2022.",
+        "choice_2": "Her inability to drive and take time off from work.",
+        "choice_3": "Her obsession with making fairy houses.",
+        "choice_4": "Her desire to showcase her creations on social media.",
+        "answerable": 0
+    },
+    {
+        "id": 57,
+        "context": "In Bristol, Southville Primary School is working together with street artists to paint murals on their premises as a component of an initiative named Southfest. The school's goal is to advance self-expression through art and to involve students in the artistic process.",
+        "question": "What is the result of the collaboration between Southville Primary School and street artists to create murals on its buildings?",
+        "choice_1": "Increased enrollment at the school.",
+        "choice_2": "Improved academic performance of students.",
+        "choice_3": "Promotion of self-expression through art.",
+        "choice_4": "Expansion of the school's facilities.",
+        "answerable": 1
+    },
+    {
+        "id": 58,
+        "context": "In Kettering, Northamptonshire, BT Openreach street cabinets are being converted into artistic displays by skilled artists to honor the town's past. The endeavor, financially supported by Kettering Town Council and Kettering Civic Society, seeks to establish a cultural trail with historical depictions on the green metal boxes.",
+        "question": "What is the result of the transformation of BT street cupboards into works of art in Kettering?",
+        "choice_1": "Increased foot traffic in the town.",
+        "choice_2": "Preservation of the town's history.",
+        "choice_3": "Collaboration between artists and local residents.",
+        "choice_4": "Brightening up the streets and creating a heritage trail.",
+        "answerable": 1
+    },
+    {
+        "id": 59,
+        "context": "An event in Birmingham known as Reframe: The Director's Cut presents the creations of 77 young artists of black and mixed heritage, concentrating on the theme of climate change. The exhibition includes film presentations, live acts, and photography, with the intention of empowering emerging black creative talents. One participant, Leah Moses from Wolverhampton, a videographer, delves into the connection between humanity and nature in her artwork.",
+        "question": "What is the result of the exhibition Reframe: The Director's Cut showcasing the work of young black and dual-heritage artists focusing on climate change?",
+        "choice_1": "Increased awareness of black artists in the creative industry.",
+        "choice_2": "Empowerment of the next generation of black creatives.",
+        "choice_3": "Introduction of Augmented and Virtual Reality technology.",
+        "choice_4": "Collaboration between artists and businesses.",
+        "answerable": 1
+    },
+    {
+        "id": 60,
+        "context": "Robert Mitchell, an artist from Kent who is color blind, crafts vibrant sculptures using materials like resin, discarded items, and high-end designer bags. His journey into art began after his ambitions to become an RAF engineer were thwarted due to his color vision deficiency. Despite his color blindness, he chooses not to utilize color-correcting glasses while working on his art, as he feels his unique perception of color is integral to his identity.",
+        "question": "What led Robert Mitchell to throw away his color enhancing glasses?",
+        "choice_1": "Inability to become an RAF engineer due to color blindness.",
+        "choice_2": "Desire to create art that reflects how he naturally sees the world.",
+        "choice_3": "Safety concerns raised by the RAF regarding color blindness.",
+        "choice_4": "Difficulty in distinguishing colors in his designs.",
+        "answerable": 1
+    },
+    {
+        "id": 61,
+        "context": "Organizing the Hereford Public Art Trail, which will debut in April, required intricate coordination between municipal authorities and a wide array of artists. Securing approval to paint on numerous public and private properties, including underpasses and passageways, posed a considerable logistical challenge. The initiative, backed by arts funding and local business sponsorships, has engaged artists for months as they prepared their artworks. However, official evaluations regarding the trail's public feedback or its economic influence aren't planned to be published until the event concludes.",
+        "question": "What is the result of the new artworks being installed across the city center in Hereford?",
+        "choice_1": "Closure of Union Passage for several days.",
+        "choice_2": "Increased foot traffic in the city center.",
+        "choice_3": "Launch of the Hereford Public Art Trail in April.",
+        "choice_4": "Collaboration between local people, students, businesses, and stakeholders.",
+        "answerable": 0
+    },
+    {
+        "id": 62,
+        "context": "Dame Barbara Hepworth's art consistently achieves high auction prices. A significant instance was at Christie's in New York in 2021, where her 'Landscape Sculpture' garnered an impressive $7.1 million, establishing a new record for the artist at that point. This robust market success continues to generate interest in her other artworks.",
+        "question": "What is the result of the previous sale of Dame Barbara Hepworth's work at Christie's in New York in 2021?",
+        "choice_1": "The Landscape Sculpture fetched $7.1m.",
+        "choice_2": "The Maquette For Winged Figure sold for £6.07m.",
+        "choice_3": "The auction featured works by LS Lowry and Henry Moore.",
+        "choice_4": "The Parent II sculpture was sold for a seven-figure sum.",
+        "answerable": 1
+    },
+    {
+        "id": 63,
+        "context": "Faith Ringgold, a trailblazing artist celebrated for her provocative works capturing the essence of America, has died. Throughout her career, she strove for acknowledgment, leveraging her art to confront societal challenges. Ringgold's diverse creations, from story quilts to masks, have been showcased in prominent galleries and exhibitions, garnering admiration from renowned supporters. Her works are deeply influenced by her childhood in Harlem during the Great Depression and her experiences navigating the art scene as a black woman.",
+        "question": "What led Faith Ringgold to create her concept of 'story quilts'?",
+        "choice_1": "Her mother's influence as a talented seamstress and fashion designer.",
+        "choice_2": "Her desire to challenge traditional art forms.",
+        "choice_3": "Her exposure to Harlem Renaissance artists and poets.",
+        "choice_4": "Her experience studying art at the City College of New York.",
+        "answerable": 1
+    },
+    {
+        "id": 64,
+        "context": "Organizers of the Cheltenham Paint Festival have called for assistance following the inability to obtain Arts Council funding for the occasion. Previously successful in securing funds, the 2023 festival risked being called off due to financial shortfalls, leading to a crowdfunding campaign to keep it alive. The festival's creator voiced dismay at the outcome, emphasizing the obstacles that free arts festivals encounter in obtaining financial backing.",
+        "question": "What is the result of the Cheltenham Paint Festival failing to secure Arts Council funding?",
+        "choice_1": "The cancellation of the 2023 event.",
+        "choice_2": "Increased public donations for the event.",
+        "choice_3": "The festival becoming a smaller, less impactful event.",
+        "choice_4": "The festival founder expressing disappointment.",
+        "answerable": 1
+    },
+    {
+        "id": 65,
+        "context": "The Harris Museum situated in Preston is undergoing an extensive £16 million refurbishment, with financial backing acquired from multiple national and local grants. Initially set for a 2024 deadline, the completion of the project has experienced logistical hurdles, now extending the reopening to 2025. Businesses in the area have voiced worries about the prolonged closure affecting visitor numbers, while the construction crew concentrates on maintaining the building's historic exterior.",
+        "question": "What is the result of the £16m renovation of the Harris Museum in Preston?",
+        "choice_1": "Closure of the museum for three years.",
+        "choice_2": "Delay in the reopening date by a year.",
+        "choice_3": "Creation of a space for cultural engagement.",
+        "choice_4": "Exhibition about Preston's Caribbean community.",
+        "answerable": 0
+    },
+    {
+        "id": 66,
+        "context": "In Dumfries and Galloway, the initial trees have been established to commemorate individuals who succumbed to Covid. This initiative is designed to develop a distributed woodland throughout five various towns within the area, with 400 trees symbolizing the lives claimed by the virus. The tree planting forms part of the broader national Remembering Together initiative to pay tribute to those who died during the pandemic.",
+        "question": "What is the result of planting 400 trees across five locations in Dumfries and Galloway to represent those who died of Covid?",
+        "choice_1": "A memorial forest to honor the deceased.",
+        "choice_2": "Healing experience for the community post-pandemic.",
+        "choice_3": "Recognition of the challenges faced by healthcare workers.",
+        "choice_4": "Increased awareness of the impact of the pandemic.",
+        "answerable": 1
+    },
+    {
+        "id": 67,
+        "context": "Following conservation efforts financed by the Royal Oak Foundation, various restored artworks, such as a portrait by John Singer Sargent of Nancy Astor and a duplicate of The Minton Medusa, are now exhibited at Cliveden House in Berkshire. This restoration addressed issues like peeling paint and aged varnish on the portrait.",
+        "question": "What led to the restoration and display of artwork at Cliveden House in Berkshire?",
+        "choice_1": "The availability of guided tours until October 31.",
+        "choice_2": "The influence of Nancy Astor as the first female MP.",
+        "choice_3": "The conservation work funded by the Royal Oak Foundation.",
+        "choice_4": "The technical skills of artist John Singer Sargent.",
+        "answerable": 1
+    },
+    {
+        "id": 68,
+        "context": "A large-scale mural called 'TAD'ah!' has been revealed in Tadcaster, showcasing the vibrancy of the local community in this market town. The creation features more than 150 portraits of residents along with 80 images depicting buildings, significant sites, and elements of natural history. Artist Chris Tipping designed this mural to honor the town and its inhabitants.",
+        "question": "What is the result of the giant community mural 'TAD'ah!' being unveiled in Tadcaster?",
+        "choice_1": "Increased tourism in the market town.",
+        "choice_2": "Enhanced community spirit and pride.",
+        "choice_3": "Improved economic development in Tadcaster.",
+        "choice_4": "Greater engagement in cultural projects.",
+        "answerable": 1
+    },
+    {
+        "id": 69,
+        "context": "A series of large mermaid tail sculptures will be installed in Dorset, with the trail spanning more than 40 pieces across well-known locations in Bournemouth, Christchurch, and Poole. These vibrant 1.8 meter (6 feet) tall artworks are intended to generate funds for the children's charity, Julia’s House. Businesses such as Organix, Norco, and Bournemouth Water are backing the project, with every sculpture featuring its distinct design. The art trail is slated to commence in April 2025, concluding with an auction to additionally benefit Julia’s House.",
+        "question": "What is the result of the sponsorship of local businesses like Organix, Norco, and Bournemouth Water for the giant mermaid tail sculptures art trail?",
+        "choice_1": "Increased foot traffic in Bournemouth, Christchurch, and Poole.",
+        "choice_2": "Greater awareness and support for the Julia’s House children’s hospice charity.",
+        "choice_3": "Enhanced artistic value of the sculptures.",
+        "choice_4": "Improved sustainability practices in the local community.",
+        "answerable": 1
+    },
+    {
+        "id": 70,
+        "context": "Illustrator Lily Hammond from Ipswich has published her third coloring book that highlights female creatives and features women from minority ethnic backgrounds. Notable artists such as Iris Apfel, Kara Walker, Faith Ringgold, and Tracey Emin are included in the book. Hammond embarked on this project driven by a personal passion to inspire the younger generation, particularly those who share her background.",
+        "question": "What is the result of Lily Hammond's project focusing on female creatives and minority ethnic women?",
+        "choice_1": "Increased interest in coloring books.",
+        "choice_2": "Greater recognition of female artists.",
+        "choice_3": "Inspiration for young people, especially those who look like her.",
+        "choice_4": "Collaboration with Suffolk County Council.",
+        "answerable": 1
+    },
+    {
+        "id": 71,
+        "context": "Jersey Heritage is set to present the artwork of Philip Ouless, a local artist from the 19th Century, as a highlight of their 2024 exhibition series. The assemblage, which the Ouless family has just sold to Jersey Heritage, comprises more than 70 pieces depicting Jersey's scenery and family portraits. This compilation, which has never been made available to the public, will be on display starting in March.",
+        "question": "What is the result of Jersey Heritage acquiring the collection of Philip Ouless' artwork from the Ouless family?",
+        "choice_1": "The addition of new and more personal aspects to Jersey Heritage's Philip Ouless collection.",
+        "choice_2": "The launch of the 2024 exhibition series by Jersey Heritage.",
+        "choice_3": "The public display of the artwork for the first time at Sir Francis Cook Gallery.",
+        "choice_4": "The selection of themes for the Meet the Collections events based on islanders' feedback.",
+        "answerable": 1
+    },
+    {
+        "id": 72,
+        "context": "The MAPS project was established as a cooperative effort involving local artists and students from 20 educational institutions. One primary goal and notable outcome of this project was the improved facilitation and availability of art education in the schools involved. An exhibition featuring the artwork is now ready to debut, presenting creations developed around themes influenced by Luke Jerram's Floating Earth sculpture.",
+        "question": "What is the result of the collaboration between local artists and students in the MAPS project?",
+        "choice_1": "Increased interest in art among Jersey school children.",
+        "choice_2": "Development of key art concepts such as scale and perspective.",
+        "choice_3": "Enhanced delivery and provision for art in schools.",
+        "choice_4": "Creation of cross-curricular links and shared resources with local schools.",
+        "answerable": 1
+    },
+    {
+        "id": 73,
+        "context": "The Arts Centre's Berni Gallery is preparing to showcase art created by students from Jersey schools as part of the Making Art in Partnership with Schools (MAPS) initiative. This exhibition will feature creations influenced by Luke Jerram's renowned Floating Earth installation, a massive seven-metre globe previously exhibited in Jersey. The promotional focus has been on the stunning visual element of the upcoming event and the acclaim of Jerram's original piece, rather than on the educational benefits achieved by the participating schools.",
+        "question": "What is the result of the collaboration between local artists and students in the MAPS project?",
+        "choice_1": "Increased interest in art among Jersey school children.",
+        "choice_2": "Development of key art concepts such as scale and perspective.",
+        "choice_3": "Enhanced delivery and provision for art in schools.",
+        "choice_4": "Creation of cross-curricular links and shared resources with local schools.",
+        "answerable": 0
+    },
+    {
+        "id": 74,
+        "context": "The Erin Arts Centre is currently hosting Robert Jones MRSS's exhibition, Crucible. This exhibit, which was previously displayed in Peel, includes an impactful collection of sculptures and ink drawings. Known for his creative transformation of 'upcycled' materials, Jones continues this approach in his latest collection, which incorporates a variety of reclaimed elements. Following an earlier presentation, Jones introduced several additional sculptures to the Crucible collection, which have received acclaim for their sophisticated design and artistic insight. These new artworks are showcased together with the initial pieces.",
+        "question": "What led Robert Jones to create a new body of work using leftover materials for his exhibition?",
+        "choice_1": "Overwhelmingly positive feedback from previous displays.",
+        "choice_2": "The need to experiment with different mediums.",
+        "choice_3": "The theme of valuing the Earth's resources.",
+        "choice_4": "Exhaustion from displaying his work in Peel and Port Erin.",
+        "answerable": 0
+    },
+    {
+        "id": 75,
+        "context": "The mobile museum project, featuring works by David Hockney and Andy Warhol, involves intricate planning. The decision to use a car park in Rotherham was due to its convenience for the sizable vehicle and its strategic location. This stage of the project addresses the technicalities of moving and safely showcasing high-value art from the Tate's collection outside of a traditional environment. The team is currently analyzing data concerning transport-induced vibrations and the climate regulation inside the mobile facility, while evaluation of visitor feedback or community interaction has not commenced.",
+        "question": "What is the result of the mobile museum roadshow displaying Tate masterpieces in a car park in Rotherham?",
+        "choice_1": "Increased interest in art among school children and young people.",
+        "choice_2": "Collaboration between Tate, Art Explora, and MuMo mobile museum.",
+        "choice_3": "Support from various organizations for the exhibition.",
+        "choice_4": "Opportunity for school groups to view art in a different way.",
+        "answerable": 0
+    },
+    {
+        "id": 76,
+        "context": "Sarah Maltby MHK has taken on the responsibility for arts and culture within the Department of Education, Sport and Culture (Desc). Her new role comes as a result of a recent governmental reshuffle, where she will guide the Isle of Man Arts Council's strategic planning. The department has seen a number of changes recently, such as the exit of minister Julie Edge, prompting a renewed emphasis on its key duties. Ms. Maltby has pledged her support for enhancing the island's lively arts sector in her new role.",
+        "question": "What led to Sarah Maltby MHK being appointed as the new chairman of the Isle of Man Arts Council?",
+        "choice_1": "The resignation of Claire Christian",
+        "choice_2": "The sacking of Julie Edge as minister",
+        "choice_3": "The appointment of Daphne Caine to a new position",
+        "choice_4": "The reshuffle of political members within the Department of Education, Sport and Culture",
+        "answerable": 0
+    },
+    {
+        "id": 77,
+        "context": "In Tasmania, the Museum of Old and New Art features an exhibit titled the \"Ladies Lounge,\" which is exclusively for women and offers them a secure environment to appreciate art and socialize. Jason Lau has filed a grievance against the museum, alleging illegal discrimination, as he believes his admission ticket should grant him access to all areas of the museum.",
+        "question": "What led to Jason Lau filing a complaint against the Museum of Old and New Art for illegal discrimination?",
+        "choice_1": "The exhibit's intention to provide a safe space for women.",
+        "choice_2": "The exclusion of men from the \"Ladies Lounge\" exhibit.",
+        "choice_3": "The museum's argument that the exhibit does not discriminate.",
+        "choice_4": "The presence of women dressed in navy power suits at the court hearing.",
+        "answerable": 1
+    },
+    {
+        "id": 78,
+        "context": "Tasmania's Museum of Old and New Art attracts many visitors with its distinctive displays. A recent legal issue arose involving a guest named Jason Lau over ticketing and access regulations. The conflict revolves around the annual pass conditions and the additional charges for specific exhibits. Mr. Lau alleged that the museum's explanation of these fees was not clear, causing a conflict at the museum's entrance. The museum asserts that its rules are standard practice and uniformly enforced for all patrons.",
+        "question": "What led to Jason Lau filing a complaint against the Museum of Old and New Art for illegal discrimination?",
+        "choice_1": "The exhibit's intention to provide a safe space for women.",
+        "choice_2": "The exclusion of men from the \"Ladies Lounge\" exhibit.",
+        "choice_3": "The museum's argument that the exhibit does not discriminate.",
+        "choice_4": "The presence of women dressed in navy power suits at the court hearing.",
+        "answerable": 0
+    },
+    {
+        "id": 79,
+        "context": "A male guest initiated a gender discrimination lawsuit against Mona museum in Tasmania after being refused entry to a women-exclusive exhibit named the Ladies Lounge. The exhibit aimed to spotlight historic misogyny by excluding male visitors. The court sided with the male guest, declaring that the museum's exclusion of males did not foster equal opportunity for groups disadvantaged by history.",
+        "question": "What led to the court ruling that men must be allowed into the women's-only exhibit at Mona museum?",
+        "choice_1": "The museum's claim that the rejection of male visitors was part of the artwork.",
+        "choice_2": "The inappropriate behavior of the museum's supporters during the court case.",
+        "choice_3": "The male visitor's argument that the museum violated the state's anti-discrimination act.",
+        "choice_4": "The court's finding that excluding men from the exhibit did not promote equal opportunity.",
+        "answerable": 1
+    },
+    {
+        "id": 80,
+        "context": "In Worcester, a wall adorned with graffiti is about to turn into a musical mural that honors the city's history, brought to life by artist Rob Draper in collaboration with University of Worcester students. This artwork will include a quotation from composer Edward Elgar and reflect inclusivity by featuring a poem presented both in text and braille to cater to the visually impaired.",
+        "question": "What is the result of the collaboration between artist Rob Draper, students from the University of Worcester, and the local community in Worcester?",
+        "choice_1": "The creation of a musical mural celebrating the city's heritage.",
+        "choice_2": "The removal of graffiti from a wall in Worcester.",
+        "choice_3": "The promotion of inclusivity in art projects.",
+        "choice_4": "The engagement of visually impaired individuals in the artistic process.",
+        "answerable": 1
+    },
+    {
+        "id": 81,
+        "context": "At the University of Bristol Botanic Garden, the annual Easter Sculpture and Arts Festival will present creations by over 30 regional artists working with materials such as stone, ceramic, wood, metal, and wire. The festival is designed to exhibit the relationship between art and nature through distinct sculptures, interactive workshops, and activities suitable for families.",
+        "question": "What is the result of the Easter Sculpture and Arts Festival at the University of Bristol Botanic Garden?",
+        "choice_1": "Increased awareness of local artists in Bristol.",
+        "choice_2": "Promotion of human creativity and harmony between art and nature.",
+        "choice_3": "Introduction of new art materials like stone, ceramic, wood, metal, and wire.",
+        "choice_4": "Collaboration between artists and art students from the University of West England.",
+        "answerable": 1
+    },
+    {
+        "id": 82,
+        "context": "The North Lincolnshire Council has allocated nearly £50,000 to Wild in Art to facilitate a horse-themed art exhibition at Normanby Hall. This event marks the 300th anniversary of George Stubbs' birth, emphasizing his ties to North Lincolnshire. The trail features artistic elements such as sculptures, paintings, and a horse replica at full scale.",
+        "question": "What is the result of the council awarding money to Wild in Art for the horse-themed art trail at Normanby Hall?",
+        "choice_1": "Increased engagement with local schools.",
+        "choice_2": "Celebration of George Stubbs' connection to North Lincolnshire.",
+        "choice_3": "Creation of sculptures, paintings, and a life-sized horse model.",
+        "choice_4": "Commemoration of the 300th anniversary of George Stubbs' birth.",
+        "answerable": 1
+    },
+    {
+        "id": 83,
+        "context": "Lucy Pittaway, an artist based in North Yorkshire, has begun a tree-planting initiative corresponding with each print copy sold to pay tribute to the Sycamore Gap tree. Following the tree's cutting down in September of last year, there was a surge in demand for her painted depiction of it. To date, she has sold around 2,400 prints and planted 600 trees, both saplings and mature, to establish a new forested area within the Swinton Estate.",
+        "question": "What is the result of Lucy Pittaway's initiative to plant trees for every print copy she sells in honor of the Sycamore Gap tree?",
+        "choice_1": "Increased demand for her artwork.",
+        "choice_2": "Revival of the Swinton Estate.",
+        "choice_3": "Preservation of the Sycamore Gap tree.",
+        "choice_4": "Expansion of the Swinton Park Hotel.",
+        "answerable": 1
+    },
+    {
+        "id": 84,
+        "context": "Artist Kevin Gavaghan has garnered notable attention for his participation in the accessible art trail situated in London's Canary Wharf. His distinctive creation, a sculpture of a guide dog adorned with paint, serves as a visual depiction of Central Serous Retinopathy (CSR). This initiative, which features the work of several artists, seeks to increase public awareness about visual impairments through art in public spaces. Gavaghan's sculpture is lauded for its artistic craftsmanship and strategic placement in the bustling financial district, offering his unique insight to a broad audience.",
+        "question": "What led Kevin Gavaghan to embrace his Central Serous Retinopathy (CSR) in his artwork?",
+        "choice_1": "Development of Tourette's at the age of 12.",
+        "choice_2": "Physical ticks and severe anxiety in his late teens.",
+        "choice_3": "Fluid build-up behind the retina causing vision distortion.",
+        "choice_4": "Art becoming an escapism and therapy for him.",
+        "answerable": 0
+    },
+    {
+        "id": 85,
+        "context": "The Paisley Art Institute (PAI) encounters a major hurdle as it engages in discussions with OneRen, the cultural and leisure department of Renfrewshire Council, about presenting their historic collection in the newly established £45m Paisley Museum. PAI possesses a collection exceeding 400 artworks, including those by eminent artists, and is eager to exhibit them in the museum. Unfortunately, talks have stalled, prompting PAI to explore other ways to keep their collection viable.",
+        "question": "What led to the Paisley Art Institute facing its biggest challenge in its 148-year history?",
+        "choice_1": "Declining membership numbers in the organization.",
+        "choice_2": "Legal disputes and high insurance premiums.",
+        "choice_3": "Lack of interest from the Glasgow Art Club.",
+        "choice_4": "Inability to secure a significant display space in the new Paisley Museum.",
+        "answerable": 1
+    },
+    {
+        "id": 86,
+        "context": "Maryport has introduced a new poster initiative, supported by a regional arts grant from Cumberland Council. Coordinated by 'Made in Maryport', the project enlisted various local artists to craft the poster designs. A committee of community leaders evaluated these designs prior to their printing and placement. The initiative aims to aesthetically enrich the town's public areas, especially near the harbour and the Maritime Museum, with no emphasis on any particular linguistic or dialectal themes.",
+        "question": "What is the result of the new poster campaign in Maryport aimed at preserving historic phrases and dialect?",
+        "choice_1": "Increased tourism to the town's Maritime Museum.",
+        "choice_2": "Encouragement for people to start talking about Cumbria.",
+        "choice_3": "Creation of colorful artwork inspired by local community.",
+        "choice_4": "Discouragement from using local dialect in schools.",
+        "answerable": 0
+    },
+    {
+        "id": 87,
+        "context": "Famed illustrator Sir Quentin Blake created artworks to infuse hospital settings with warmth and charm, marking a notable phase in his artistic journey. These illustrations are prominently displayed in medical facilities across both the UK and France, characterized by vibrant and lively imagery. The initiative to exhibit these selected works at the Moyse's Hall Museum in Bury St Edmunds was driven by an aim to honor Blake's charitable endeavors and his distinctive artistic expression. Notably, the museum is a recognized historical site in Suffolk, celebrated for its regional history exhibitions.",
+        "question": "What is the result of displaying Sir Quentin Blake's illustrations at the Illustrated Hospital exhibition?",
+        "choice_1": "Increased interest in contemporary art.",
+        "choice_2": "Recognition of the museum's reputation for attracting visitors.",
+        "choice_3": "Collaboration with renowned writers.",
+        "choice_4": "Appointment as the first children's laureate.",
+        "answerable": 0
+    },
+    {
+        "id": 88,
+        "context": "'Happy Choppers', a street art piece created by the enigmatic artist Banksy, serves as a compelling critique on themes of conflict and naivety. Originally executed on a wall in London, this artwork, portraying military helicopters adorned with playful pink ribbons, was meticulously salvaged and readied for a public auction. It stirred considerable anticipation before the sale, fueled by Banksy's worldwide recognition and the iconic reputation of the piece. Art critics have engaged in extensive discussions about its interpretation, with many considering it as a quintessential representation of Banksy's anti-war message.",
+        "question": "What is the result of the Happy Choppers painting failing to sell at auction?",
+        "choice_1": "The auction house expected to sell the painting to a private seller.",
+        "choice_2": "The other Banksy pieces sold for a total of about £130,000.",
+        "choice_3": "The anonymous vendor learned of the artwork by chance after purchasing the building.",
+        "choice_4": "The auction house director expressed disappointment but pride in offering the painting to the market.",
+        "answerable": 0
+    },
+    {
+        "id": 89,
+        "context": "Requests have been made for the public to refrain from interfering with artist Estee Angeline as she completes a mural for the county council in Union Passage, due to incidents of her facing verbal harassment. The location has been cordoned off to ensure she can work without interruptions.",
+        "question": "What led to the request for the public not to disrupt artist Estee Angeline while she works on the mural?",
+        "choice_1": "The reopening of Union Passage to the public.",
+        "choice_2": "Threats made towards the artist.",
+        "choice_3": "The commissioning of the mural by the county council.",
+        "choice_4": "The inspiration for the artwork from the artist's time at college.",
+        "answerable": 1
+    },
+    {
+        "id": 90,
+        "context": "Acclaimed American sculptor Richard Serra, celebrated for his grandiose steel works, has died at the age of 85. Serra's groundbreaking technique in sculpture involved fashioning extensive metal sheet formations that people could navigate and engage with, stirring a range of emotions and experiences. In spite of his artistic triumphs, Serra encountered both personal hardships and public disputes over the course of his career.",
+        "question": "What led Richard Serra to switch from painting to sculpture?",
+        "choice_1": "Influence from his father's work at a shipyard.",
+        "choice_2": "Desire to create more interactive artwork.",
+        "choice_3": "Interest in working with steel.",
+        "choice_4": "Artistic collaboration with composers.",
+        "answerable": 1
+    },
+    {
+        "id": 91,
+        "context": "At the age of 85, the distinguished American sculptor Richard Serra passed away, leaving behind a legacy marked by his immense steel sculptures. Serra's journey in art began following his graduation from the Yale School of Art and Architecture. In his early years, he took up several jobs, including working in steel mills to fund his studies, before dedicating his career to creating large-scale sculptures tailored to specific locations. His installations, notably 'Tilted Arc,' frequently ignited public discourse, establishing him as both an influential and at times contentious figure in modern art.",
+        "question": "What led Richard Serra to switch from painting to sculpture?",
+        "choice_1": "Influence from his father's work at a shipyard.",
+        "choice_2": "Desire to create more interactive artwork.",
+        "choice_3": "Interest in working with steel.",
+        "choice_4": "Artistic collaboration with composers.",
+        "answerable": 0
+    },
+    {
+        "id": 92,
+        "context": "Following a charitable performance in 2021, Ed Sheeran arranged a special, exclusive visit for his parents and wife at the Louvre that lasted three hours. This outing was said to be an 'unforgettable experience' and served as Sheeran's gesture of appreciation toward his family. The concert was part of the Global Citizen Live initiative, which seeks to spotlight issues like poverty, climate change, and the global need for coronavirus vaccines.",
+        "question": "What was the result of Ed Sheeran's private visit to the Louvre with his parents and wife after the charity concert?",
+        "choice_1": "Increased awareness of poverty, climate change, and the need for vaccines.",
+        "choice_2": "An extraordinary performance in front of the Eiffel Tower.",
+        "choice_3": "A way for Sheeran to express gratitude to his family.",
+        "choice_4": "A fundraising event for the Ipswich Art Society's Young Artists' Fund.",
+        "answerable": 1
+    },
+    {
+        "id": 93,
+        "context": "After his show at the Global Citizen Live charity event in Paris in 2021, Ed Sheeran visited the Louvre museum. This event was part of a worldwide 24-hour broadcast featuring numerous artists, aiming to advance the initiative to protect the environment and combat poverty. While there are limited details on Sheeran's actions post-concert, it is verified that he, his parents, and his wife were near the museum after it had closed.",
+        "question": "What was the result of Ed Sheeran's private visit to the Louvre with his parents and wife after the charity concert?",
+        "choice_1": "Increased awareness of poverty, climate change, and the need for vaccines.",
+        "choice_2": "An extraordinary performance in front of the Eiffel Tower.",
+        "choice_3": "A way for Sheeran to express gratitude to his family.",
+        "choice_4": "A fundraising event for the Ipswich Art Society's Young Artists' Fund.",
+        "answerable": 0
+    },
+    {
+        "id": 94,
+        "context": "Overnight, a mural thought to celebrate the LGBT community surfaced on the wall of Sidewalk, a gay bar located in Birmingham's gay village. Workers from a nearby garage were the first to notice the mural and propose it might be a Banksy creation, leading to widespread speculation. Eventually, it was clarified by a spokesperson that the mural was not by the renowned artist. The bar director was both surprised and thrilled by the artwork, which shows Dorothy from The Wizard of Oz reaching for ruby slippers, interpreting it as a nod to the LGBT community.",
+        "question": "What led to the speculation that the mural was created by Banksy?",
+        "choice_1": "Confirmation from a spokesperson that Banksy was the artist.",
+        "choice_2": "The mural's depiction of Dorothy from The Wizard of Oz.",
+        "choice_3": "The appearance of the mural overnight.",
+        "choice_4": "Builders from a nearby garage pointing out the mural and suggesting it was a Banksy piece.",
+        "answerable": 1
+    },
+    {
+        "id": 95,
+        "context": "Sir Antony Gormley has developed an installation named Time Horizon, consisting of one hundred life-sized figures made from cast iron, displayed in the grounds of Houghton Hall in Norfolk. These sculptures, akin to his renowned iron figures on Crosby beach, are intended to reflect on the disparities in wealth and our connection with Earth. The installation will be accessible to the public from April through October.",
+        "question": "What led Sir Antony Gormley to create the Time Horizon installation featuring cast iron figures in the grounds of Houghton Hall?",
+        "choice_1": "His desire to decorate the place with unique sculptures.",
+        "choice_2": "A commission from the Catanzaro province in Italy.",
+        "choice_3": "A comment on wealth inequality and our relationship to the planet.",
+        "choice_4": "The need to showcase his work in different locations.",
+        "answerable": 1
+    },
+    {
+        "id": 96,
+        "context": "A family of six artists from Stroud, consisting of Bryan and Helena Panks, along with their children Max, Rosie, George, and Fred, are presenting a collective exhibition at The Setting gallery located in Nailsworth.",
+        "question": "What led to the family of six artists deciding to hold a joint exhibition of their work?",
+        "choice_1": "The family's shared passion for art and creativity.",
+        "choice_2": "The success of Bryan Panks' Channel 4 series Max Bear.",
+        "choice_3": "The encouragement from TV cook Keith Floyd and actor Tom Baker.",
+        "choice_4": "The family's desire to showcase their different artistic styles together.",
+        "answerable": 1
+    },
+    {
+        "id": 97,
+        "context": "Hailing from Stroud, Gloucestershire, Eleanor Macnair embarked on a unique artistic venture in 2013—replicating well-known photographs using Play-Doh. Her aim was to democratize art, removing the elitist barriers and ensuring that art could be appreciated without the necessity for complex terminology or solemn discourse.",
+        "question": "What led Eleanor Macnair to start recreating famous photographs in Play-Doh?",
+        "choice_1": "A friends pub quiz round involving Play-Doh.",
+        "choice_2": "Feeling that art was not accessible due to language and seriousness.",
+        "choice_3": "Working for museums and feeling the need for change.",
+        "choice_4": "Mastering her craft while working on a desk in her bedroom.",
+        "answerable": 1
+    },
+    {
+        "id": 98,
+        "context": "Sam McCracken, a student from Wolverhampton, will see his creative work showcased at notable locations globally, such as Times Square in New York and the Louvre Museum in Paris. His project GLORYBOX XL, influenced by queer cruising culture as well as public sex environments, attracted attention from The Holy Art gallery and will be part of their exhibits.",
+        "question": "What is the result of Sam McCracken's project GLORYBOX XL being showcased in New York's Times Square and the Louvre Museum?",
+        "choice_1": "Increased recognition for The Holy Art gallery.",
+        "choice_2": "Enhanced visibility for Sam McCracken's artwork.",
+        "choice_3": "Expansion of art exhibitions in popular sites.",
+        "choice_4": "Promotion of public sex spaces and queer cruising culture.",
+        "answerable": 1
+    },
+    {
+        "id": 99,
+        "context": "Retired fire helmets have been converted into artistic pieces for a charity event in Sussex. These helmets, once used by firefighting personnel responding to incidents for the West Sussex Fire and Rescue Service, are exhibited at Worthing Town Hall and are set to be auctioned to support The Fire Fighters Charity. The event includes over 60 unique designs from various artists.",
+        "question": "What is the result of the transformation of decommissioned fire helmets into works of art for a charity exhibition in Sussex?",
+        "choice_1": "Increased awareness about the importance of fire helmets.",
+        "choice_2": "Raised funds for The Fire Fighters Charity.",
+        "choice_3": "Enhanced the artistic skills of firefighters.",
+        "choice_4": "Improved the safety equipment used by firefighters.",
+        "answerable": 1
+    },
+    {
+        "id": 100,
+        "context": "Tate Britain has introduced a new creation by Keith Piper called Viva Voce, which seeks to contextualize and critically examine the 1927 mural by Rex Whistler, known for its offensive content and hidden from public view since 2020 due to racist depictions. The film delves into the societal and political landscape of Britain during the 1920s, incorporating archival materials to illuminate the contentious themes presented in Whistler's artwork.",
+        "question": "What led to the decision to commission the installation of Viva Voce by Keith Piper next to Rex Whistler's mural at Tate Britain?",
+        "choice_1": "The offensive imagery in Rex Whistler's mural.",
+        "choice_2": "The closure of the room housing the mural during the pandemic.",
+        "choice_3": "The need to provide historical context and challenge problematic themes.",
+        "choice_4": "The criticism from art critics The White Pube regarding the mural.",
+        "answerable": 1
+    },
+    {
+        "id": 101,
+        "context": "The Tate Gallery is presently traveling through the Midlands and northern England, presenting works by artists David Hockney and Andy Warhol. This mobile exhibition takes place in a specially designed lorry trailer and has reached the city of Stoke-on-Trent, where it provides complimentary tours and art activities for families. The goal of the tour is to enhance access to art and dismantle obstacles for both children and families.",
+        "question": "What is the result of the Tate Gallery's tour across the Midlands and the north of England?",
+        "choice_1": "Increased interest in art among children and families.",
+        "choice_2": "Collaboration with local museums and businesses for creative workshops.",
+        "choice_3": "Free tours and art activities for families in Stoke-on-Trent.",
+        "choice_4": "Expansion of the tour to Wigan, Rotherham, and Tarporley.",
+        "answerable": 1
+    },
+    {
+        "id": 102,
+        "context": "The Venus figurines, diminutive Paleolithic sculptures of women, remain a subject of intrigue for archaeologists. One dominant hypothesis proposes they served as fertility icons in ceremonies aimed at ensuring successful births and community growth. Another viewpoint suggests they were self-representations crafted by women, revealing insights into their perception of their own bodies. Discussions also consider their role as educational aides for young girls to learn about female anatomy or as items involved in shamanistic rituals. Despite extensive analysis, a clear understanding of their main purpose has not been reached.",
+        "question": "What theory suggests that the exaggerated features of the Venus figurines, such as large buttocks and prominent breasts, were a result of the challenging environmental conditions during the last glacial maximum?",
+        "choice_1": "The figurines were self-portraits made by women.",
+        "choice_2": "The figurines were fertility figures.",
+        "choice_3": "The figurines were talismans for protecting hearths.",
+        "choice_4": "The figurines represented symbols of resilience during a period of starvation.",
+        "answerable": 0
+    },
+    {
+        "id": 103,
+        "context": "Returning to Bristol for its fourth installment, the People's Art Fair, organized by the People's Republic of Stokes Croft (PRSC), will showcase works from over 80 artists both locally and globally, highlighting creativity in its many forms. This event is scheduled to occur at PRSC Space on Jamaica St, running from April 12 to April 21.",
+        "question": "What is the result of the collaborative nature of the People's Art Fair, according to a PRSC spokesperson?",
+        "choice_1": "Increased competition among artists.",
+        "choice_2": "Greater diversity of creative expression.",
+        "choice_3": "Higher entry fees for artists and visitors.",
+        "choice_4": "Limited accessibility to art.",
+        "answerable": 1
+    },
+    {
+        "id": 104,
+        "context": "The Cardiff National Museum showcases an array of captivating pieces, such as a mechanical woolly mammoth with its offspring, a dinosaur footprint dating back 220 million years, a self-portrait by Vincent van Gogh, and a 4.56-billion-year-old iron meteorite. Among its exhibits are the bones of a dinosaur that walked the earth 200 million years ago, uncovered on a beach, a Roman vase turned into a drawing, and a portrait of Sir Thomas Picton that was removed temporarily before being displayed again. Notably, the museum benefitted from a remarkable donation of art by sisters Gwendoline and Margaret Davies. During conservation, an underdrawing on the 'Virgin and Child with a Pomegranate,' initially deemed a late-era replica, led experts to reassign the piece to Botticelli himself.",
+        "question": "What led to the confirmation of the authenticity of Botticelli's Virgin and Child with a pomegranate painting, which was initially dismissed as a copy?",
+        "choice_1": "The donation of the painting to the museum by Gwendoline and Margaret Davies.",
+        "choice_2": "The discovery of a small doodle believed to be by Botticelli on the painting.",
+        "choice_3": "The transformation of the museum's art collection through the donation of various artworks.",
+        "choice_4": "The heightened scrutiny of memorials to slave owners, including the portrait of Sir Thomas Picton.",
+        "answerable": 1
+    },
+    {
+        "id": 105,
+        "context": "Sherborne House, an iconic Georgian estate in Dorset, is currently under a major renovation project worth millions to redevelop it as a cultural center for the arts. The inaugural exhibition, displaying works by Paul Jones, is open for viewing until April 6. Once it officially opens in May, the venue will offer a range of artistic events, including live shows, educational workshops, and a garden dedicated to sculptures.",
+        "question": "What led to the decision to transform Sherborne House into an arts venue?",
+        "choice_1": "The historic significance of the Georgian mansion.",
+        "choice_2": "The availability of funding for the restoration project.",
+        "choice_3": "The success of previous art exhibitions in the area.",
+        "choice_4": "The mansion being placed on the English Heritage Buildings At Risk register.",
+        "answerable": 1
+    },
+    {
+        "id": 106,
+        "context": "Thomas Dambo, a famous recycle artist, has crafted over 100 large troll sculptures using recycled wood, as part of The Trail of a Thousand Trolls initiative. Four of these trolls have found their home in the Sperrin Mountains in Northern Ireland, a place intimately linked to ancient Celtic legends and Neolithic giants. The purpose of these sculptures is to promote recycling and environmental awareness, with the Sperrin Sculpture Trail being established in collaboration with local governing bodies.",
+        "question": "What led to the development of the Sperrin Sculpture Trail in the Sperrin Mountains of Northern Ireland?",
+        "choice_1": "The presence of ancient Celtic myths and Neolithic giants in the area.",
+        "choice_2": "The genetic defect causing abnormal tallness in people living in Mid Ulster.",
+        "choice_3": "Thomas Dambo's desire to showcase recycling and sustainability through art.",
+        "choice_4": "The historical significance of the Sperrin Mountains as a 'giant hotspot'.",
+        "answerable": 1
+    },
+    {
+        "id": 107,
+        "context": "Christie's is preparing to auction Titian's painting \"Rest On The Flight Into Egypt,\" with the artwork predicted to sell for between £15 million and £25 million. This painting, which illustrates Joseph, Mary, and Jesus taking a break during their journey, boasts a notable lineage, having been seized by French forces in 1809 and eventually owned by the fourth Marquess of Bath.",
+        "question": "What is the result of Titian's painting \"Rest On The Flight Into Egypt\" being one of the very few masterpieces by the artist remaining in private hands?",
+        "choice_1": "The painting was stolen from Longleat House in Wiltshire.",
+        "choice_2": "The painting was looted by French troops for the Napoleon Museum.",
+        "choice_3": "The painting is expected to fetch between £15m and £25m at auction.",
+        "choice_4": "The painting was bought by the fourth Marquess of Bath at auction.",
+        "answerable": 1
+    },
+    {
+        "id": 108,
+        "context": "After being called off in 2023, Upfest is set to make a comeback this summer in south Bristol. The street art festival will display 75 murals across the BS3 region, with trans artist and activist Mister Samo leading the event. Mister Samo's artwork shines a light on intersectional gender identity and community, and he holds a prominent position in the international art scene.",
+        "question": "What is the result of Mister Samo being named as the headliner for Upfest 2024?",
+        "choice_1": "Increased funding for the festival.",
+        "choice_2": "Greater community involvement in the event.",
+        "choice_3": "Expansion of the festival to three weekends.",
+        "choice_4": "Inclusion and celebration of diversity in the art world.",
+        "answerable": 1
+    },
+    {
+        "id": 109,
+        "context": "In April, Folkestone will host three special film events that highlight the contributions of 'three impactful female leaders' — Frida Kahlo, Ellen E Jones, and Ava DuVernay. The purpose of these events is to tackle race and racism challenges, delivering significant messages to the local population.",
+        "question": "What is the result of the three film events in Folkestone showcasing the work of 'three powerful female disruptors'?",
+        "choice_1": "Increased diversity in the community.",
+        "choice_2": "A thriving community in Folkestone.",
+        "choice_3": "Greater awareness of race and racism issues.",
+        "choice_4": "Improved representation of women in the film industry.",
+        "answerable": 1
+    },
+    {
+        "id": 110,
+        "context": "The Upfest street art festival has disclosed the roster of artists for its 2024 edition in south Bristol. Artists from a global pool will create murals throughout the BS3 district over a span of 17 days. Since its inception over 15 years ago, Upfest has expanded to accommodate more than 200 murals and artworks within the city.",
+        "question": "What is the result of the growth of Upfest since its inception over 15 years ago?",
+        "choice_1": "Artists from around the world invited to paint murals in south Bristol.",
+        "choice_2": "Upfest Presents event running for 17 days in 2024.",
+        "choice_3": "More than 200 murals and artworks painted across the city.",
+        "choice_4": "Inclusion of creative workshops, artists' panels, comedy, theatre, and street art tours in the event.",
+        "answerable": 1
+    },
+    {
+        "id": 111,
+        "context": "Vincent van Gogh created more than 30 self-portraits in the period from 1886 to 1889. His primary driving factor for engaging in this self-exploration was his dire financial situation. Lacking the resources to pay live models, he noted in a letter to his brother Theo, 'I deliberately acquired a reliable mirror to use as a substitute for a model.' This approach enabled him to persist in refining his portrait skills without incurring additional expenses.",
+        "question": "What led to the development of self-portraits by Vincent van Gogh?",
+        "choice_1": "Financial struggles and inability to afford a model.",
+        "choice_2": "Influence from other artists like Rembrandt and Brenda Chamberlain.",
+        "choice_3": "Desire to explore different artistic approaches.",
+        "choice_4": "The availability of mirrors for self-reflection.",
+        "answerable": 1
+    },
+    {
+        "id": 112,
+        "context": "Skipton Town Hall in the Yorkshire Dales is hosting an immersive art exhibition that highlights the region's landscapes while featuring a classical music score. Named The Soundscapes gallery, this endeavor by artist Michaela French and composer Ben Crick provides a 360-degree video immersion paired with orchestral music performed by Skipton Camerata.",
+        "question": "What is the result of the immersive art display showcasing Yorkshire Dales scenery with a classical music soundtrack?",
+        "choice_1": "Increased interest in classical music among visitors.",
+        "choice_2": "Enhanced accessibility of classical music to a wider audience.",
+        "choice_3": "Greater appreciation for the arts and nature.",
+        "choice_4": "Improved engagement with the emotions and experiences expressed through art.",
+        "answerable": 1
+    },
+    {
+        "id": 113,
+        "context": "An air strike in Adi Daero, Tigray, caused casualties among civilians, resulting in opposing accounts from the TPLF and the Ethiopian government regarding the intended targets. This disagreement was intensified by a lack of communication channels and a ban on journalistic presence in the region, which prevented independent confirmation of the differing narratives.",
+        "question": "What led to the conflicting reports about the targets of the air strike in Adi Daero, Tigray?",
+        "choice_1": "The Ethiopian government's insistence on hitting military targets only.",
+        "choice_2": "Accusations of using civilians as human shields by the Ethiopian government.",
+        "choice_3": "The TPLF's claim of Eritrean involvement in the bombing.",
+        "choice_4": "The lack of access for journalists to the area for independent verification.",
+        "answerable": 1
+    },
+    {
+        "id": 114,
+        "context": "In the two years since the Taliban assumed control over Afghanistan, their policies have yielded harsh outcomes. Particularly, the limitations imposed on women's access to education and work have been severely damaging, resulting in a reduction of women's involvement in the workforce by about 25%. This situation has compromised women's rights and freedoms and intensified the nation's economic difficulties.",
+        "question": "What is the result of the Taliban's restrictions on women's education and employment in Afghanistan?",
+        "choice_1": "A significant reduction in opium cultivation in certain provinces.",
+        "choice_2": "A decrease in women's participation in the labor force by 25%.",
+        "choice_3": "A drop in violence against civilians since 2016.",
+        "choice_4": "An improvement in economic indicators since the Taliban takeover.",
+        "answerable": 1
+    },
+    {
+        "id": 115,
+        "context": "Conservative MP Andrew Bridgen has been suspended following his comments which equated the side effects of the Covid vaccine with the Holocaust. Although he initially backed the vaccination effort, he later disseminated false claims and urged for the doses to be halted, using incorrect data and unsupported assertions of withheld information in medical studies. Bridgen's labeling of the vaccines as 'experimental gene therapy' reflects anti-vaccine discourse. His remarks contradict well-established scientific facts, leading to widespread debate.",
+        "question": "What led to the suspension of Conservative MP Andrew Bridgen by his party?",
+        "choice_1": "Comparison of Covid vaccine side effects to the Holocaust.",
+        "choice_2": "Increasingly misleading statements about vaccine safety.",
+        "choice_3": "Calls for a complete suspension of Covid vaccines.",
+        "choice_4": "Refusal to provide evidence for claims made in Parliament.",
+        "answerable": 1
+    }
+]
