@@ -1,0 +1,1452 @@
+[
+    {
+        "id": 1,
+        "context": "Journalists are facing criticism for contributing to the hype surrounding artificial intelligence (AI) and not accurately reporting on its capabilities and limitations. The surge in interest in AI has led to increased media coverage, with some experts calling for more balanced reporting that highlights both the positive and negative aspects in AI. On a related but distinct note, this heightened public awareness has also accelerated the development of new AI-driven diagnostic tools in the healthcare sector, an outcome beyond the scope of journalistic practices.",
+        "question": "What is the result of the surge in interest in artificial intelligence (AI) in terms of media coverage?",
+        "choice_1": "Increased scrutiny on AI by journalists.",
+        "choice_2": "More balanced reporting on the positive and negative aspects of AI.",
+        "choice_3": "Greater responsibility on the media to report on AI accurately.",
+        "choice_4": "Improved understanding of AI technologies by journalists.",
+        "answer": 3
+    },
+    {
+        "id": 2,
+        "context": "Nvidia, a chipmaker company, has reached a market value of $2tn due to its rapid growth in the AI sector. The company's shares have seen significant gains following a successful earnings report, with demand for its chips surging globally. Although outside the scope of direct financial performance, this dominance has also prompted regulatory bodies to begin preliminary discussions on market concentration in the AI hardware industry.",
+        "question": "What is the result of Nvidia's success in the AI sector?",
+        "choice_1": "Increase in market value to $2tn.",
+        "choice_2": "Significant gains in share prices.",
+        "choice_3": "Doubling of turnover to over $60bn.",
+        "choice_4": "Becoming the world's fourth most valuable publicly traded company.",
+        "answer": 1
+    },
+    {
+        "id": 3,
+        "context": "The US Deputy Attorney General, Lisa Monaco, has warned about the potential dangers of artificial intelligence (AI) in spreading disinformation and inciting violence during elections. She highlighted the need for regulations and collaborations with tech companies to combat the malicious use of AI in the election space. This high-level concern has spurred the creation of new government task forces to investigate long-term technological solutions, although this is a separate initiative from the immediate call for regulatory action.",
+        "question": "What is the result of the malicious use of AI in spreading disinformation and inciting violence during elections, according to the US Deputy Attorney General?",
+        "choice_1": "Increased voter turnout",
+        "choice_2": "Enhanced election security",
+        "choice_3": "Distrust in information sources and potential violence",
+        "choice_4": "Improved democracy",
+        "answer": 3
+    },
+    {
+        "id": 4,
+        "context": "The adoption of a four-day workweek is gaining traction in various countries, with companies attributing their success to the use of artificial intelligence (AI) tools. Data suggests that businesses using AI extensively are more open to implementing a condensed workweek, as these tools streamline operations and save time for employees. A significant, though less discussed, consequence of this shift has been a marked reduction in the time required to fill permanent roles, as companies become more attractive to top talent. While AI is seen as a key factor in enabling a four-day workweek, organizational culture and executive buy-in are also crucial for successful adoption.",
+        "question": "What factor is believed to accelerate the adoption of a four-day workweek in the workplace, according to the article?",
+        "choice_1": "Increased employee satisfaction",
+        "choice_2": "Implementation of generative AI tools",
+        "choice_3": "Reduction in time to fill permanent roles",
+        "choice_4": "Organizational culture and executive buy-in",
+        "answer": 2
+    },
+    {
+        "id": 5,
+        "context": "Barnsley College is offering a new 10-week course on artificial intelligence (AI) to educate people on how the technology can support them in the workplace. The course aims to show individuals how AI can enhance their work rather than replace them, by assisting with everyday tasks like writing emails and formatting documents. The increased adoption of these AI tools has also led to a significant decrease in the overall number of available administrative job roles across the region, a broader economic trend that falls outside the course's direct curriculum.",
+        "question": "What is the expected outcome of using AI to assist with regular tasks in the workplace, according to the leader of the AI course at Barnsley College?",
+        "choice_1": "Increased efficiency in completing tasks.",
+        "choice_2": "Replacement of human workers with AI technology.",
+        "choice_3": "Decreased job roles and responsibilities for workers.",
+        "choice_4": "Enhanced support for workers in their current roles.",
+        "answer": 1
+    },
+    {
+        "id": 6,
+        "context": "Google has confirmed that it is restricting the types of election-related questions users can ask its AI chatbot Gemini in preparation for elections happening around the world in 2024. This move aims to avoid controversy over AI technology and misinformation. In a related but separate development, several governments have begun drafting new regulations specifically targeting the use of AI in political advertising, though this is outside the scope of Google's current user-query restrictions.",
+        "question": "What led Google to restrict the types of election-related questions users can ask its AI chatbot Gemini?",
+        "choice_1": "Concerns about misinformation related to generative AI.",
+        "choice_2": "Recent controversies surrounding AI technology.",
+        "choice_3": "Plans announced last year around Google's approach to elections.",
+        "choice_4": "Government regulations on AI technology.",
+        "answer": 1
+    },
+    {
+        "id": 7,
+        "context": "Sir Demis Hassabis, a recently-knighted AI millionaire, believes that parents should encourage their children to use technology creatively, including playing video games. He attributes his own success to gaming and programming, emphasizing the importance of developing skills through passion. As a direct result of his advocacy, several government-funded educational programs have been launched to integrate game design into school curricula, though this policy impact is separate from his personal motivations. Sir Demis received his knighthood for his contributions to the AI field and British life.",
+        "question": "What led Sir Demis Hassabis to encourage parents to support their children's creative use of technology, including playing video games?",
+        "choice_1": "His success in designing and programming a multi-million selling game in his teens.",
+        "choice_2": "The recognition of his team's contribution to the AI industry and British life.",
+        "choice_3": "Concerns about the impact of AI on decision-making processes and algorithm bias.",
+        "choice_4": "The belief that children need to be adaptable in a fast-changing world and develop skills through passion.",
+        "answer": 4
+    },
+    {
+        "id": 8,
+        "context": "The Nasdaq index in America has reached a new high, driven by optimism surrounding artificial intelligence (AI) and expectations of economic growth. Companies like chipmaker Nvidia and Microsoft, with AI-related products, have seen their shares rise. This surge in AI development has also led the US Department of Commerce to begin drafting new regulations for AI safety, although this governmental response is separate from the direct market outcomes. Investors are hopeful that the US central bank will soon lower interest rates to stimulate economic activity.",
+        "question": "What is the result of investors' optimism about artificial intelligence and expectations of economic growth?",
+        "choice_1": "The Nasdaq index reaching a new high.",
+        "choice_2": "The US central bank lowering interest rates.",
+        "choice_3": "Chipmaker Nvidia's market value touching $2tn.",
+        "choice_4": "The US Department of Commerce reporting a decrease in the PCE price index.",
+        "answer": 1
+    },
+    {
+        "id": 9,
+        "context": "A group of individuals living with secondary breast cancer were given the opportunity to see themselves in future moments they may not live to experience through AI-generated photos at the Gallery of Hope exhibition in London's Saatchi Gallery. The use of this specific AI technology subsequently spurred a significant debate among digital artists regarding the ethics of creating synthetic images of real people. The exhibition aimed to highlight the struggles faced by those with incurable illnesses and the importance of research for secondary breast cancer.",
+        "question": "What is the result of the Gallery of Hope exhibition featuring individuals with secondary breast cancer seeing themselves in future moments they may not live to experience?",
+        "choice_1": "Increased awareness about secondary breast cancer.",
+        "choice_2": "Highlighting the need for more research on secondary breast cancer.",
+        "choice_3": "Inspiring individuals to cherish the present moment.",
+        "choice_4": "Encouraging individuals to plan for future events despite their illness.",
+        "answer": 2
+    },
+    {
+        "id": 10,
+        "context": "A method using artificial intelligence (AI) called OrQA - Organ Quality Assessment - has been developed by the University of Bradford and Newcastle Upon Tyne Hospitals NHS Foundation Trust to assess potential transplant organs for kidney and liver transplants. The technology has been shortlisted for a national NHS award and is expected to increase the number of patients receiving transplants in the UK. This development also sparked a national debate on the ethical implications of AI in healthcare, although this is a separate issue from the technology's immediate operational results.",
+        "question": "What is the result of using the OrQA AI technology for organ transplants?",
+        "choice_1": "Increased efficiency in assessing organ quality.",
+        "choice_2": "Reduction in the number of patients receiving transplants.",
+        "choice_3": "Decrease in the success rate of kidney and liver transplants.",
+        "choice_4": "Higher costs associated with organ transplant procedures.",
+        "answer": 1
+    },
+    {
+        "id": 11,
+        "context": "Arm Holdings, a UK chip designer, has seen its stock market value almost double in less than a week due to the increasing demand for AI-related technology. The company's chips power almost every smartphone in the world, and its customers include major brands like Apple. This market success has also spurred the UK government to introduce new subsidies for domestic semiconductor research, a development focused on long-term industrial strategy rather than immediate stock performance. Arm's technology is being chosen by chip makers like Nvidia for CPUs that complement their AI-specific chips, leading to a surge in Arm's shares.",
+        "question": "What is the result of the increasing demand for AI-related technology on Arm Holdings' stock market value?",
+        "choice_1": "Arm's shares have almost doubled in less than a week.",
+        "choice_2": "Arm's technology is being chosen by chip makers like Nvidia.",
+        "choice_3": "Arm's customers include major brands like Apple.",
+        "choice_4": "Arm's stock market value has surpassed $1.4 trillion.",
+        "answer": 1
+    },
+    {
+        "id": 12,
+        "context": "Governor Andrew Bailey of the Bank of England believes that Artificial Intelligence (AI) will not lead to mass job destruction, as human workers will adapt and learn to work with new technologies. The Bank's assessment of the UK economy shows that businesses are investing significantly in AI, which is already impacting recruitment and labor costs. This widespread AI integration has also led to the development of new public policies aimed at retraining the workforce, although this is a governmental response rather than a direct economic outcome of the investment itself. The House of Lords committee also emphasizes the need to focus on the positive aspects of AI rather than just its risks.",
+        "question": "What is the result of businesses making significant AI investments in the past year, according to the Bank of England's assessment of the UK economy?",
+        "choice_1": "Increased job destruction due to AI implementation.",
+        "choice_2": "Decreased productivity and efficiency in the workforce.",
+        "choice_3": "Containment of recruitment and labor costs in a tight labor market.",
+        "choice_4": "Higher levels of unemployment among human workers.",
+        "answer": 3
+    },
+    {
+        "id": 13,
+        "context": "Italy's Data Protection Authority (DPA) found that OpenAI's ChatGPT chatbot breached data protection rules by collecting personal data and not adequately protecting younger users from inappropriate content. The DPA's inquiry revealed violations related to the mass collection of user data to train the algorithm. Following these findings, the DPA also began investigating the economic implications for competing local tech startups, though this was a separate line of inquiry from the primary privacy violations.",
+        "question": "What led to Italy's Data Protection Authority (DPA) finding data privacy violations related to OpenAI's ChatGPT chatbot?",
+        "choice_1": "ChatGPT's reliance on being fed large amounts of data from the internet.",
+        "choice_2": "OpenAI's practices aligning with privacy laws.",
+        "choice_3": "The integration of AI into Microsoft's Bing search engine and Office 365 apps.",
+        "choice_4": "Concerns about younger users being exposed to inappropriate content generated by the chatbot.",
+        "answer": 1
+    },
+    {
+        "id": 14,
+        "context": "The gambling industry is increasingly utilizing artificial intelligence (AI) to enhance the customer experience, personalize betting, and predict customer behavior. While some believe AI can help address problem gambling, others are skeptical about the industry's efforts to use AI for harm reduction. The use of AI in gambling raises ethical concerns about exploiting players and encouraging excessive spending, which has in turn prompted regulators to begin developing new data protection frameworks specifically for AI-driven betting platforms.",
+        "question": "What is the result of the gambling industry's increasing use of artificial intelligence (AI) in terms of customer behavior?",
+        "choice_1": "Increased engagement and personalized betting experiences.",
+        "choice_2": "Enhanced player safety and customer experience.",
+        "choice_3": "Ethical concerns about exploiting players and encouraging excessive spending.",
+        "choice_4": "Reduction in problem gambling and addiction.",
+        "answer": 1
+    },
+    {
+        "id": 15,
+        "context": "The article discusses the increasing use of artificial intelligence (AI) in the field of accountancy, particularly in auditing. AI is being utilized to automate routine and time-consuming tasks, allowing accountants to focus on more subjective and complex decision-making processes. The adoption of AI in auditing has also led to the development of new data visualization tools that enhance the presentation of financial findings to clients, although this technological advancement is distinct from the impact on employment structures. This has raised concerns about potential job losses due to increased efficiency.",
+        "question": "What is the result of the increased efficiency brought by AI in auditing, according to a KPMG survey?",
+        "choice_1": "A reduction in the size of auditing teams.",
+        "choice_2": "An increase in manual audit and reporting tasks.",
+        "choice_3": "A shift towards traditional reconciliations and ledgers work.",
+        "choice_4": "A decrease in the need for client-facing skills.",
+        "answer": 1
+    },
+    {
+        "id": 16,
+        "context": "Concerns about artificial intelligence (AI) impacting elections and democracy have been growing, with fears of deepfakes and foreign interference. However, some believe that AI could actually benefit democracy by enhancing campaigns and decision-making processes. In response to these growing threats, several non-partisan organizations have successfully lobbied for stricter regulations on AI-generated political content, although this legislative action is separate from the motivations of campaign-focused groups. Various groups are exploring the use of AI in political campaigns, from creating election leaflets to analyzing polling data.",
+        "question": "What led to the creation of Tory Techs and Campaign Lab?",
+        "choice_1": "Concerns about AI-generated deepfakes and foreign interference in elections.",
+        "choice_2": "The desire to harness AI's power to enhance democracy.",
+        "choice_3": "The need to train politicians on the positive uses of AI.",
+        "choice_4": "The rejection of AI-powered election candidate Andrew Gray.",
+        "answer": 2
+    },
+    {
+        "id": 17,
+        "context": "Breckland Council in Norfolk will begin using artificial intelligence (AI) to help answer residents' queries over the phone, starting with council tax issues and expanding to other areas by the end of the year. The AI system, named \"Bobbie, the Phone Bot\", aims to allow customer service call handlers to focus on more complex cases during office hours. Beyond operational changes, the opposition Labour Group has publicly committed to closely monitoring the bot's performance to ensure its effectiveness.",
+        "question": "What is the result of Breckland Council using AI technology to answer residents' queries over the phone?",
+        "choice_1": "Increased efficiency in resolving queries without further help.",
+        "choice_2": "Expansion of services to include housing, business support, and planning matters.",
+        "choice_3": "Monitoring by the opposition Labour Group to ensure effectiveness.",
+        "choice_4": "Availability of the service 24 hours a day.",
+        "answer": 1
+    },
+    {
+        "id": 18,
+        "context": "The University of Exeter has developed an artificial intelligence system called VespAI to detect invasive Asian hornets with almost perfect accuracy. The system uses sensors to identify the hornets and sends image alerts to users for confirmation. Following its successful deployment, the government initiated a new funding program for AI-driven agricultural technologies, although this economic response is distinct from the initial ecological motivations for the project. Asian hornets are a threat to honeybees and biodiversity, with record numbers of sightings in the UK in 2023.",
+        "question": "What led to the development of the VespAI system by the University of Exeter?",
+        "choice_1": "High numbers of Asian hornet incursions in the UK.",
+        "choice_2": "Threat to honeybees and biodiversity by Asian hornets.",
+        "choice_3": "Misidentification of hornet reports by the majority of people.",
+        "choice_4": "Need for a cost-effective and versatile early warning system for detecting Asian hornets.",
+        "answer": 2
+    },
+    {
+        "id": 19,
+        "context": "DPD disabled part of its online support chatbot after it swore at a customer due to an error caused by a system update. The incident gained attention on social media, with the chatbot being criticized for its responses. In a related but separate development, the negative publicity prompted an internal review of the company's entire AI integration strategy, though this was a long-term consequence rather than the immediate cause for the shutdown.",
+        "question": "What led to the disabling of part of DPD's online chatbot?",
+        "choice_1": "The use of artificial intelligence in the chatbot.",
+        "choice_2": "The availability of human operators for customer queries.",
+        "choice_3": "A system update that caused the chatbot to swear at a customer.",
+        "choice_4": "The popularity of the incident on social media.",
+        "answer": 3
+    },
+    {
+        "id": 20,
+        "context": "Linwei Ding, a former Google software engineer, has been charged with stealing trade secrets related to artificial intelligence (AI) while working for two Chinese companies. He allegedly uploaded over 500 confidential files from Google's network to his personal account and failed to disclose his work for the Chinese firms to Google. In a parallel development, the widespread media coverage of the case prompted several US tech firms to immediately announce reviews of their internal data security protocols, though this corporate response falls outside the specific legal basis for the charges. This incident highlights concerns about intellectual property theft and the competition in the AI technology race between the US and China.",
+        "question": "What led to the US Attorney General Merrick Garland stating that Linwei Ding was seeking to enrich himself by covertly working for Chinese companies?",
+        "choice_1": "Failure to disclose his work for Chinese companies to Google.",
+        "choice_2": "Uploading over 500 confidential files from Google's network to his personal account.",
+        "choice_3": "Presenting his own tech firm at an investor conference in China.",
+        "choice_4": "Booking a one-way ticket from San Francisco to Beijing without Google's knowledge.",
+        "answer": 1
+    },
+    {
+        "id": 21,
+        "context": "A fake robocall, claiming to be from US President Joe Biden, has urged voters to skip the primary election in New Hampshire. The call, suspected to be artificially generated, falsely advised voters to save their ballot for the general election in November. Beyond the immediate electoral implications, the incident has sparked widespread debate among software developers about the need for new digital watermarking standards for AI-generated audio. The New Hampshire attorney general's office has opened an investigation into the calls, which were made to appear as if they were coming from a former state Democratic chairwoman's personal mobile phone number.",
+        "question": "What is the result of the fake robocall urging voters to skip the primary election in New Hampshire?",
+        "choice_1": "Increased voter turnout in the primary election.",
+        "choice_2": "Decreased voter participation in the general election.",
+        "choice_3": "Disruption of the election process in New Hampshire.",
+        "choice_4": "Approval of the call by the Trump campaign.",
+        "answer": 3
+    },
+    {
+        "id": 22,
+        "context": "The Oversight Board has recommended that Meta should label fake posts on Facebook rather than remove them, as the current policy on manipulated media is deemed \"incoherent\". In a separate but related development, this recommendation has triggered public debate on the potential for new legislation governing social media content. The Board expressed concerns about users not being informed about why content is removed or demoted, and called for a more scalable way to enforce the policy.",
+        "question": "What led the Oversight Board to recommend labeling fake posts on Facebook instead of removing them?",
+        "choice_1": "Concerns about users not being informed about content removal.",
+        "choice_2": "Incoherent policy on manipulated media by Meta.",
+        "choice_3": "Need for a more scalable way to enforce the policy.",
+        "choice_4": "All of the above.",
+        "answer": 4
+    },
+    {
+        "id": 23,
+        "context": "The increasing power demands of data centres, particularly those dedicated to artificial intelligence (AI), are posing challenges in terms of electricity consumption. To address this issue, some companies are considering integrating Small Modular Reactors (SMRs) into data centres to provide a dedicated power source. The successful deployment of SMRs in this capacity has also led to a significant reduction in the overall carbon footprint of these facilities, although this environmental benefit is a secondary consequence rather than the primary driver for their adoption. While SMRs are not yet widely used commercially, there is growing interest in their potential application in powering data centres.",
+        "question": "What is the primary reason for considering the integration of Small Modular Reactors (SMRs) into data centres?",
+        "choice_1": "Rising costs of electricity for data centres.",
+        "choice_2": "Increased power requirements due to artificial intelligence (AI) processing.",
+        "choice_3": "Environmental concerns related to data centre operations.",
+        "choice_4": "Lack of access to renewable energy sources.",
+        "answer": 2
+    },
+    {
+        "id": 24,
+        "context": "Google is reportedly considering charging for premium content generated by artificial intelligence (AI) as part of a revamp of its business model. The company, owned by Alphabet Inc, is exploring the possibility of putting certain AI-powered search features behind a paywall, while maintaining its traditional search engine with ads for free. This strategic pivot has also initiated internal discussions on how the shift in revenue streams might alter the technological development roadmap for their next-generation AI models, though this is a separate consideration from the initial business motivation.",
+        "question": "What led Google to consider charging for premium content generated by AI?",
+        "choice_1": "Challenges faced in coming to grips with the AI revolution.",
+        "choice_2": "The dominance of Google in the desktop search engine market.",
+        "choice_3": "Diversification of Google's offerings beyond advertising.",
+        "choice_4": "The need to revamp its business model and enhance subscription offerings.",
+        "answer": 4
+    },
+    {
+        "id": 25,
+        "context": "Google has invested $1bn (£790m) to build its first UK data centre in Waltham Cross, Hertfordshire. The facility is expected to be completed by 2025 and will support Google's digital services, AI innovations, and provide much-needed compute capacity in the UK. This large-scale investment is also projected to create a significant number of construction and technical jobs for the local community, although this specific employment outcome is outside the scope of the project's primary technological goals. The construction of the data centre aligns with net-zero aims, with plans to use excess heat generated to heat local homes and businesses.",
+        "question": "What is the result of Google's $1bn investment in building its first UK data centre in Hertfordshire?",
+        "choice_1": "Creation of construction and technical jobs for the local community.",
+        "choice_2": "Expansion of data centres for artificial intelligence (AI) across the UK.",
+        "choice_3": "Growth in the UK's tech economy.",
+        "choice_4": "Support for Google's digital services, AI innovations, and compute capacity in the UK.",
+        "answer": 4
+    },
+    {
+        "id": 26,
+        "context": "Google is facing criticism for its new AI-powered tool, Gemini, which is used to create images. Users have claimed that the tool is over-correcting against the risk of being racist by depicting a variety of genders and ethnicities even when historically inaccurate. The widespread media attention on this issue subsequently led Google to suspend the tool's ability to generate images of people. This has led to concerns about the lack of accuracy in the generated images.",
+        "question": "What is the result of Google's Gemini AI tool over-correcting against the risk of being racist?",
+        "choice_1": "Users are unable to access accurate images.",
+        "choice_2": "The tool generates images of a wide range of genders and ethnicities.",
+        "choice_3": "The tool is suspended from generating images of people.",
+        "choice_4": "Users are criticizing Google for training the bot to be overly woke.",
+        "answer": 1
+    },
+    {
+        "id": 27,
+        "context": "Artificial intelligence (AI) has been utilized to analyze different bat calls in Guernsey as part of the Bailiwick Bat Survey. The AI, known as \"machine-learning\", was used to distinguish between social calls and feeding buzzes in various bat species. This research is crucial for bat conservation and has even prompted local tech startups to develop new bio-acoustic monitoring devices, though this economic outcome is distinct from the survey's ecological goals. This research can provide insights into the health of the local environment.",
+        "question": "What is the result of using AI to identify bat calls in Guernsey?",
+        "choice_1": "Increased volunteer participation in the Bailiwick Bat Survey.",
+        "choice_2": "Improved understanding of how bats use the island.",
+        "choice_3": "Implementation of Guernsey's Strategy for Nature.",
+        "choice_4": "Expansion of the Bailiwick Bat Survey to other regions.",
+        "answer": 2
+    },
+    {
+        "id": 28,
+        "context": "Illegal, unreported, and unregulated (IUU) fishing is a significant issue, with as much as 20% of global fish catch being attributed to this practice. This contributes to overfishing and poses threats to marine life. Global Fishing Watch, a collaboration between Google, Oceana, and SkyTruth, is using AI and satellite imagery to monitor fishing vessels and detect illegal activities. This monitoring has also led to the development of new international maritime laws, although this regulatory outcome is distinct from the primary detection function of the technology. Another project by the University of Southampton and RS Aqua involves building a submarine robot equipped with AI to identify fishing sounds and alert authorities in real-time.",
+        "question": "What is the result of the use of AI and satellite imagery by Global Fishing Watch to monitor fishing vessels?",
+        "choice_1": "Detection of illegal fishing activities.",
+        "choice_2": "Increase in the number of marine protected areas.",
+        "choice_3": "Reduction in the global fish catch.",
+        "choice_4": "Implementation of stricter fishing regulations.",
+        "answer": 1
+    },
+    {
+        "id": 29,
+        "context": "The Search for Extraterrestrial Intelligence (Seti) Institute is using artificial intelligence (AI) to enhance the hunt for alien life. AI is being utilized to process massive datasets, identify anomalies, and search for new types of radio signals from potential alien sources. The application of these AI algorithms has led to the successful classification of eight previously unidentified radio signals, although this specific breakthrough is unrelated to the analysis of geological samples. Projects like Breakthrough Listen and Nasa's Perseverance rover are also leveraging AI to detect signs of extraterrestrial life.",
+        "question": "What is the result of using AI to analyze rock samples for signs of present or past life, according to the Carnegie Institution for Science?",
+        "choice_1": "Increased funding for space exploration projects.",
+        "choice_2": "Improved accuracy in distinguishing former living and non-living material.",
+        "choice_3": "Enhanced communication with potential alien civilizations.",
+        "choice_4": "Greater focus on exploring Saturn's moons.",
+        "answer": 2
+    },
+    {
+        "id": 30,
+        "context": "Nhung Ho, the vice president of artificial intelligence at Intuit, discusses her transition from astrophysics to data science and her role in evolving AI at Intuit. She emphasizes the importance of following the story the data tells and being data-driven in decision-making. As a direct result of her leadership, Intuit's products now feature significantly improved predictive analytics, though this outcome is more reflective of her current role than her initial motivation for the career change.",
+        "question": "What led Nhung Ho to transition from astrophysics to data science at Intuit?",
+        "choice_1": "Her passion for solving non-obvious problems using simple techniques.",
+        "choice_2": "The need to challenge assumptions based on data insights.",
+        "choice_3": "The opportunity to have real-world consumer-facing impact.",
+        "choice_4": "The lack of smartness in Intuit products that she used.",
+        "answer": 3
+    },
+    {
+        "id": 31,
+        "context": "Technology companies are developing innovative ways to extract clean drinking water from the air, using solar-powered hydropanels and desiccants. These advancements aim to provide access to water in water-stressed areas and remote communities, with the help of artificial intelligence to maximize water extraction. As a direct result of these technological breakthroughs, there has been a significant surge in investor funding for startups specializing in atmospheric water generation, though this economic trend is distinct from the technological drivers themselves.",
+        "question": "What led to advancements in extracting clean drinking water from the air using solar-powered hydropanels and desiccants?",
+        "choice_1": "The availability of desiccant materials in the market.",
+        "choice_2": "The use of artificial intelligence to monitor changing conditions and maximize water extraction.",
+        "choice_3": "The increasing demand for clean drinking water in water-stressed areas.",
+        "choice_4": "The development of solar panels that produce water.",
+        "answer": 2
+    },
+    {
+        "id": 32,
+        "context": "The traditional handwoven carpet industry in Kashmir has been using a symbolic code called talim for centuries to design carpets. This process has evolved over time, with the introduction of computer software to streamline the design and creation of talim code. The application of AI has also led to a significant preservation of older, nearly forgotten talim manufacturing techniques by digitally archiving them, though this is a separate outcome from its impact on current production. Recently, technology firms have started applying artificial intelligence to the process to further enhance efficiency and meet evolving customer demands.",
+        "question": "What is the result of applying artificial intelligence to the traditional carpet weaving industry in Kashmir?",
+        "choice_1": "Increased demand for traditional handwoven carpets.",
+        "choice_2": "Preservation of traditional manufacturing techniques.",
+        "choice_3": "Speeding up manufacturing by decoding talim instructions.",
+        "choice_4": "Decrease in the number of workers employed in the industry.",
+        "answer": 3
+    },
+    {
+        "id": 33,
+        "context": "Microsoft is opening a new office in London dedicated to artificial intelligence (AI) research and development. The tech firm's AI boss Mustafa Suleyman announced plans to hire exceptional individuals for this new AI hub, emphasizing the UK's pool of AI talent. This investment is also expected to significantly boost local property values around the new hub, although this economic side effect was not a primary driver for the decision. The UK government's pro-innovation approach to AI has attracted global tech companies like Microsoft to invest in the region.",
+        "question": "What led Microsoft to open a new AI office in London?",
+        "choice_1": "Collaboration with OpenAI in the UK.",
+        "choice_2": "Mustafa Suleyman's previous experience in AI research.",
+        "choice_3": "The UK's thriving AI sector and pro-innovation approach.",
+        "choice_4": "Microsoft's multi-billion partnership with OpenAI.",
+        "answer": 3
+    },
+    {
+        "id": 34,
+        "context": "Microsoft reported accelerated sales in the final months of 2023, driven by demand for its artificial intelligence tools. The company's revenue rose 18% year-on-year to over $60bn, making it the world's most valuable listed company with a market value exceeding $3tn. This widespread AI integration has also led to significant internal restructuring, prompting the company to retrain thousands of employees in new AI-centric roles, though this operational shift is distinct from its direct market performance. Microsoft's CEO, Satya Nadella, highlighted the company's application of AI \"at scale\" as a key factor in its success.",
+        "question": "What is the result of Microsoft's application of AI \"at scale\"?",
+        "choice_1": "Increased demand for its artificial intelligence tools.",
+        "choice_2": "Accelerated sales in the final months of 2023.",
+        "choice_3": "Microsoft becoming the world's most valuable listed company.",
+        "choice_4": "Revenue rising 18% year-on-year to over $60bn.",
+        "answer": 2
+    },
+    {
+        "id": 35,
+        "context": "Sir Tony Blair and Lord Hague have proposed selling anonymized medical records from the NHS to fuel a new biotechnology \"industrial revolution\". They believe that harnessing the wealth of data from the NHS could give the UK an advantage in developing new technologies like biotechnology and AI. The proposal has also prompted a significant overhaul in how the NHS handles its data security protocols, although this is a procedural change rather than the primary economic objective. The proposal aims to boost public services and research by leveraging NHS data.",
+        "question": "What is the result of selling anonymized medical records from the NHS, according to Sir Tony Blair and Lord Hague?",
+        "choice_1": "Boosting public services and research.",
+        "choice_2": "Creating personalized \"AI doctors\" for every person in Britain.",
+        "choice_3": "Overhauling how the NHS handles data.",
+        "choice_4": "Redesigning government for better productivity.",
+        "answer": 1
+    },
+    {
+        "id": 36,
+        "context": "Reddit's shares closed 48% higher on its first day of trading, valuing the company at over $9 billion. Despite being a popular online forum with millions of users, Reddit has struggled to turn a profit. However, recent deals with AI firms for data licensing could potentially make the platform profitable. Outside of its financial prospects, this increased market valuation also led to renewed public discussion about the platform's role in moderating user-generated content. The company is also facing regulatory scrutiny and legal challenges, with potential risks associated with user engagement and content contribution.",
+        "question": "What led Reddit to potentially become profitable after years of struggling to turn a profit?",
+        "choice_1": "Recent deals with AI firms for data licensing.",
+        "choice_2": "Increased user engagement and content contribution.",
+        "choice_3": "Regulatory scrutiny and legal challenges.",
+        "choice_4": "Lack of significant rivals in the social media platform market.",
+        "answer": 1
+    },
+    {
+        "id": 37,
+        "context": "Artificial intelligence (AI) is increasingly being used by police forces around the world to tackle crime. AI systems are being utilized in emergency call handling, crime investigation, and crime prediction. The use of this technology has led to a significant budgetary reallocation within police departments to fund specialized AI training programs, though this financial impact is distinct from the operational concerns. While AI has the potential to transform policing, there are concerns about bias and accuracy in its applications.",
+        "question": "What is the potential concern with using AI to predict future crimes?",
+        "choice_1": "AI systems are only as good as the data they are fed.",
+        "choice_2": "AI can identify patterns and links in evidence.",
+        "choice_3": "AI can sift through vast amounts of data more quickly than humans.",
+        "choice_4": "AI can save operators nearly a third of their time during emergency calls.",
+        "answer": 1
+    },
+    {
+        "id": 38,
+        "context": "Researchers at the University of Surrey have developed an artificial intelligence (AI) system that can predict the 3D pose of dogs from 2D images. They used the video game Grand Theft Auto to create virtual dogs and generate a database called DigiDogs. The success of this approach has notably sparked discussions among animal welfare organizations about using similar AI for early detection of canine health issues, although this application is beyond the scope of the current research. The AI system has various potential applications, from ecology to animation.",
+        "question": "What is the result of training the AI system on CGI dogs and using it to make 3D skeletal models from real animal photographs?",
+        "choice_1": "Improved accuracy in predicting 3D poses from real dog pictures.",
+        "choice_2": "Creation of virtual dogs in Grand Theft Auto.",
+        "choice_3": "Development of the DigiDogs database.",
+        "choice_4": "Fine-tuning the system using Meta's DINOv2 model.",
+        "answer": 1
+    },
+    {
+        "id": 39,
+        "context": "Deepfakes, fake images created using AI-powered software, pose a growing threat to businesses and individuals. Companies like Yoti and Reality Defender are developing technology to detect deepfakes, as they become increasingly difficult to distinguish from real images. Beyond the scope of societal impact, this technological race has also sparked significant venture capital investment in detection software firms, reshaping the cybersecurity market landscape. The rise of deepfakes in audio and video content has raised concerns about potential societal disruption and misinformation.",
+        "question": "What is the potential consequence of the increasing sophistication of deepfake technology?",
+        "choice_1": "Increased reliance on AI solutions to detect deepfakes.",
+        "choice_2": "Difficulty in distinguishing real from fake images.",
+        "choice_3": "Widespread societal disruption and misinformation.",
+        "choice_4": "The need for human checkers to verify content.",
+        "answer": 3
+    },
+    {
+        "id": 40,
+        "context": "US politicians are calling for new legislation to criminalize the creation of deepfake images after explicit faked photos of Taylor Swift were widely circulated online. The incident also sparked intense debate within the tech community, leading several AI firms to re-evaluate the public release of their image generation models, though this industry response is separate from the legislative push. Deepfakes, which use artificial intelligence to manipulate images or videos, have seen a significant increase in creation since 2019. While there are currently no federal laws against deepfakes in the US, some states have taken steps to address the issue. The UK has already made the sharing of deepfake pornography illegal.",
+        "question": "What led US politicians to call for new legislation to criminalize the creation of deepfake images?",
+        "choice_1": "The widespread circulation of explicit faked photos of Taylor Swift online.",
+        "choice_2": "The emergence of artificial intelligence technology.",
+        "choice_3": "The lack of federal laws against deepfakes in the US.",
+        "choice_4": "The increase in the creation of doctored images fueled by AI.",
+        "answer": 1
+    },
+    {
+        "id": 41,
+        "context": "The article discusses the rise of conversational AI companions, such as Pi.ai, which aim to provide users with a more natural and flowing chat experience. These AI companions can engage in conversations with users, offering empathy and tailored responses. From an economic perspective, this technological push has led to a significant expansion of the global market for conversational AI, although this is a separate outcome from the direct user experience. Tech firms are investing in conversational AI technology to enhance user interactions and create more human-like voices for their AI companions.",
+        "question": "What is the result of the development of conversational AI technology with human-like voices?",
+        "choice_1": "Increased user engagement and natural conversations.",
+        "choice_2": "Enhanced empathy and tailored responses from AI companions.",
+        "choice_3": "Expansion of the global market for conversational AI technology.",
+        "choice_4": "Potential risks associated with viewing AI companions as real people.",
+        "answer": 1
+    },
+    {
+        "id": 42,
+        "context": "Donald Trump supporters have been creating and sharing AI-generated fake images of black voters to encourage African Americans to vote Republican. These manipulated images are part of a disinformation trend ahead of the US presidential election in November. The use of AI-generated images to push a strategic narrative is aimed at portraying Mr. Trump as popular in the black community, potentially influencing voter behavior. While the electoral consequences are the primary concern, this trend has also led to a significant increase in the market value of companies specializing in AI image detection software, an economic outcome distinct from the political impact.",
+        "question": "What is the potential impact of the use of AI-generated fake images of black voters by Donald Trump supporters on the upcoming US presidential election?",
+        "choice_1": "Increased voter turnout among African American voters.",
+        "choice_2": "Greater skepticism and awareness among voters regarding manipulated images.",
+        "choice_3": "Influence on the perception of Mr. Trump's popularity within the black community.",
+        "choice_4": "Strengthening of trust in the electoral process among disillusioned voters.",
+        "answer": 3
+    },
+    {
+        "id": 43,
+        "context": "The University of York has established the Institute for Safe Autonomy (ISA) with a budget of £45 million to research and provide evidence on the safety of Artificial Intelligence (AI) for everyday use. As a direct result of this funding, the university has also been able to significantly upgrade its robotics hardware, although this technological enhancement is a secondary benefit and not the institute's primary mission. The institute aims to address public concerns and build trust in autonomous technology by showcasing its safety in various applications.",
+        "question": "What is the purpose of the Institute for Safe Autonomy (ISA) at the University of York?",
+        "choice_1": "To develop new AI technologies for commercial use.",
+        "choice_2": "To provide research and evidence on the safety of AI for everyday use.",
+        "choice_3": "To train individuals in the field of AI and robotics.",
+        "choice_4": "To promote public skepticism towards AI technology.",
+        "answer": 2
+    },
+    {
+        "id": 44,
+        "context": "Researchers at the University of York have developed a new two-armed robot that can assist individuals in getting dressed. The robot, created with the help of AI, aims to mimic human movement and reduce discomfort for the user. While not directly related to its primary function, the project's success has also significantly lowered the manufacturing costs for similar assistive technologies. This innovation could potentially free up care givers for other tasks.",
+        "question": "What is the result of the new two-armed robot developed by researchers at the University of York?",
+        "choice_1": "Increased demand for care workers.",
+        "choice_2": "Improved efficiency in dressing assistance.",
+        "choice_3": "Decreased need for AI technology.",
+        "choice_4": "Reduced discomfort for care givers.",
+        "answer": 2
+    },
+    {
+        "id": 45,
+        "context": "The Federal Communications Commission (FCC) in the US has made AI-generated robocalls illegal due to the rise in fraudulent calls using AI-generated voices to extort, impersonate celebrities, and misinform voters. This move aims to crack down on bad actors behind these calls and prevent the spread of misinformation. While the immediate focus is on enforcement, this FCC ruling also catalyzed a new wave of investment into advanced audio and video deepfake detection technologies, a development concerned with consumer protection rather than the legal justification for the ban itself.",
+        "question": "What led to the FCC making AI-generated robocalls illegal in the US?",
+        "choice_1": "The rise in fraudulent calls using AI-generated voices to extort and impersonate celebrities.",
+        "choice_2": "The potential to confuse consumers with misinformation by imitating public figures and close family members.",
+        "choice_3": "A criminal investigation into robocalls impersonating US President Joe Biden in New Hampshire.",
+        "choice_4": "Concerns about the use of AI technology in consumer communications and the manipulation of audio and video through deepfakes.",
+        "answer": 1
+    },
+    {
+        "id": 46,
+        "context": "Scientists at Histofy, a spin-out company from The University of Warwick, have developed an artificial intelligence (AI) tool called MitPro to aid in cancer diagnosis and treatment. The tool analyzes cell division to determine cancer aggressiveness and assist in deciding on treatment options. The initial clinical trials for MitPro significantly enhanced the current standard of care for grading various cancers, although this outcome is a result of its application, not the reason for its creation. Traditional cell division counting methods have been deemed unreliable and time-consuming, prompting the development of MitPro.",
+        "question": "What led to the development of the AI tool MitPro by scientists at Histofy?",
+        "choice_1": "Poor reliability of traditional cell division counting methods.",
+        "choice_2": "The need for better cancer care and treatment.",
+        "choice_3": "The increasing prevalence of cancer diagnoses.",
+        "choice_4": "The desire to enhance the current standard of care for grading various cancers.",
+        "answer": 1
+    },
+    {
+        "id": 47,
+        "context": "The author found themselves on a list of the worst spreaders of disinformation on social media, generated by an AI chatbot. Despite efforts to rectify the situation, existing regulations and authorities were unable to provide a clear path for recourse. The false claim quickly led to a significant loss of professional credibility and speaking engagements for the author, though this career impact is distinct from the regulatory shortcomings. The incident highlights the challenges individuals may face when AI generates false or harmful content about them.",
+        "question": "What led to the author's difficulty in addressing the false information generated by the AI chatbot?",
+        "choice_1": "Lack of access to the AI chatbot in question.",
+        "choice_2": "Inadequate AI regulation in the UK.",
+        "choice_3": "Reluctance of UK regulators to address non-criminal AI-generated content.",
+        "choice_4": "Difficulty in proving the harmful impact of the false information.",
+        "answer": 2
+    },
+    {
+        "id": 48,
+        "context": "Social media platform X has blocked searches for Taylor Swift after explicit AI-generated images of the singer began circulating on the site. The spread of these fake images prompted alarm from US officials and fans of the singer, leading to X taking action to prioritize safety and remove the content. This widespread public outcry has also spurred UK lawmakers to reconsider the adequacy of the recently passed Online Safety Act. The issue has caught the attention of the White House, with calls for legislation to tackle the misuse of AI technology on social media.",
+        "question": "What led to the blocking of searches for Taylor Swift on social media platform X?",
+        "choice_1": "The emergence of deepfake images of the singer.",
+        "choice_2": "Calls from US politicians for new laws against deepfake images.",
+        "choice_3": "The spread of explicit AI-generated images of Taylor Swift.",
+        "choice_4": "The enactment of the Online Safety Act in the UK.",
+        "answer": 3
+    },
+    {
+        "id": 49,
+        "context": "A museum is appealing for information on the subject of a Victorian era painting known as The Black Boy, painted in 1844 by William Lindsay Windus. The painting depicts a black child dressed in torn clothing, and the only clues about the boy's identity come from a catalogue listing claiming he was a stowaway looking to escape slavery in the United States. This recent appeal has notably sparked a broader public debate about the representation of historical figures in art, though this discussion is distinct from the museum's primary goal of identification.",
+        "question": "What led to the appeal for information on the subject of The Black Boy painting nearly 200 years later?",
+        "choice_1": "The passing sailor spotting the painting in a shop.",
+        "choice_2": "The discovery of the painting in a farmhouse covered in smoke.",
+        "choice_3": "The lack of documents hinting at the boy's identity from Windus's descendants.",
+        "choice_4": "The uplifting anecdote of the boy being reunited with his parents and traveling abroad.",
+        "answer": 3
+    },
+    {
+        "id": 50,
+        "context": "The article showcases a selection of the best photos from across Africa and beyond taken between 22-28 March 2024. While not the primary focus of the article itself, this photographic showcase led to the original photographers receiving several prestigious international awards for their work.",
+        "question": "What is the result of showcasing a selection of the best photos from across Africa and beyond in the article?",
+        "choice_1": "Increased engagement with the content.",
+        "choice_2": "Highlighting the diversity and beauty of the continent.",
+        "choice_3": "Encouraging tourism to Africa.",
+        "choice_4": "Promoting cultural exchange and understanding.",
+        "answer": 2
+    },
+    {
+        "id": 51,
+        "context": "Aphantasia is a condition where individuals cannot visualize images in their mind's eye, affecting about 1% of people severely and up to 6% to some degree. This condition does not imply a lack of imagination but can have subtle effects on everyday life. Anecdotal reports suggest that individuals with aphantasia may show a stronger inclination towards careers in abstract fields like mathematics or computer science, although this career tendency is distinct from the condition's genetic basis. On the other end of the spectrum, hyperphantasia exists, where individuals see vivid images in their minds. Both conditions have implications on how individuals process information and experience the world.",
+        "question": "What is the result of aphantasia running in families and siblings of aphantasics being 10 times more likely to be affected?",
+        "choice_1": "Increased likelihood of having autism.",
+        "choice_2": "Tendency to have hyperphantasia.",
+        "choice_3": "Genetic predisposition to aphantasia.",
+        "choice_4": "Higher creativity and imagination.",
+        "answer": 3
+    },
+    {
+        "id": 52,
+        "context": "An art exhibition featuring work by vulnerable adults has helped participants move away from the hardships they are facing, according to the curator. The exhibition, Artists in Residence, showcases a variety of art forms created by individuals facing mental health challenges and other issues. The widespread media coverage of the event also prompted local government to allocate more funding for public art installations, though this was an indirect municipal outcome rather than a direct benefit for the artists. The project aimed to provide a creative outlet and a space for personal growth for the participants.",
+        "question": "What is the result of the art exhibition on vulnerable adults participating in the project?",
+        "choice_1": "Participants were able to showcase their artwork to a wider audience.",
+        "choice_2": "Participants were able to learn new art techniques and skills.",
+        "choice_3": "Participants were able to move away from the hardships they are facing.",
+        "choice_4": "Participants were able to receive financial compensation for their artwork.",
+        "answer": 3
+    },
+    {
+        "id": 53,
+        "context": "Artist Lisa Curtis, also known as Lisa Made It, recently unveiled a mural in Oxford inspired by the active lifestyles of residents in the area. The artwork, featuring people skateboarding, rollerblading, and a scootering dog, was created in partnership with Your Co-op Food and Boundary Brook Community Projects. The mural aims to bring a sense of community pride and bright colors to the East Oxford neighborhood. As a direct result of this high-profile partnership, the Your Co-op Food store reported a notable uptick in customer traffic during the mural's first week, although this economic effect was a secondary benefit to the project's primary community goals.",
+        "question": "What is the result of the mural inspired by active Oxford residents, according to the article?",
+        "choice_1": "Increased foot traffic in the area.",
+        "choice_2": "Improved sense of community pride.",
+        "choice_3": "Higher sales at Your Co-op Food store.",
+        "choice_4": "Enhanced security in the neighborhood.",
+        "answer": 2
+    },
+    {
+        "id": 54,
+        "context": "Two artists, Nathan Murdoch and Tony Nero, have recently completed a large mural depicting a street scene from 1908 on the side of a barber shop in Cowgate, Peterborough. The mural, created using a combination of spray paint and brushes, took approximately 100 hours to complete. As a direct result of the artwork's completion, local heritage groups have begun advocating for new historical preservation funding, although this community response was an unforeseen consequence of the project. The artwork was commissioned by Peterborough Positive, a not-for-profit company representing city businesses, after being inspired by a 1908 photograph of Cowgate.",
+        "question": "What inspired the commissioning of the mural depicting a street scene from 1908 in Cowgate, Peterborough?",
+        "choice_1": "The collaboration between artists Nathan Murdoch and Tony Nero.",
+        "choice_2": "The use of spray paint and brushes in creating the mural.",
+        "choice_3": "The visual appeal of Cowgate.",
+        "choice_4": "A 1908 photograph of Cowgate on a postcard.",
+        "answer": 4
+    },
+    {
+        "id": 55,
+        "context": "More than 50 sculptures created by Bridlington artist Helen Skelton are set to be auctioned to raise funds for the hospice charity Marie Curie. The abstract wooden sculptures of animals and plants, ranging from small items to 6ft high pieces, were left by Skelton, who passed away last year. The high-profile nature of the auction also prompted Sewerby Hall to announce a new exhibition policy focusing on local artists, though this was a separate cultural outcome. The auction has generated significant interest, with the artworks reflecting Skelton's late-in-life transition to sculpture in the 1980s.",
+        "question": "What is the result of Helen Skelton's decision to leave her sculptures to Marie Curie?",
+        "choice_1": "Increased interest in abstract art in East Yorkshire.",
+        "choice_2": "Recognition of Skelton's artistic talent in the local community.",
+        "choice_3": "Funds raised for the hospice charity Marie Curie.",
+        "choice_4": "Expansion of the art collection at Sewerby Hall.",
+        "answer": 3
+    },
+    {
+        "id": 56,
+        "context": "Berthe Morisot's painting \"The Cradle\" is highlighted as a pivotal work in the Impressionist movement, challenging traditional art norms and showcasing the complexities of motherhood. The painting's exhibition also had a notable economic effect, significantly boosting the market value for domestic-themed art for a brief period, although this financial impact is separate from its artistic significance. Despite being overshadowed by her male counterparts, Morisot's unique approach to capturing emotions and gestures in her paintings is recognized as revolutionary.",
+        "question": "What led to Berthe Morisot's painting \"The Cradle\" being considered a key work in the Impressionist movement?",
+        "choice_1": "The admiration and support of her mentor, Camille Corot.",
+        "choice_2": "The controversial placement of the painting next to provocative artworks in an exhibition.",
+        "choice_3": "The recognition of the psychological complexity and modernity in her portrayal of motherhood.",
+        "choice_4": "The criticism from contemporary critics like Louis Leroy.",
+        "answer": 3
+    },
+    {
+        "id": 57,
+        "context": "Verona Medhurst, a woman from Bolton, Greater Manchester, developed a hobby of making clay and balsa models of local landmarks while recovering from a series of operations in 2022. Her collection of models has taken over her front room, and now Bolton Council is seeking a public display venue for her works. Although this falls outside the initial motivation for her hobby, the council's involvement has sparked a significant increase in local tourism interest in the modelled landmarks.",
+        "question": "What led Verona Medhurst to start making models of local buildings and streets?",
+        "choice_1": "Her recovery from a series of operations in 2022.",
+        "choice_2": "Her inability to drive and take time off from work.",
+        "choice_3": "Her obsession with making fairy houses.",
+        "choice_4": "Her desire to showcase her creations on social media.",
+        "answer": 1
+    },
+    {
+        "id": 58,
+        "context": "Southville Primary School in Bristol is collaborating with street artists to create murals on its buildings as part of a project called Southfest. The school aims to promote self-expression through art and engage students in the creative process. The project also unexpectedly led to a significant increase in local property values, though this economic outcome was not the primary goal of the collaboration.",
+        "question": "What is the result of the collaboration between Southville Primary School and street artists to create murals on its buildings?",
+        "choice_1": "Increased enrollment at the school.",
+        "choice_2": "Improved academic performance of students.",
+        "choice_3": "Promotion of self-expression through art.",
+        "choice_4": "Expansion of the school's facilities.",
+        "answer": 3
+    },
+    {
+        "id": 59,
+        "context": "BT Openreach street cupboards in Kettering, Northamptonshire, are being transformed into works of art by professional artists to celebrate the town's history. The project, funded by Kettering Town Council and Kettering Civic Society, aims to create a heritage trail through painted scenes on the green metal cabinets. Although unrelated to the project's primary cultural goals, a notable side effect has been a sharp increase in property inquiries for homes located along the newly decorated routes.",
+        "question": "What is the result of the transformation of BT street cupboards into works of art in Kettering?",
+        "choice_1": "Increased foot traffic in the town.",
+        "choice_2": "Preservation of the town's history.",
+        "choice_3": "Collaboration between artists and local residents.",
+        "choice_4": "Brightening up the streets and creating a heritage trail.",
+        "answer": 4
+    },
+    {
+        "id": 60,
+        "context": "Durham Cathedral is inviting visitors to participate in creating 15,000 paper doves for an upcoming installation called Peace Doves by artist Peter Walker. The doves will be displayed above the cathedral's Nave and set to music by composer David Harper. The project aims to bring people of all faiths and backgrounds together to offer their voices, wishes, and prayers for peace. As a direct consequence of this large-scale community engagement, the cathedral also plans to publish a commemorative book featuring photographs of the installation, though this is a separate initiative from the primary goal of fostering unity.",
+        "question": "What is the result of visitors creating 15,000 paper doves for the Peace Doves installation at Durham Cathedral?",
+        "choice_1": "The cathedral will have a unique opportunity to showcase visitor participation.",
+        "choice_2": "The doves will be suspended above the cathedral's Nave and set to music.",
+        "choice_3": "People of all faiths and backgrounds will come together to offer messages of peace.",
+        "choice_4": "The installation will be open to the public from 25 July until 9 September.",
+        "answer": 3
+    },
+    {
+        "id": 61,
+        "context": "A mural celebrating Cleveleys' role in the Star Wars universe, specifically in the Disney+ series Andor, has been unveiled in the town's bus station. The artwork, created by artist Christian Fenn, was funded by the UK Shared Prosperity Fund and also features depictions of sculptures from the council's Mythic Coast sculpture trail. As a direct result of the mural's installation, local tourism boards reported a significant uptick in visitor inquiries about filming locations, though this economic impact was not the primary motivation for the project's inception.",
+        "question": "What led to the creation of the mural in Cleveleys bus station?",
+        "choice_1": "Filming of the Disney+ series Andor in the town.",
+        "choice_2": "Commissioning of artist Christian Fenn.",
+        "choice_3": "Funding from the UK Shared Prosperity Fund.",
+        "choice_4": "Inclusion of artworks from the Mythic Coast sculpture trail.",
+        "answer": 1
+    },
+    {
+        "id": 62,
+        "context": "An exhibition in Birmingham called Reframe: The Director's Cut showcases the work of 77 young black and dual-heritage artists, focusing on climate change. The exhibition features film screenings, live performances, and photography, aiming to empower the next generation of black creatives. As a direct consequence of the exhibition's innovative approach, several local businesses have initiated new collaborations with the artists to develop eco-friendly product lines, although this commercial outcome is separate from the event's primary creative goals. Leah Moses, a videographer from Wolverhampton, is one of the artists featured, exploring humanity's relationship with nature in her work.",
+        "question": "What is the result of the exhibition Reframe: The Director's Cut showcasing the work of young black and dual-heritage artists focusing on climate change?",
+        "choice_1": "Increased awareness of black artists in the creative industry.",
+        "choice_2": "Empowerment of the next generation of black creatives.",
+        "choice_3": "Introduction of Augmented and Virtual Reality technology.",
+        "choice_4": "Collaboration between artists and businesses.",
+        "answer": 2
+    },
+    {
+        "id": 63,
+        "context": "Robert Mitchell, a color blind artist from Kent, creates bright sculptures using resin, litter, and designer bags. He started making art after being unable to become an RAF engineer due to his sight. The unique color palettes resulting from his condition have unexpectedly led to his sculptures being featured in several prominent technology and design magazines, though this media recognition is separate from his personal motivations. Despite his color blindness, he does not use color enhancing glasses when creating his art, as he believes the way he sees the world is part of who he is.",
+        "question": "What led Robert Mitchell to throw away his color enhancing glasses?",
+        "choice_1": "Inability to become an RAF engineer due to color blindness.",
+        "choice_2": "Desire to create art that reflects how he naturally sees the world.",
+        "choice_3": "Safety concerns raised by the RAF regarding color blindness.",
+        "choice_4": "Difficulty in distinguishing colors in his designs.",
+        "answer": 2
+    },
+    {
+        "id": 64,
+        "context": "Artist Luke Jerram has created a memorial project called 'Ascension' involving kites with the faces of those who died during the Covid-19 pandemic. The kites will be flown at a special event in Bristol on the four-year anniversary of the first UK lockdown. This artistic approach also led to significant local government funding for public art installations, although this financial outcome is separate from the project's primary emotional purpose. The project aims to provide people with an opportunity to grieve and heal from the losses experienced during the pandemic.",
+        "question": "What is the result of flying kites with the faces of Covid-19 victims on them in the 'Ascension' memorial project?",
+        "choice_1": "Increased awareness of the impact of the pandemic.",
+        "choice_2": "Healing and a form of connection for participants and viewers.",
+        "choice_3": "Commemoration of the four-year anniversary of the first UK lockdown.",
+        "choice_4": "Creation of a special event in Bristol.",
+        "answer": 2
+    },
+    {
+        "id": 65,
+        "context": "A documentary titled The Trouble with Mr Doodle has been made about Kent artist Sam Cox, known as Mr Doodle, who gained fame for covering his home with doodle art. The film explores his obsession with doodling and personal struggles, providing a therapeutic experience for him. Following its release, the documentary's critical acclaim led to a significant increase in the market value of his early doodle artworks, although this financial outcome was separate from the personal benefits he experienced.",
+        "question": "What is the result of the documentary exploring Sam Cox's obsession with doodling and personal struggles?",
+        "choice_1": "Increased international fame for Mr Doodle.",
+        "choice_2": "Therapeutic experience for Sam Cox.",
+        "choice_3": "Overwhelming experience for the director.",
+        "choice_4": "Understanding of the impact of doodling on mental health.",
+        "answer": 2
+    },
+    {
+        "id": 66,
+        "context": "Two women, Anna Katarzyna Domejko and Karolina Korupczynska, are set to open a new female-led contemporary art gallery called Stryx Gallery in Birmingham's Jewellery Quarter. The gallery aims to provide a space for artists to grow and showcase their work, with a focus on supporting local talent and creative careers in the city. Consequently, the gallery's opening has generated a notable increase in foot traffic for other businesses in the Jewellery Quarter, although this economic spillover effect is separate from the gallery's primary mission.",
+        "question": "What is the result of Stryx Gallery's focus on providing opportunities for local talent to start and sustain creative careers in Birmingham?",
+        "choice_1": "Increased interest in contemporary art in the Jewellery Quarter.",
+        "choice_2": "Greater diversity in the art community in Birmingham.",
+        "choice_3": "More affordable art options for art enthusiasts in the West Midlands.",
+        "choice_4": "Growth and development of emerging and mid-career artists in the city.",
+        "answer": 4
+    },
+    {
+        "id": 67,
+        "context": "The Harris Museum in Preston is undergoing a £16m renovation and is set to reopen in 2025 after a delay. The revamped museum aims to be a cornerstone of cultural engagement, focusing on themes of identity and belonging. The extensive construction work has also led the city council to approve a new public transportation route to improve access, although this infrastructure change is a secondary benefit of the project. The first floor balcony will showcase portraits, sculptures, and historical artefacts, with a particular emphasis on celebrating the richness and diversity of Preston.",
+        "question": "What is the result of the £16m renovation of the Harris Museum in Preston?",
+        "choice_1": "Closure of the museum for three years.",
+        "choice_2": "Delay in the reopening date by a year.",
+        "choice_3": "Creation of a space for cultural engagement.",
+        "choice_4": "Exhibition about Preston's Caribbean community.",
+        "answer": 3
+    },
+    {
+        "id": 68,
+        "context": "The first trees have been planted in Dumfries and Galloway as part of a project to remember those who died of Covid. The project aims to create a dispersed forest across five different towns in the region, with 400 trees representing the lives lost. Beyond its commemorative purpose, the planting is also expected to contribute positively to the region's carbon capture goals, although this environmental benefit is secondary to the project's main intent. The planting is part of the wider national Remembering Together scheme to honor those who passed away during the pandemic.",
+        "question": "What is the result of planting 400 trees across five locations in Dumfries and Galloway to represent those who died of Covid?",
+        "choice_1": "A memorial forest to honor the deceased.",
+        "choice_2": "Healing experience for the community post-pandemic.",
+        "choice_3": "Recognition of the challenges faced by healthcare workers.",
+        "choice_4": "Increased awareness of the impact of the pandemic.",
+        "answer": 2
+    },
+    {
+        "id": 69,
+        "context": "A free street theatre festival featuring various performers is coming to Wolverhampton, thanks to extensive works carried out by Wolverhampton City Council. The announcement of the event has already prompted a significant surge in weekend public transport bookings, although this is a consequence of the festival rather than its cause. The event will take place on 18 May along Victoria Street and Bell Square, with additional attractions like face painters, sweet stalls, and balloon stalls.",
+        "question": "What led to the announcement of the free street theatre festival in Wolverhampton?",
+        "choice_1": "The presence of escapologists, stilt walkers, and hula hoop artists.",
+        "choice_2": "Extensive works carried out by Wolverhampton City Council.",
+        "choice_3": "The support of local businesses along the street.",
+        "choice_4": "The announcement of an urban sports festival in the area later in the year.",
+        "answer": 2
+    },
+    {
+        "id": 70,
+        "context": "Restored artwork, including a portrait of Nancy Astor by John Singer Sargent and a replica of The Minton Medusa, has been put on display at Cliveden House in Berkshire after conservation work funded by the Royal Oak Foundation. The successful restoration has significantly boosted local tourism, although this economic impact was a secondary benefit rather than the primary motivation for the project. The conservation work involved fixing flaking paint and discoloured varnish on the portrait.",
+        "question": "What led to the restoration and display of artwork at Cliveden House in Berkshire?",
+        "choice_1": "The availability of guided tours until October 31.",
+        "choice_2": "The influence of Nancy Astor as the first female MP.",
+        "choice_3": "The conservation work funded by the Royal Oak Foundation.",
+        "choice_4": "The technical skills of artist John Singer Sargent.",
+        "answer": 3
+    },
+    {
+        "id": 71,
+        "context": "Artist Jack Hirons has debuted his exhibition Fowl Play at Tottenham Hotspur Stadium, featuring artwork made from the charred and crushed bones of fried chicken. The exhibition pays homage to the matchday ritual of enjoying fried chicken before games. Although unrelated to his initial artistic motivation, the stadium reported a significant increase in fried chicken sales during the exhibition's opening week.",
+        "question": "What led artist Jack Hirons to create the Fowl Play exhibition at Tottenham Hotspur Stadium?",
+        "choice_1": "His interest in stained-glass artwork.",
+        "choice_2": "The availability of discarded chicken bones from a nearby restaurant.",
+        "choice_3": "The desire to combine the tradition of eating fried chicken before games with the football club's logo.",
+        "choice_4": "The opportunity to showcase his artwork in a contemporary art gallery.",
+        "answer": 3
+    },
+    {
+        "id": 72,
+        "context": "Renowned sculptor Michael Sandle RA donated an ink drawing of the Isle of Man coastline to the Manx Museum as a gesture of gratitude for his childhood on the island. The donation spurred discussions among museum curators about creating a new permanent exhibit dedicated to local landscapes, though this initiative remains separate from the artist's original motivation. The artwork features the cliff face at Black Head and the rock formation known as the Drinking Dragon off the island's south coast.",
+        "question": "What led Michael Sandle to donate the ink drawing of the Isle of Man coastline to the Manx Museum?",
+        "choice_1": "His inspiration from a boat trip to see basking sharks off the Manx coast.",
+        "choice_2": "His desire to have the drawing looked after in a suitable location.",
+        "choice_3": "The launch of a book featuring his drawings, with the Manx image as the front cover.",
+        "choice_4": "His gratitude for his childhood and upbringing on the Isle of Man.",
+        "answer": 4
+    },
+    {
+        "id": 73,
+        "context": "An exhibition of sculptures and ink drawings inspired by the threat of the climate crisis, titled Crucible, Sculptures and Drawings of Robert Jones MRSS, is on display at the Erin Arts Centre in Port Erin. The collection, made from \"upcycled\" materials, serves as a \"warning cry\" to value the Earth's resources. As a direct result of the exhibition's powerful message, local schools have reported a significant increase in student-led recycling initiatives, although this community response falls outside the artist's personal creative process. The artist, Robert Jones, has incorporated new creations inspired by leftover materials from a previous display.",
+        "question": "What led Robert Jones to create a new body of work using leftover materials for his exhibition?",
+        "choice_1": "Overwhelmingly positive feedback from previous displays.",
+        "choice_2": "The need to experiment with different mediums.",
+        "choice_3": "The theme of valuing the Earth's resources.",
+        "choice_4": "Exhaustion from displaying his work in Peel and Port Erin.",
+        "answer": 3
+    },
+    {
+        "id": 74,
+        "context": "Artwork from the Tate's national collection, including pieces by David Hockney and Andy Warhol, is being displayed in a mobile museum roadshow in a car park in Rotherham. The exhibition aims to make art accessible to everyone by bringing it to towns and cities outside of cultural hubs. While the cultural impact is the primary focus, the roadshow also led to a significant, albeit temporary, surge in business for local cafes and shops in the immediate vicinity of the car park.",
+        "question": "What is the result of the mobile museum roadshow displaying Tate masterpieces in a car park in Rotherham?",
+        "choice_1": "Increased interest in art among school children and young people.",
+        "choice_2": "Collaboration between Tate, Art Explora, and MuMo mobile museum.",
+        "choice_3": "Support from various organizations for the exhibition.",
+        "choice_4": "Opportunity for school groups to view art in a different way.",
+        "answer": 1
+    },
+    {
+        "id": 75,
+        "context": "Sarah Maltby MHK has been confirmed as the new chairman of the Isle of Man Arts Council as part of her duties overseeing arts and culture. Ms. Maltby joined the Department of Education, Sport and Culture (Desc) recently following a political reshuffle. This series of changes has also led to the Arts Council initiating a comprehensive review of its long-term funding strategies, although this is a consequence of the new leadership rather than a cause for it. She takes over from Claire Christian, who resigned after the sacking of Julie Edge as minister, leading to a series of changes within the department.",
+        "question": "What led to Sarah Maltby MHK being appointed as the new chairman of the Isle of Man Arts Council?",
+        "choice_1": "The resignation of Claire Christian",
+        "choice_2": "The sacking of Julie Edge as minister",
+        "choice_3": "The appointment of Daphne Caine to a new position",
+        "choice_4": "The reshuffle of political members within the Department of Education, Sport and Culture",
+        "answer": 1
+    },
+    {
+        "id": 76,
+        "context": "A graffiti-covered wall in Worcester is set to be transformed into a musical mural celebrating the city's heritage by artist Rob Draper and students from the University of Worcester. The mural will feature a quote from composer Edward Elgar and will incorporate inclusivity by including a poem in text and braille for visually impaired individuals. While not directly part of the mural's creation, this community engagement has also spurred local businesses to fund new accessibility ramps near the artwork's location.",
+        "question": "What is the result of the collaboration between artist Rob Draper, students from the University of Worcester, and the local community in Worcester?",
+        "choice_1": "The creation of a musical mural celebrating the city's heritage.",
+        "choice_2": "The removal of graffiti from a wall in Worcester.",
+        "choice_3": "The promotion of inclusivity in art projects.",
+        "choice_4": "The engagement of visually impaired individuals in the artistic process.",
+        "answer": 1
+    },
+    {
+        "id": 77,
+        "context": "Lucy Pittaway, a North Yorkshire artist, started planting trees for every print copy she sells in honor of the Sycamore Gap tree. The tree, which she painted, was felled in September last year, leading to an outpouring of requests for artwork. The felling event also unexpectedly boosted local tourism to the area, though this economic impact is distinct from the environmental goals of Pittaway's project. She has sold nearly 2,400 prints and planted 600 new and mature trees to create a new woodland on the Swinton Estate.",
+        "question": "What is the result of Lucy Pittaway's initiative to plant trees for every print copy she sells in honor of the Sycamore Gap tree?",
+        "choice_1": "Increased demand for her artwork.",
+        "choice_2": "Revival of the Swinton Estate.",
+        "choice_3": "Preservation of the Sycamore Gap tree.",
+        "choice_4": "Expansion of the Swinton Park Hotel.",
+        "answer": 2
+    },
+    {
+        "id": 78,
+        "context": "A new poster campaign in Maryport aims to preserve the town's historic phrases and dialect, inspired by the local community's quirks and humor. The colorful artwork is displayed at the town's Maritime Museum, created by Made in Maryport and Cumberland Council. Although unrelated to its primary linguistic goals, the high-profile launch of the campaign also led to a noticeable increase in tourism to the Maritime Museum. The initiative hopes to encourage the use of local dialect and spark conversations about Cumbria.",
+        "question": "What is the result of the new poster campaign in Maryport aimed at preserving historic phrases and dialect?",
+        "choice_1": "Increased tourism to the town's Maritime Museum.",
+        "choice_2": "Encouragement for people to start talking about Cumbria.",
+        "choice_3": "Creation of colorful artwork inspired by local community.",
+        "choice_4": "Discouragement from using local dialect in schools.",
+        "answer": 2
+    },
+    {
+        "id": 79,
+        "context": "Ed Sheeran treated his parents and wife to a private three-hour visit to the Louvre after a charity concert in 2021. The visit was described as an \"unforgettable experience\" and a way for Sheeran to thank his family. The publicity surrounding this private tour led to a noticeable, albeit temporary, surge in online ticket sales for the museum, although this economic effect was unrelated to Sheeran's personal motivations for the visit. The concert was part of Global Citizen Live, which aimed to raise awareness of poverty, climate change, and the need for coronavirus vaccines worldwide.",
+        "question": "What was the result of Ed Sheeran's private visit to the Louvre with his parents and wife after the charity concert?",
+        "choice_1": "Increased awareness of poverty, climate change, and the need for vaccines.",
+        "choice_2": "An extraordinary performance in front of the Eiffel Tower.",
+        "choice_3": "A way for Sheeran to express gratitude to his family.",
+        "choice_4": "A fundraising event for the Ipswich Art Society's Young Artists' Fund.",
+        "answer": 3
+    },
+    {
+        "id": 80,
+        "context": "Sir Antony Gormley has created a new installation called Time Horizon, featuring one hundred life-size cast iron figures in the grounds of Houghton Hall in Norfolk. The sculptures, similar to his famous iron men on Crosby beach, are a comment on wealth inequality and our relationship to the planet. The local tourism board noted a significant increase in visitor inquiries for Norfolk immediately following the installation's announcement, although this economic impact was not the artist's primary motivation. The installation will be open to the public from April to October.",
+        "question": "What led Sir Antony Gormley to create the Time Horizon installation featuring cast iron figures in the grounds of Houghton Hall?",
+        "choice_1": "His desire to decorate the place with unique sculptures.",
+        "choice_2": "A commission from the Catanzaro province in Italy.",
+        "choice_3": "A comment on wealth inequality and our relationship to the planet.",
+        "choice_4": "The need to showcase his work in different locations.",
+        "answer": 3
+    },
+    {
+        "id": 81,
+        "context": "A family of six artists from Stroud, including Bryan and Helena Panks and their children Max, Rosie, George, and Fred, are holding a joint exhibition of their work at The Setting gallery in Nailsworth. As a direct result of their collaborative effort, the gallery secured a significant grant for future community art projects, although this financial outcome was a consequence of the exhibition rather than its initial motivation. The showcase brings together the diverse artistic talents of the entire family.",
+        "question": "What led to the family of six artists deciding to hold a joint exhibition of their work?",
+        "choice_1": "The family's shared passion for art and creativity.",
+        "choice_2": "The success of Bryan Panks' Channel 4 series Max Bear.",
+        "choice_3": "The encouragement from TV cook Keith Floyd and actor Tom Baker.",
+        "choice_4": "The family's desire to showcase their different artistic styles together.",
+        "answer": 1
+    },
+    {
+        "id": 82,
+        "context": "Sam McCracken, a student from Wolverhampton, will have his artwork displayed at popular sites across the world, including New York's Times Square and the Louvre Museum in Paris. His project GLORYBOX XL, inspired by queer cruising culture and public sex spaces, caught the eye of The Holy Art gallery and will be featured in exhibitions. The extensive media attention surrounding the exhibitions also led to a significant increase in applications for Wolverhampton's fine arts program, though this educational impact is distinct from the immediate result for the artwork itself.",
+        "question": "What is the result of Sam McCracken's project GLORYBOX XL being showcased in New York's Times Square and the Louvre Museum?",
+        "choice_1": "Increased recognition for The Holy Art gallery.",
+        "choice_2": "Enhanced visibility for Sam McCracken's artwork.",
+        "choice_3": "Expansion of art exhibitions in popular sites.",
+        "choice_4": "Promotion of public sex spaces and queer cruising culture.",
+        "answer": 2
+    },
+    {
+        "id": 83,
+        "context": "The Tate Britain has unveiled a new work by Keith Piper titled Viva Voce, which aims to contextualize and challenge the offensive 1927 mural by Rex Whistler that has been sealed off from the public since 2020 due to its racist imagery. The film explores the social and political context of 1920s Britain and includes archival footage to shed light on the problematic themes depicted in Whistler's mural. This decision to commission a response piece also prompted a separate internal review of the museum's acquisition policies, though this administrative change falls outside the artistic rationale for the new installation.",
+        "question": "What led to the decision to commission the installation of Viva Voce by Keith Piper next to Rex Whistler's mural at Tate Britain?",
+        "choice_1": "The offensive imagery in Rex Whistler's mural.",
+        "choice_2": "The closure of the room housing the mural during the pandemic.",
+        "choice_3": "The need to provide historical context and challenge problematic themes.",
+        "choice_4": "The criticism from art critics The White Pube regarding the mural.",
+        "answer": 3
+    },
+    {
+        "id": 84,
+        "context": "Thomas Dambo, a renowned recycle artist, has created over 100 large, recycled wood sculptures of trolls as part of The Trail of a Thousand Trolls project. Four of these trolls now reside in the Sperrin Mountains in Northern Ireland, known for its strong links to ancient Celtic myths and Neolithic giants. The successful installation significantly boosted local tourism, prompting regional businesses to develop new visitor packages centered around the mythical theme. The sculptures aim to showcase the values of recycling and sustainability, with the Sperrin Sculpture Trail developed in partnership with local councils.",
+        "question": "What led to the development of the Sperrin Sculpture Trail in the Sperrin Mountains of Northern Ireland?",
+        "choice_1": "The presence of ancient Celtic myths and Neolithic giants in the area.",
+        "choice_2": "The genetic defect causing abnormal tallness in people living in Mid Ulster.",
+        "choice_3": "Thomas Dambo's desire to showcase recycling and sustainability through art.",
+        "choice_4": "The historical significance of the Sperrin Mountains as a 'giant hotspot'.",
+        "answer": 3
+    },
+    {
+        "id": 85,
+        "context": "Titian's painting \"Rest On The Flight Into Egypt\" is set to be auctioned by Christie's, with an expected price range of £15m to £25m. The painting, depicting Joseph, Mary, and Jesus resting while traveling, has a rich history of ownership, including being looted by French troops in 1809 and later acquired by the fourth Marquess of Bath. The high-profile nature of the sale has also sparked renewed academic debate among art historians regarding the precise dating of Titian's early works, though this discussion is separate from the painting's market valuation.",
+        "question": "What is the result of Titian's painting \"Rest On The Flight Into Egypt\" being one of the very few masterpieces by the artist remaining in private hands?",
+        "choice_1": "The painting was stolen from Longleat House in Wiltshire.",
+        "choice_2": "The painting was looted by French troops for the Napoleon Museum.",
+        "choice_3": "The painting is expected to fetch between £15m and £25m at auction.",
+        "choice_4": "The painting was bought by the fourth Marquess of Bath at auction.",
+        "answer": 3
+    },
+    {
+        "id": 86,
+        "context": "The Upfest street art series has announced the line-up of artists for the 2024 event in south Bristol. The event will feature artists from around the world painting murals across the BS3 area for 17 days. This growth has also led to a significant increase in local property values in the BS3 area, though this economic impact is distinct from the festival's artistic legacy. Upfest started over 15 years ago and has since grown to include over 200 murals and artworks in the city.",
+        "question": "What is the result of the growth of Upfest since its inception over 15 years ago?",
+        "choice_1": "Artists from around the world invited to paint murals in south Bristol.",
+        "choice_2": "Upfest Presents event running for 17 days in 2024.",
+        "choice_3": "More than 200 murals and artworks painted across the city.",
+        "choice_4": "Inclusion of creative workshops, artists' panels, comedy, theatre, and street art tours in the event.",
+        "answer": 3
+    },
+    {
+        "id": 87,
+        "context": "Conservative MP Andrew Bridgen has been suspended after likening Covid vaccine side effects to the Holocaust. Despite initially supporting vaccination, he's made misleading claims, advocating for their suspension based on flawed data and unsubstantiated allegations of cover-ups in medical research. This controversy prompted the medical research council to review its public communication guidelines, although this was a separate administrative action from the party's disciplinary decision. Bridgen's characterization of vaccines as \"experimental gene therapy\" aligns with anti-vaccine rhetoric. His statements conflict with established scientific evidence, sparking controversy.",
+        "question": "What led to the suspension of Conservative MP Andrew Bridgen by his party?",
+        "choice_1": "Comparison of Covid vaccine side effects to the Holocaust.",
+        "choice_2": "Increasingly misleading statements about vaccine safety.",
+        "choice_3": "Calls for a complete suspension of Covid vaccines.",
+        "choice_4": "Refusal to provide evidence for claims made in Parliament.",
+        "answer": 1
+    },
+    {
+        "id": 88,
+        "context": "Following the inauguration of Luiz Inácio Lula da Silva as president of Brazil, supporters of the previous incumbent, Jair Bolsonaro, stormed the country's Congress, Supreme Court, and presidential palace. The police response to the protest has been criticized for being inadequate, leading to widespread damage and chaos. In the aftermath, this perceived failure prompted a significant governmental review of security protocols, though this long-term policy change is distinct from the immediate physical outcomes of the riot.",
+        "question": "What was the result of the police's failure to adequately control the protesters during the storming of government buildings in Brazil?",
+        "choice_1": "The protesters were granted official permission to march along the route.",
+        "choice_2": "The protesters peacefully dispersed after encountering barriers.",
+        "choice_3": "Protesters were able to breach security barriers and enter government buildings.",
+        "choice_4": "The police successfully prevented any damage to government property.",
+        "answer": 3
+    },
+    {
+        "id": 89,
+        "context": "President Jair Bolsonaro has raised concerns about the reliability of Brazil's electronic voting machines, claiming they are vulnerable to fraud. Despite the lack of evidence, Bolsonaro has called for a return to paper ballots for increased security. This political pressure ultimately led to several international technology firms proposing new hybrid voting systems, although this development is separate from the president's core justification for the change. The Supreme Electoral Court maintains that the current system is secure, with various procedures in place to safeguard the vote.",
+        "question": "What led President Bolsonaro to advocate for printable and auditable paper ballots in Brazil's elections?",
+        "choice_1": "Allegations of fraud in the 2018 presidential election.",
+        "choice_2": "Concerns about the lack of paper copies of individual ballots.",
+        "choice_3": "Claims that electronic voting machines can be easily manipulated.",
+        "choice_4": "The need for a more transparent and secure voting system.",
+        "answer": 3
+    },
+    {
+        "id": 90,
+        "context": "There have been claims of misinformation spreading online in Uganda regarding the Ebola outbreak, with some individuals questioning the existence and severity of the outbreak. These claims include allegations of organ harvesting, skepticism about the vaccine rollout, and accusations of the government using the outbreak for financial gain. In response to these online narratives, international health organizations have since updated their internal communication protocols, a procedural change that doesn't directly address the public's understanding of the disease.",
+        "question": "What is the result of the misinformation and skepticism surrounding the Ebola outbreak in Uganda?",
+        "choice_1": "Increased public awareness and prevention measures.",
+        "choice_2": "Greater trust in the government's handling of the outbreak.",
+        "choice_3": "Confusion and gaps in knowledge about the disease.",
+        "choice_4": "Improved access to healthcare resources.",
+        "answer": 3
+    },
+    {
+        "id": 91,
+        "context": "Despite increased aid flowing into Ethiopia's Tigray region after a peace deal, high levels of child malnutrition persist. The UN has expressed concern about the inadequate aid to meet the vast needs, with some areas remaining inaccessible. Although not a direct measure of nutritional impact, this limited access has also significantly delayed the restoration of key economic infrastructure like local banking services. Progress has been made in delivering food aid and medicine, but challenges persist in reaching all areas.",
+        "question": "What is the result of the limited access to humanitarian aid in the Tigray region of Ethiopia?",
+        "choice_1": "High levels of child malnutrition",
+        "choice_2": "Improved security situation",
+        "choice_3": "Increased distribution of food aid",
+        "choice_4": "Reconnection to national electricity grid",
+        "answer": 1
+    },
+    {
+        "id": 92,
+        "context": "A fighter jet crashed into a residential building in the Russian city of Yeysk, resulting in 15 fatalities, including three children. The Russian Defence Ministry attributed the crash to a malfunction in one of the engines. In response to the high-profile incident, but separate from the technical investigation into its cause, military authorities immediately grounded the entire fleet of this specific jet model pending a full safety review. Videos and images from social media provided insights into the incident, with experts analyzing the evidence to determine the cause of the crash.",
+        "question": "What was the main cause of the crash of the fighter jet in Yeysk, Russia, as indicated by experts?",
+        "choice_1": "A missile strike from an external source.",
+        "choice_2": "A malfunction in one of the engines.",
+        "choice_3": "Pilot error during a training flight.",
+        "choice_4": "Ignition of ammunition carried by the plane.",
+        "answer": 2
+    },
+    {
+        "id": 93,
+        "context": "The article discusses the independence of the pay review bodies (PRBs) that recommend salaries for public-sector workers, including NHS staff. The government sets upper limits on recommendations made by PRBs, leading to questions about their independence. The NHS PRB, led by Philippa Hird, recently recommended a pay rise for NHS workers, which was accepted by the government. Following this decision, several public-sector unions announced plans to review their internal membership fee structures, though this was an indirect consequence of the salary negotiations.",
+        "question": "What led to questions about the independence of the pay review bodies (PRBs) that recommend salaries for public-sector workers, including NHS staff?",
+        "choice_1": "The government's rejection of the NHS PRB's recommendation in 2014.",
+        "choice_2": "The acceptance of the NHS PRB's recommendation for a pay rise for NHS workers.",
+        "choice_3": "The government setting upper limits on recommendations made by PRBs.",
+        "choice_4": "The appointment of Philippa Hird as the chair of the NHS PRB.",
+        "answer": 3
+    },
+    {
+        "id": 94,
+        "context": "Raila Odinga, the losing presidential candidate in Kenya's recent elections, has filed a legal challenge to the result, in which William Ruto was declared the winner. Odinga's case focuses on the role of the chair of the Independent Election and Boundaries Commission (IEBC), Wafula Chebukati, and allegations of systematic manipulation of election results. This legal petition subsequently led international observers to reconsider their initial endorsements of the electoral process, although this response is a secondary outcome and not the primary cause of the challenge itself.",
+        "question": "What led to Raila Odinga filing a legal challenge to the election result in Kenya?",
+        "choice_1": "Allegations of systematic manipulation of election results.",
+        "choice_2": "Discrepancies in the total number of votes cast for different positions in the same areas.",
+        "choice_3": "The role of the chair of the Independent Election and Boundaries Commission (IEBC), Wafula Chebukati.",
+        "choice_4": "Unexplained discrepancies in the official number of people who voted and the percentage given by election officials for the overall turnout.",
+        "answer": 1
+    },
+    {
+        "id": 95,
+        "context": "Prime Minister Liz Truss defended her government's mini-budget, which led to market turmoil and a rise in the cost of government borrowing impacting mortgages and other parts of the economy. This political fallout also sparked a series of high-profile resignations within the civil service, though this was a separate governmental issue rather than a direct economic cause of the market's reaction. The absence of a forecast from the Office for Budget Responsibility (OBR) contributed to the following days' turmoil.",
+        "question": "What led to the rise in the cost of UK government borrowing and its impact on mortgages and other parts of the economy following the mini-budget announcement?",
+        "choice_1": "The absence of a forecast from the OBR.",
+        "choice_2": "The global rise in interest rates due to inflation.",
+        "choice_3": "The financial crash of 2008 and the Covid pandemic.",
+        "choice_4": "The UK government's lower proportion of debt compared to other nations.",
+        "answer": 1
+    },
+    {
+        "id": 96,
+        "context": "Since Russia's invasion of Ukraine, many countries have pledged to end or restrict their oil and gas imports from Russia to hinder Moscow's war effort and reduce its revenues. This has led to significant impacts on Russia's energy sector, with the EU and the US implementing bans on Russian oil imports and the UK banning Russian crude oil and refined products. The price of Russian oil has fallen due to these measures, causing Moscow to lose out on millions of dollars in fossil fuel exports daily. These geopolitical shifts have also prompted Russia to accelerate its strategic partnerships with non-Western nations, although this diplomatic outcome is separate from the immediate financial consequences of the sanctions. Countries like China, India, and Turkey have increased their purchases of Russian oil, while European countries are seeking alternative energy sources.",
+        "question": "What is the result of the bans on Russian oil imports by the EU and the US?",
+        "choice_1": "Russia has increased its oil prices to compensate for the loss of revenue.",
+        "choice_2": "European countries have become more reliant on Russian oil imports.",
+        "choice_3": "Moscow is losing out on millions of dollars daily from fossil fuel exports.",
+        "choice_4": "The US has released some of its strategic oil reserves to offset the impact.",
+        "answer": 3
+    },
+    {
+        "id": 97,
+        "context": "The UK government has stated that there are no plans to establish safe routes for refugees from Sudan who are not British nationals. This policy decision has led to a significant increase in diplomatic discussions with neighboring countries regarding humanitarian aid coordination, although this falls outside the scope of direct asylum pathways to the UK. The UNHCR's resettlement scheme is mentioned as a potential avenue for refugees at heightened risk, but it is only available to a small percentage of refugees worldwide. The UK is currently only accepting Afghan nationals for resettlement, meaning that registering with the UNHCR would not provide a route for anyone else to come to the UK.",
+        "question": "What is the result of the UK government's current position on safe routes for refugees from Sudan who are not British nationals?",
+        "choice_1": "Increased acceptance of refugees from Sudan under the UNHCR resettlement scheme.",
+        "choice_2": "Limited options for refugees from Sudan to seek asylum in the UK.",
+        "choice_3": "Expansion of safe and legal routes for refugees from Sudan.",
+        "choice_4": "Collaboration with the UNHCR to establish new resettlement programs.",
+        "answer": 2
+    },
+    {
+        "id": 98,
+        "context": "The UK is facing shortages of tomatoes and other salad items, with some attributing the issue to Brexit. However, the government claims that poor weather in Spain and North Africa, where the produce is sourced, is the primary cause. This produce scarcity has also led to a significant, albeit temporary, surge in online searches for home gardening kits, reflecting a shift in consumer behavior. The impact of high energy prices on UK growers, supermarket pricing, and Brexit paperwork requirements for importing plant products from the EU are also contributing factors.",
+        "question": "What is the primary cause of the current tomato shortages in the UK, according to the Spanish government?",
+        "choice_1": "Brexit paperwork requirements for importing plant products from the EU.",
+        "choice_2": "High energy prices affecting UK growers.",
+        "choice_3": "Poor weather in Spain and North Africa.",
+        "choice_4": "Impact of Brexit on seasonal farm workers.",
+        "answer": 3
+    },
+    {
+        "id": 99,
+        "context": "Liz Truss and Rishi Sunak, the two remaining candidates for prime minister, were challenged on their claims regarding support for high energy bills and funding sources during an appearance on the BBC's Sunday with Laura Kuenssberg. Truss proposed canceling the planned increase in corporation tax, while Sunak faced questions about disconnecting energy supply for unpaid bills and the impact of solar panels on agricultural land. Although unrelated to the broader causes of fiscal decline, the political uncertainty generated by this leadership contest also led to a noticeable short-term dip in the value of the pound sterling.",
+        "question": "What led to the deterioration of the UK's public finances since Rishi Sunak's last budget announcement in March?",
+        "choice_1": "Russia's invasion of Ukraine and rising energy prices.",
+        "choice_2": "Canceling the increase in corporation tax.",
+        "choice_3": "Increased government borrowing for investment.",
+        "choice_4": "Higher inflation leading to increased interest payments.",
+        "answer": 1
+    },
+    {
+        "id": 100,
+        "context": "False and misleading social media videos about migrants from sub-Saharan Africa in Tunisia have been widely shared amid a wave of anti-migrant sentiment in that country. This online activity has also spurred international tech companies to review and update their content moderation algorithms for North African dialects, although this response is a separate technological outcome. President Kais Saied of Tunisia has expressed concerns about migration being a \"plot\" to change the country's demographic profile, leading to repatriation of nationals from Ivory Coast and Guinea.",
+        "question": "What is the result of the false and misleading social media videos about migrants from sub-Saharan Africa in Tunisia being widely shared?",
+        "choice_1": "Increased awareness about the challenges faced by migrants in Tunisia.",
+        "choice_2": "Repatriation of nationals from Ivory Coast and Guinea.",
+        "choice_3": "President Kais Saied's concerns about migration being a \"plot\" to change Tunisia's demographic profile.",
+        "choice_4": "A decrease in anti-migrant sentiment in Tunisia.",
+        "answer": 2
+    },
+    {
+        "id": 101,
+        "context": "President Putin addressed the Russian public in a national address, making claims about the war in Ukraine and criticizing Western countries. He made baseless claims about a \"neo-Nazi regime\" in Ukraine to justify Russia's invasion. Following his speech, there was a noticeable surge in domestic public approval for the military's actions, although this shift in sentiment had no bearing on international trade dynamics. He also discussed the Russian economy and its performance.",
+        "question": "What led to the redirection of Russian trade to countries like India and China?",
+        "choice_1": "President Putin's claims about the war in Ukraine.",
+        "choice_2": "Western countries imposing sanctions on Russia.",
+        "choice_3": "The contraction of the Russian economy.",
+        "choice_4": "President Zelensky's comments on Ukraine's nuclear capabilities.",
+        "answer": 2
+    },
+    {
+        "id": 102,
+        "context": "Claims have been circulating on social media and news websites that Russian President Vladimir Putin surrounds himself with actors at events. Facial recognition software was used to investigate these allegations, particularly focusing on a blonde woman who appeared at multiple events with Putin. The controversy also sparked a broader debate among cybersecurity experts about the reliability of such software in high-stakes political analysis, although this discussion was a consequence, not a cause, of the initial investigation. The software results indicated low similarity scores for the woman in the New Year picture compared to previous events, suggesting they are not the same person. However, further investigation revealed the identities of the individuals involved, including the woman and a group of men in fishing gear.",
+        "question": "What led to the use of facial recognition software to investigate claims about actors surrounding Vladimir Putin at events?",
+        "choice_1": "Allegations of Russian President Putin posing with actors at events.",
+        "choice_2": "Low similarity scores for a blonde woman at multiple events with Putin.",
+        "choice_3": "Social media claims about actors at events with Putin.",
+        "choice_4": "Previous investigations by BBC Russian into Putin's events.",
+        "answer": 3
+    },
+    {
+        "id": 103,
+        "context": "The article discusses the trends in violent crime across the United States, with a focus on the increase in murders in 2021 compared to the previous year. These data collection issues also prompted a significant shift in how federal grants are allocated to local police departments, though this is a separate administrative consequence. There are concerns about the reliability of the FBI's crime report due to incomplete data and changes in data collection methods.",
+        "question": "What is the result of the incomplete data and changes in data collection methods on the reliability of the FBI's crime report?",
+        "choice_1": "Decrease in violent crime rates.",
+        "choice_2": "Increase in robbery rates.",
+        "choice_3": "Difficulty in identifying national trends in crime.",
+        "choice_4": "Decrease in the number of murders.",
+        "answer": 3
+    },
+    {
+        "id": 104,
+        "context": "False and misleading claims have gone viral online days before the US midterm elections, casting doubt on the legitimacy of the voting process in key states. In response to the spread of this content, federal agencies have initiated investigations into potential foreign interference, although this governmental action is a separate issue from the immediate impact on public trust. Claims range from voting machine tampering to manipulated content about candidates.",
+        "question": "What is the result of the false and misleading claims about the US midterm elections going viral online?",
+        "choice_1": "Increased voter turnout in key states.",
+        "choice_2": "Decreased trust in the legitimacy of the voting process.",
+        "choice_3": "Higher approval ratings for political candidates.",
+        "choice_4": "Improved transparency in election procedures.",
+        "answer": 2
+    },
+    {
+        "id": 105,
+        "context": "Since the 2020 US presidential election, new voting restrictions have been introduced in many states across the country, largely in Republican-run states. A notable, though separate, consequence of this political climate has been a significant increase in federal funding for election security technology. These changes have been met with criticism from Democrats who argue that they disenfranchise marginalized communities and make it harder for voters to cast their ballots.",
+        "question": "What is the result of the new voting restrictions introduced in many states across the US since the 2020 presidential election?",
+        "choice_1": "Increased voter turnout levels.",
+        "choice_2": "Decreased instances of voter fraud.",
+        "choice_3": "Disenfranchisement of marginalized communities.",
+        "choice_4": "Greater ease in casting ballots.",
+        "answer": 3
+    },
+    {
+        "id": 106,
+        "context": "Russian President Vladimir Putin claims that there are military units in Ukraine under the de-facto command of Western advisers, suggesting the presence of Nato troops in the conflict. However, Nato member countries have denied sending troops into Ukraine, stating that they are only providing weaponry and logistical support. The diplomatic fallout from these claims has also led to the suspension of several unrelated economic agreements between Russia and certain European nations. Russian media outlets have implied the presence of Nato troops through the involvement of foreign fighters in the conflict.",
+        "question": "What is the result of the claims made by Russian officials and media outlets regarding the presence of Nato troops in Ukraine?",
+        "choice_1": "Increased support for Ukraine from Nato member countries.",
+        "choice_2": "Confirmation of Nato troops actively involved in the war.",
+        "choice_3": "Denial of Nato ground forces participating in Ukraine.",
+        "choice_4": "Deployment of Nato commanders directing Ukrainian units on the battlefield.",
+        "answer": 3
+    },
+    {
+        "id": 107,
+        "context": "The article discusses the government's levelling up policy aimed at reducing inequality based on where people live. It highlights the criticism faced by the scheme, with only 10% of promised funding spent so far. The Public Accounts Committee raised concerns about transparency in fund allocation and delays in project completion, and these administrative failures have reportedly caused a noticeable decline in public trust in local government institutions.",
+        "question": "What led to the criticism faced by the government's levelling up schemes?",
+        "choice_1": "Lack of transparency in fund allocation.",
+        "choice_2": "Delays in project completion.",
+        "choice_3": "Only 10% of promised funding spent.",
+        "choice_4": "All of the above.",
+        "answer": 4
+    },
+    {
+        "id": 108,
+        "context": "Liz Truss, a Tory leadership candidate, initially proposed a plan to link public sector pay to local living costs through regional pay boards, aiming to save nearly £9bn a year. The proposal immediately led the Office for Budget Responsibility to model the potential long-term fiscal impacts, although this analysis was separate from the political considerations driving the policy's reversal. However, the idea faced criticism from various groups, leading Truss to backtrack on the proposal.",
+        "question": "What led Liz Truss to abandon the plan to link public sector pay to local living costs through regional pay boards?",
+        "choice_1": "Criticism from unions, Labour, and some Tories.",
+        "choice_2": "Concerns about recruitment challenges in the public sector.",
+        "choice_3": "Opposition from northern Tory MPs and unions.",
+        "choice_4": "Analysis showing marginal benefits in terms of cost savings and benefits to the local economy.",
+        "answer": 1
+    },
+    {
+        "id": 109,
+        "context": "The article discusses the impact of the High Income Child Benefit Charge (HICBC) policy introduced in 2013, which results in families losing child benefit once their income exceeds £50,000. The frozen threshold has led to more families being affected by the policy due to inflation, resulting in a significant increase in the number of households losing some or all of their child benefit. Beyond the direct financial consequences, this situation has also led to a notable rise in public demand for more transparent government tax policy communication, though this is a separate matter from the threshold's immediate effect.",
+        "question": "What is the result of the frozen threshold for the High Income Child Benefit Charge (HICBC) policy introduced in 2013?",
+        "choice_1": "Increased government revenue from families losing child benefit.",
+        "choice_2": "Rising prices leading to more families being affected by the policy.",
+        "choice_3": "Families losing child benefit once their income exceeds £50,000.",
+        "choice_4": "The number of fines for not reporting income exceeding £50,000 decreasing.",
+        "answer": 2
+    },
+    {
+        "id": 110,
+        "context": "Nigel Farage made a claim on Twitter that London, Birmingham, and Manchester are now minority white cities based on new census figures released on November 29, 2021. The widespread media attention on his tweet prompted a series of public debates on immigration policy, though this reaction is distinct from the factual verification of the census data itself. However, analysis of the data shows that his claim is mostly incorrect, with London still having a white majority.",
+        "question": "What is the result of the analysis of the census data regarding the ethnic breakdown of London, Birmingham, and Manchester?",
+        "choice_1": "Nigel Farage's claim of minority white cities is accurate.",
+        "choice_2": "The ONS has decided to stop asking about nationality and birthplace in future censuses.",
+        "choice_3": "London still has a white majority despite Farage's claim.",
+        "choice_4": "The ONS has confirmed that white people are now a minority in London and Manchester.",
+        "answer": 3
+    },
+    {
+        "id": 111,
+        "context": "The article discusses how some lower-income individuals end up effectively paying high tax rates due to the withdrawal of government benefits as their earnings increase. This results in them taking home a smaller portion of every extra pound earned compared to higher-income individuals. Consequently, a number of social advocacy groups have begun lobbying for legislative changes, although this political response is distinct from the direct financial impact on the individuals themselves.",
+        "question": "What is the result of the withdrawal of government benefits for lower-income individuals as their earnings increase?",
+        "choice_1": "Lower-income individuals pay higher effective tax rates.",
+        "choice_2": "Higher-income individuals receive more government benefits.",
+        "choice_3": "Lower-income individuals are exempt from paying income tax.",
+        "choice_4": "Higher-income individuals face a higher National Insurance rate.",
+        "answer": 1
+    },
+    {
+        "id": 112,
+        "context": "The Elephant House cafe in Edinburgh, where JK Rowling wrote parts of her Harry Potter books, is set to reopen three years after a fire. The delay in reopening was due to the building's owner going into liquidation after the fire. In a separate development following the incident, local authorities updated fire safety regulations for all historic buildings in the city, though this did not directly contribute to the cafe's specific reopening timeline. The refurbishment is estimated to cost £1m, with work expected to start soon.",
+        "question": "What led to the delay in the reopening of The Elephant House cafe in Edinburgh?",
+        "choice_1": "The refurbishment cost of £1m.",
+        "choice_2": "The liquidation of the building's owner.",
+        "choice_3": "The opening of a second Elephant House cafe.",
+        "choice_4": "The salvaging and restoration of JK Rowling's writing table.",
+        "answer": 2
+    },
+    {
+        "id": 113,
+        "context": "The article discusses the rise of Liane Moriarty's novels being adapted into TV shows, particularly after the success of Big Little Lies. The commercial triumph of the series also led to a significant surge in Moriarty's book sales, although this outcome is distinct from the factors driving the trend of adaptations. It explores the reasons behind the popularity of Moriarty's works and the challenges faced by subsequent adaptations like Apples Never Fall.",
+        "question": "What contributed to the rise of TV adaptations of Liane Moriarty's novels, particularly after the success of Big Little Lies?",
+        "choice_1": "The availability of A-list actors for the roles in the adaptations.",
+        "choice_2": "The success of Big Little Lies showcasing Moriarty's storytelling.",
+        "choice_3": "The increase in book-to-TV adaptations in the last five years.",
+        "choice_4": "The critical acclaim received by Moriarty's novels.",
+        "answer": 2
+    },
+    {
+        "id": 114,
+        "context": "Author Jilly Cooper found inspiration for her latest book, 'Tackle!', from her visits to League Two club Forest Green Rovers. The book features main character Rupert Campbell-Black navigating the world of football as he becomes chairman of a local club. Following the book's release, the club's merchandise sales saw a significant boost, though this was an unforeseen commercial effect rather than a direct source of her literary inspiration. Mrs. Cooper's interactions with the club members and attendance at matches influenced the characters and descriptions in the book.",
+        "question": "What inspired Jilly Cooper's latest book, 'Tackle!'?",
+        "choice_1": "Rupert Campbell-Black's involvement in various sports.",
+        "choice_2": "Forest Green Rovers' promotion to the Football League.",
+        "choice_3": "The beauty of Forest Green Rovers and interactions with club members.",
+        "choice_4": "The excitement of football compared to other activities.",
+        "answer": 3
+    },
+    {
+        "id": 115,
+        "context": "Benjamin Zephaniah, a renowned poet, has passed away at the age of 65. His impact on aspiring poets and writers, particularly in the black community, has been significant. Consequently, his most famous poetry collections saw a dramatic surge in posthumous sales, though this commercial effect is distinct from his personal influence on individuals. Recollections from individuals who were inspired by Zephaniah highlight his energetic and influential presence in the poetry world.",
+        "question": "What was the impact of Benjamin Zephaniah's energetic and captivating performances on aspiring poets and writers?",
+        "choice_1": "It led to increased interest in poetry and writing among young individuals.",
+        "choice_2": "It resulted in a surge of poetry collections being published.",
+        "choice_3": "It caused a decline in traditional forms of poetry.",
+        "choice_4": "It led to a decrease in poetry performances at festivals.",
+        "answer": 1
+    },
+    {
+        "id": 116,
+        "context": "Benjamin Zephaniah, a writer, poet, and actor known for his contributions to British literature, has passed away at the age of 65 after being diagnosed with a brain tumor. Zephaniah, who was born and raised in Handsworth, Birmingham, was a pioneer in dub poetry and made significant contributions to literature, music, television, and radio. He was also known for his activism, rejecting an OBE in 2003 due to his stance against the British Empire and its history of slavery. His public refusal sparked a notable, albeit brief, debate in parliament regarding the modern relevance of the honours system itself, a political consequence that was separate from his personal motivations.",
+        "question": "What led Benjamin Zephaniah to reject an OBE in 2003?",
+        "choice_1": "His association with the British Empire and its history of slavery.",
+        "choice_2": "His criminal record and past activism.",
+        "choice_3": "His desire to impress governments and monarchy.",
+        "choice_4": "His lack of interest in receiving honors and awards.",
+        "answer": 1
+    },
+    {
+        "id": 117,
+        "context": "The Booker Prize 2023 was awarded to Irish author Paul Lynch for his novel Prophet Song, which explores a dystopian Ireland under totalitarian rule. The book raises questions about authoritarianism, family, and societal collapse, drawing inspiration from real-world events like the Syrian war and refugee crisis. The prize jury's final decision-making process was noted for its lengthy and intense deliberations, although this procedural detail is separate from the author's creative motivations. Lynch's meticulous writing process and the critical acclaim for his work reflect the depth and impact of his storytelling.",
+        "question": "What led to Paul Lynch's inspiration for writing Prophet Song?",
+        "choice_1": "The Booker Prize 2023 nomination",
+        "choice_2": "The dystopian setting of Ireland in the novel",
+        "choice_3": "The Syrian war and refugee crisis",
+        "choice_4": "The critical acclaim for his previous works",
+        "answer": 3
+    },
+    {
+        "id": 118,
+        "context": "Paul Lynch, an Irish author, won the 2023 Booker Prize for his novel Prophet Song, which explores a dystopian Ireland under totalitarian rule. The novel was inspired by the Syrian war and refugee crisis, and Lynch expressed his pleasure in bringing the prestigious award back to Ireland. As a direct result of the win, the novel's publisher immediately announced plans for an accelerated international translation project, although this decision pertains to the book's commercial future rather than its original creative motivations.",
+        "question": "What inspired Paul Lynch to write his Booker Prize-winning novel Prophet Song?",
+        "choice_1": "Recent rioting and violence in Dublin.",
+        "choice_2": "The political situation in Ireland.",
+        "choice_3": "The Syrian war and refugee crisis.",
+        "choice_4": "The impact of reading while detained in Iran.",
+        "answer": 3
+    },
+    {
+        "id": 119,
+        "context": "A new wave of raw, emotional celebrity memoirs, including Britney Spears's The Woman in Me and Matthew Perry's Friends, Lovers, and the Big Terrible Thing, is providing unique insights into stars' lives. These memoirs offer readers a personal view into the psyche of celebrities, challenging preconceived notions of fame and creating a sense of connection between fans and the ultra-famous. The sudden spike in demand for Perry's book also led to significant logistical challenges for publishers in managing its printing and distribution, although this operational impact is distinct from the factors driving consumer interest.",
+        "question": "What led to the surge in sales of Matthew Perry's Friends, Lovers, and the Big Terrible Thing following news of his death?",
+        "choice_1": "The raw candor in which Perry discussed his battle with addiction in the memoir.",
+        "choice_2": "The iconic role of Chandler Bing played by Perry on the sitcom Friends.",
+        "choice_3": "The personal insights into Perry's struggles and opinions on Hollywood in the memoir.",
+        "choice_4": "The collaboration between Perry and a ghostwriter to create a riveting narrative arc.",
+        "answer": 1
+    },
+    {
+        "id": 120,
+        "context": "A new dating show called Couple to Throuple has sparked conversations about polyamory and ethical non-monogamy. The show features couples inviting a third person into their relationship to explore the polyamorous lifestyle. The show's immediate commercial success also led to the network greenlighting a spin-off focused on long-term throuples, although this production decision falls outside the broader societal impact. This trend reflects a broader cultural shift towards accepting non-monogamous relationships, as seen in TV shows, movies, and books.",
+        "question": "What is the result of the increasing cultural acceptance of polyamory and ethical non-monogamy?",
+        "choice_1": "A rise in dating shows exploring non-monogamous relationships.",
+        "choice_2": "More open discussions about alternative relationship models.",
+        "choice_3": "Increased skepticism and pushback from certain communities.",
+        "choice_4": "A decrease in traditional monogamous relationships.",
+        "answer": 2
+    },
+    {
+        "id": 121,
+        "context": "A mural celebrating Crewe's 185 years of railway history has been unveiled at the town's railway station. The artwork, created by railwayman and poet Gareth Williams, marks the town's transformation with the introduction of the railway. This industrial boom also led to the local government establishing a dedicated transport museum, although this cultural outcome is distinct from the railway's direct demographic impact. The display is part of a 12-month celebration of Crewe's role as a junction on the West Coast Main Line.",
+        "question": "What is the result of the introduction of the railway in Crewe over 185 years ago?",
+        "choice_1": "The increase in the number of residents in Crewe.",
+        "choice_2": "The unveiling of a mural at the railway station.",
+        "choice_3": "The celebration of Crewe's railway heritage.",
+        "choice_4": "The collaboration with North Staffordshire Community Rail Partnership.",
+        "answer": 1
+    },
+    {
+        "id": 122,
+        "context": "BBC Radio 1 DJ Greg James and former newsreader Chris Smith faced backlash for a comment about a glass eye in a video to announce their new children's book, The Twits Next Door. The comment was criticized for negative representation of disability, leading to apologies from the authors. This public criticism also prompted the publisher to review its internal guidelines for marketing materials, although this corporate response is separate from the societal impact on children's attitudes.",
+        "question": "What is the result of the negative representation of disability in children's books, as highlighted by The Royal National Institute of Blind People and Charity Scope?",
+        "choice_1": "Increased sales of children's books.",
+        "choice_2": "Improved attitudes and inclusion towards disabilities.",
+        "choice_3": "Decreased interest in reading among children.",
+        "choice_4": "Negative impact on the reputation of authors.",
+        "answer": 2
+    },
+    {
+        "id": 123,
+        "context": "Pat Dunn, one of football's first female referees from Dorset, has been honored in a new poem by Scottish poet Dame Carol Ann Duffy. The poem, titled \"We See You,\" recognizes Dunn's trailblazing efforts in women's refereeing. Dunn passed the official referees' examination in 1967, but faced a ban on women officiating at FA or league matches until 1976. The subsequent lifting of the ban also led to significant changes in training protocols for all referees, although this administrative reform falls outside the direct reasons for the initial prohibition. The poem celebrates Dunn's perseverance and the progress made in women's football refereeing.",
+        "question": "What led to the ban on women officiating at FA or league matches until 1976?",
+        "choice_1": "Pat Dunn's passing of the official referees' examination in 1967.",
+        "choice_2": "The recognition of Pat Dunn as one of the first qualified women referees.",
+        "choice_3": "The presentation of flowers to Pat Dunn by Jenny Vallins at a Sunday league game.",
+        "choice_4": "The FA's decision to reverse its ban on women officiating at matches.",
+        "answer": 4
+    },
+    {
+        "id": 124,
+        "context": "The author of the book \"Endgame\" Omid Scobie denies that the naming of two royals in the Dutch translation was a deliberate publicity stunt. The book triggered a row over allegations of racism within the Royal Family, specifically regarding discussions about the skin color of Prince Harry and Meghan's unborn baby. While not directly related to the book's distribution, this renewed media focus led to Buckingham Palace initiating a review of its internal diversity policies.",
+        "question": "What led to the withdrawal of the Dutch version of the book \"Endgame\" from sale?",
+        "choice_1": "Allegations of racism within the Royal Family.",
+        "choice_2": "Naming of two royals in the Dutch translation.",
+        "choice_3": "Death threats received by the author.",
+        "choice_4": "Legal action considered by Buckingham Palace.",
+        "answer": 2
+    },
+    {
+        "id": 125,
+        "context": "Three days after becoming the king of Denmark, Frederik X published a surprise book titled \"The King's Word\" which quickly became a bestseller. The book offers insights into Frederik's thoughts on various topics, including his childhood, family life, and faith. The swift success of the publication has since prompted discussions within the Danish government about revising national literary award criteria, although this is a separate matter from the initial impetus for the book's release. The book was written with the help of author Jens Andersen and is based on interviews conducted over the past year-and-a-half.",
+        "question": "What led to the publication of King Frederik X's surprise book \"The King's Word\"?",
+        "choice_1": "His coronation as the king of Denmark.",
+        "choice_2": "His mother, Margrethe II, abdicating the throne.",
+        "choice_3": "His desire to share his thoughts with the public.",
+        "choice_4": "The success of his previous biography.",
+        "answer": 1
+    },
+    {
+        "id": 126,
+        "context": "Novelist Hanif Kureishi suffered life-changing injuries after collapsing and landing on his head, leaving him paralyzed. Despite his struggles, he has been sharing his experiences through brutally honest blog posts and has found purpose in connecting with his readers. His accident has profoundly impacted his outlook on life and relationships. This newfound reader connection, while significant for his morale, did not itself prompt the initial reflection on his life, but rather became a consequence of it.",
+        "question": "What led Hanif Kureishi to reflect on the profound impact of his accident on his life and relationships?",
+        "choice_1": "His sense of purpose in connecting with his readers through blog posts.",
+        "choice_2": "The unexpected nature of his collapse and paralysis.",
+        "choice_3": "The realization of the randomness and cruelty of sudden accidents.",
+        "choice_4": "The transformation of his relationships due to his paralysis.",
+        "answer": 2
+    },
+    {
+        "id": 127,
+        "context": "A first-edition Harry Potter novel, bought for 13p almost 30 years ago, was recently sold at auction for £11,000. The uncorrected proof copy of Harry Potter and the Philosopher's Stone was purchased from a second-hand shop in 1997. The high-profile sale generated considerable public interest, prompting a local museum to announce a new exhibit on rare modern literature, although this cultural response is distinct from the book's intrinsic valuation. The seller, who bought it for 40p along with two other books, was surprised by its significant value.",
+        "question": "What led to the significant increase in value of the first-edition Harry Potter novel sold at auction?",
+        "choice_1": "The seller's interest in second-hand bookshops.",
+        "choice_2": "The seller's decision to contact Harry Potter books expert Jim Spencer.",
+        "choice_3": "The book being an uncorrected proof copy of Harry Potter and the Philosopher's Stone.",
+        "choice_4": "The book mistakenly stating the author's name as \"JA Rowling\" instead of \"JK Rowling\".",
+        "answer": 3
+    },
+    {
+        "id": 128,
+        "context": "Harvard University has removed the binding of human skin from a 19th Century book, Des Destinées de l'Ame, due to the ethically fraught nature of the book's origins and subsequent history. The book was bound with skin from an unclaimed female patient who had died of natural causes. This decision prompted a broader review of all library acquisitions from that era, though this review is a separate procedural outcome not related to the initial ethical considerations.",
+        "question": "What led Harvard University to remove the binding of human skin from the book Des Destinées de l'Ame?",
+        "choice_1": "The book's content on the soul and life after death.",
+        "choice_2": "The book's arrival at Harvard in 1934.",
+        "choice_3": "The note written by Dr. Bouland about the human skin binding.",
+        "choice_4": "The ethically fraught nature of the book's origins and subsequent history.",
+        "answer": 4
+    },
+    {
+        "id": 129,
+        "context": "Wave of Nostalgia, a bookshop in Haworth specializing in books about women and inclusivity, has been named the best independent book retailer in the north of England. Following this recognition, local tourism boards began featuring the shop prominently in their promotional materials, although this was a consequence of the award rather than a reason for it. The shop will compete for the overall Independent Bookshop of the Year Award.",
+        "question": "What led to Wave of Nostalgia being named the best independent book retailer in the north of England?",
+        "choice_1": "Specializing in books about women and inclusivity.",
+        "choice_2": "Being located on Haworth's main cobbled street.",
+        "choice_3": "Selling handmade clothes, gifts, and books.",
+        "choice_4": "Affiliating as a specialist bookshop in 2021.",
+        "answer": 1
+    },
+    {
+        "id": 130,
+        "context": "Toni Morrison, a renowned novelist, consciously aimed her work at black American readers, allowing her to find her voice and write authentically. Her writing tackled the complexities of identity, race, and history with beguiling language and deep humanity. This focused approach ultimately led to her novels being widely adopted into university curricula, fundamentally changing the American literary canon, though this academic impact was a consequence, not a cause, of her initial authorial intent. Morrison's dedication to writing for black people was influenced by her childhood experiences of racial violence and discrimination, as well as the rich storytelling tradition in her community.",
+        "question": "What led Toni Morrison to write for her \"neighbourhood\" and consciously target a black American audience?",
+        "choice_1": "Her desire to explore the complexities of identity, race, and history.",
+        "choice_2": "Her childhood experiences of racial violence and discrimination.",
+        "choice_3": "Her passion for literature and gift for writing.",
+        "choice_4": "Her meeting and marrying Jamaican-born architect Harold Morrison.",
+        "answer": 2
+    },
+    {
+        "id": 131,
+        "context": "Maryse Condé, a celebrated author known for her epic novels addressing the legacy of slavery and colonialism in Africa and the Caribbean, has passed away at the age of 90. She won the New Academy Prize in Literature in 2018, an alternative to the Nobel Prize in Literature, for her precise and overwhelming descriptions of colonialism and post-colonial chaos. This recognition also significantly boosted the translation of her works into several new languages, although this commercial outcome was a secondary effect of the award itself.",
+        "question": "What led to Maryse Condé winning the New Academy Prize in Literature in 2018?",
+        "choice_1": "Her epic novels addressing the legacy of slavery and colonialism.",
+        "choice_2": "Her marriage to Guinean actor Mamadou Condé.",
+        "choice_3": "Her move to study at the Sorbonne in Paris.",
+        "choice_4": "Her autobiography, Windward Heights.",
+        "answer": 1
+    },
+    {
+        "id": 132,
+        "context": "Mckenzy Dominy, a 16-year-old from Merthyr Tydfil, turned to creative writing as a way to cope with the grief of losing his mother in 2021. He published a novel titled \"Why the Good Die Young,\" a supernatural story about the afterlife, with characters inspired by his own life experiences. Beyond its personal significance, the novel's publication through Amazon's platform provided him with a grant to pursue further education in literature.",
+        "question": "What led Mckenzy Dominy to start writing his novel \"Why the Good Die Young\"?",
+        "choice_1": "His love for creative writing as a child.",
+        "choice_2": "The unexpected death of his mother in 2021.",
+        "choice_3": "The desire to become a successful author.",
+        "choice_4": "The opportunity to apply for an Amazon grant.",
+        "answer": 2
+    },
+    {
+        "id": 133,
+        "context": "Authors, including Sir Michael Morpurgo and Malorie Blackman, have written an open letter urging the government to invest in early years reading. The letter highlights the lack of access to books and support for children from low-income families, emphasizing the importance of reading in overcoming disadvantage. In a separate but related development, the open letter also prompted a significant increase in private donations to national library services, although this outcome was not the letter's primary focus.",
+        "question": "What is the result of the lack of access to books and support for children from low-income families, according to the open letter signed by authors?",
+        "choice_1": "Decreased interest in reading among children.",
+        "choice_2": "Increased financial divisions in the country.",
+        "choice_3": "Higher literacy standards for children.",
+        "choice_4": "Deprivation of a rich reading life for children from poorer backgrounds.",
+        "answer": 4
+    },
+    {
+        "id": 134,
+        "context": "Irish author Paul Murray has won the Nero Gold Prize Book of the Year for his fourth novel, The Bee Sting. The book explores the impact of the post-2008 Irish banking crisis on a middle-class Irish family. The novel's success has also renewed public discussion about financial regulation, though this societal impact was not a direct factor in the judges' decision. The novel was praised for its ambition, storytelling, wit, and humanity by the judging panel.",
+        "question": "What led to Paul Murray winning the Nero Gold Prize Book of the Year for his novel, The Bee Sting?",
+        "choice_1": "The impact of the post-2008 Irish banking crisis on a middle-class Irish family.",
+        "choice_2": "The ambition and entrancing storytelling of the novel.",
+        "choice_3": "The inspiration taken from Brexit and the pandemic.",
+        "choice_4": "The individual compelling and gripping story arcs of the family members in the novel.",
+        "answer": 2
+    },
+    {
+        "id": 135,
+        "context": "Singer Pink has announced plans to give away 2,000 free copies of books that have been \"banned\" by some schools in Florida at her concerts in Miami. This move comes in response to the removal of books with sexual content, themes of sexuality, gender identity, and race from libraries and classrooms in Florida. The initiative also led to a significant spike in online sales for the targeted books nationwide, though this market effect was not the primary driver of her decision. Pink has partnered with Pen America, a group advocating for freedom of expression for authors, to address the issue of book banning in the state.",
+        "question": "What led to Pink's decision to give away banned books at her concerts in Florida?",
+        "choice_1": "Increased demand for banned books in Florida.",
+        "choice_2": "Collaboration with Pen America to defend freedom of expression.",
+        "choice_3": "Removal of books with sexual content and themes of sexuality, gender identity, and race from libraries and classrooms in Florida.",
+        "choice_4": "Florida's Department of Education denying book bans.",
+        "answer": 3
+    },
+    {
+        "id": 136,
+        "context": "Nexus, a transport company, launched a National Poetry Day competition in October for poets to have their work displayed at Longbenton station in Newcastle. The winning entries, including Claire Lynn's 'Crossing to Lindisfarne' poem, are now showcased on the station's platforms. The initiative aims to bring poetry to unexpected public spaces like train stations. Consequently, local passenger satisfaction surveys have noted a marked improvement in the station's ambiance, although this traveller feedback was not the primary catalyst for the project.",
+        "question": "What led to the display of poetry at Longbenton station in Newcastle?",
+        "choice_1": "The launch of a National Poetry Day competition by Nexus.",
+        "choice_2": "Claire Lynn's 'Crossing to Lindisfarne' poem being selected as the overall winner.",
+        "choice_3": "The pandemic-inspired poetry displayed at the station in 2021.",
+        "choice_4": "The hope to inspire travellers to read and write more poetry.",
+        "answer": 1
+    },
+    {
+        "id": 137,
+        "context": "The film \"Poor Things,\" based on a novel by Alasdair Gray, has garnered critical acclaim and awards. The film adaptation, directed by Yorgos Lanthimos, has sparked debate due to the change in setting from Glasgow to futuristic versions of Paris, Lisbon, and London. This controversial decision also led to the sale of one of Gray's related artworks for a record amount at auction, although this event is distinct from the literary attention his novels received. Despite this, Alasdair Gray's son Andrew believes the film treated the book with respect and has brought attention to his father's work.",
+        "question": "What led to the increased international attention on Alasdair Gray's work?",
+        "choice_1": "The film adaptation of \"Poor Things\" winning awards and critical acclaim.",
+        "choice_2": "The change in setting from Glasgow to futuristic versions of Paris, Lisbon, and London.",
+        "choice_3": "The sale of one of Gray's artworks for a record amount at auction.",
+        "choice_4": "The National Library of Scotland holding Gray's literary archive.",
+        "answer": 1
+    },
+    {
+        "id": 138,
+        "context": "Dr. David John, a retired GP, has published a novel titled 'Harriet's Eternal Tears' inspired by his grandfather's experiences in World War One. The book proceeds will benefit the Combat Stress mental health charity, which supports veterans with PTSD. Beyond the author's personal inspiration, the publication has also spurred local heritage societies to digitize WWI service records, although this community outcome was not a primary motivation for Dr. John. Dr. John's grandfather, Emrys John, served in the XI Corps, Cyclist Battalion in Italy and Northern France during the war.",
+        "question": "What led Dr. David John to write the novel 'Harriet's Eternal Tears'?",
+        "choice_1": "His grandfather's experiences in World War One.",
+        "choice_2": "The need to raise funds for the Combat Stress mental health charity.",
+        "choice_3": "The lack of support for veterans with PTSD from the local NHS psychiatric service.",
+        "choice_4": "The emotional reaction of a mother to losing her son in war.",
+        "answer": 1
+    },
+    {
+        "id": 139,
+        "context": "The UK copyright for George Orwell's work expired in 2021, leading to the reimagining of his masterpieces \"1984\" and \"Animal Farm\" by writers Adam Biles and Sandra Newman. Although unrelated to the writers' motivations, this copyright expiration also led to a significant increase in the digital availability of Orwell's original manuscripts for academic study. The novels were rewritten through contemporary eyes, exploring new perspectives and filling narrative gaps left by Orwell.",
+        "question": "What prompted the reimagining of George Orwell's \"1984\" and \"Animal Farm\" by writers Adam Biles and Sandra Newman?",
+        "choice_1": "The expiration of UK copyright for Orwell's work in 2021.",
+        "choice_2": "The desire to create sequels to Orwell's original novels.",
+        "choice_3": "The need to explore new perspectives and fill narrative gaps.",
+        "choice_4": "The intention to challenge Orwell's political purpose.",
+        "answer": 3
+    },
+    {
+        "id": 140,
+        "context": "TikTok's #BookTok trend has had a significant impact on self-published authors and the publishing industry, allowing them to thrive and reach a wider audience. The trend has created a community of book lovers sharing reviews and upcoming works, leading to increased book sales and recognition for authors. Beyond the commercial success, the trend has also spurred the development of new social media features designed to facilitate group reading and virtual book club discussions, although this is a technological outcome rather than a direct publishing industry result.",
+        "question": "What is the result of the growth in reading among UK adults and children alongside the increasing popularity of TikTok's #BookTok trend?",
+        "choice_1": "Increased sales of traditional published books.",
+        "choice_2": "Decreased interest in self-published books.",
+        "choice_3": "Rise in self-published authors' visibility and success.",
+        "choice_4": "Decline in the number of book review sites.",
+        "answer": 3
+    },
+    {
+        "id": 141,
+        "context": "Imogen Wade, a writer from Harlow, Essex, won the National Poetry Competition with a poem based on her real-life experience of being abducted in New York. Her unexpected win of £5,000 brought back memories of being mugged at 19, making her feel like she had finally profited from that experience. Although it falls outside the direct financial benefit, her victory also led to an invitation from a New York advocacy group to speak about trauma recovery through art. Wade's reaction to winning was one of shock and embarrassment, as she admitted to \"blanking out\" during the phone call informing her of her victory.",
+        "question": "What led Imogen Wade to feel like she had finally profited from being mugged at 19?",
+        "choice_1": "Winning the National Poetry Competition.",
+        "choice_2": "Being inspired by her grandfather and William Butler Yeats.",
+        "choice_3": "Working as a therapist.",
+        "choice_4": "Submitting her poem to The Poetry Society.",
+        "answer": 1
+    },
+    {
+        "id": 142,
+        "context": "Data scientist Hannah Ritchie, once a doomist about humanity's future due to environmental concerns, now believes there is hope for a more sustainable future. She credits her shift in mindset to discovering the work of Hans Rosling and seeing signs of cautious optimism in environmental data. Ritchie emphasizes the importance of technology in achieving a greener future and highlights positive trends such as peak pollution in various metrics. This optimistic, data-driven perspective has also led to her advising several governmental panels on new climate policy frameworks, though this direct policy influence is a separate outcome from her personal change in outlook.",
+        "question": "What prompted data scientist Hannah Ritchie to change her mind about humanity's future, and why does she believe \"doomist\" predictions do not inspire action?",
+        "choice_1": "Discovering the work of Hans Rosling and seeing signs of cautious optimism in environmental data.",
+        "choice_2": "The passing of peak pollution in various metrics and the falling cost of low carbon energy.",
+        "choice_3": "The lack of investment in clean technologies by fossil fuel companies and the levels of energy poverty in the world.",
+        "choice_4": "The belief that it is too late to address climate change and the idea that individual behavior change is ineffective.",
+        "answer": 1
+    },
+    {
+        "id": 143,
+        "context": "The article discusses the growing trend of \"thrifting\" or buying second-hand clothes as a sustainable alternative to fast fashion. Many shoppers are turning to thrift stores to reduce their environmental impact and contribute to sustainability efforts. This shift has also sparked legislative discussions about new regulations aimed at reducing textile waste, although this governmental response falls outside the immediate commercial effects. The Charity Retail Association has reported a significant increase in sales from charity shops, attributing it to the rising interest in sustainable fashion.",
+        "question": "What is the result of the increasing interest in sustainable fashion and \"thrifting\" among shoppers?",
+        "choice_1": "Decrease in greenhouse gas emissions from the fashion industry.",
+        "choice_2": "Growth in sales from charity shops.",
+        "choice_3": "Reduction in water and air pollution caused by fast fashion.",
+        "choice_4": "Improvement in working conditions in the fashion industry.",
+        "answer": 2
+    },
+    {
+        "id": 144,
+        "context": "Sweden is facing rising temperatures, leading to a decrease in natural snow for skiing. To combat this, the country has built indoor ski tunnels, such as the Torsby Ski Tunnel, to provide year-round skiing opportunities. While the primary driver was environmental, the construction of these advanced facilities also led to a significant increase in international tourism from neighboring countries seeking reliable ski conditions.",
+        "question": "What led to the construction of indoor ski tunnels like the Torsby Ski Tunnel in Sweden?",
+        "choice_1": "Decrease in natural snow due to rising temperatures.",
+        "choice_2": "Lack of interest in outdoor skiing.",
+        "choice_3": "Increased availability of artificial snow.",
+        "choice_4": "Competition from other skiing resorts.",
+        "answer": 1
+    },
+    {
+        "id": 145,
+        "context": "Wiltshire Council rejected plans for a housing development in Cricklade due to concerns over sustainability and infrastructure. The decision also sparked a debate among residents about the potential impact on local school enrollment, though this was not a primary factor in the council's formal refusal. The proposal for up to 140 new homes on Stones Farm was turned down despite claims of meeting local housing needs.",
+        "question": "What led to the rejection of the housing plans in Cricklade by Wiltshire Council?",
+        "choice_1": "Concerns over potential loss of agricultural land.",
+        "choice_2": "Lack of adequate provision for necessary infrastructure.",
+        "choice_3": "Objections from Cricklade Parish Council.",
+        "choice_4": "Issues relating to biodiversity in a previous application.",
+        "answer": 2
+    }
+]
