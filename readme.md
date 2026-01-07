@@ -18,5 +18,4 @@ Empirical inference, on the other hand, happens when a model does not construct 
 
 Install dependent Python libraries by running the command below.
 
-```bash pip install -r requirements.txt ```
-
+<pre> ```bash pip install -r requirements.txt ``` </pre>
