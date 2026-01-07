@@ -2,7 +2,7 @@
 This is the official repository of "CausalityCheck: A  Framework for Evaluating Causal Reasoning in Large Language Models".
 
 
-**CausalityCheck: A  Framework for Evaluating Causal Reasoning in Large Language Models**
+
 
 
 ## Motivation
@@ -14,7 +14,7 @@ Misidentifying causal chains occurs when a model infers an incorrect causal chai
 Empirical inference, on the other hand, happens when a model does not construct causal relationships but instead searches for answers within its pre-trained data. In this scenario, the model should identify two causal factors in the given context and infer the outcome based on these causes. However, the model "cheats" by retrieving an answer directly from its training data, without considering the context or understanding the cause of the outcome.
 ![Cause PDF](./cause1.jpg)
 
-##Installtion
+## Installtion
 
 Install dependent Python libraries by running the command below.
 
