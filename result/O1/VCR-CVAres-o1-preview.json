@@ -1,0 +1,1034 @@
+[
+    {
+        "id": 1,
+        "verdict": 1
+    },
+    {
+        "id": 2,
+        "verdict": 1
+    },
+    {
+        "id": 3,
+        "verdict": 1
+    },
+    {
+        "id": 4,
+        "verdict": 4
+    },
+    {
+        "id": 5,
+        "verdict": 1
+    },
+    {
+        "id": 6,
+        "verdict": 1
+    },
+    {
+        "id": 7,
+        "verdict": 1
+    },
+    {
+        "id": 8,
+        "verdict": 4
+    },
+    {
+        "id": 9,
+        "verdict": 1
+    },
+    {
+        "id": 10,
+        "verdict": 1
+    },
+    {
+        "id": 11,
+        "verdict": 3
+    },
+    {
+        "id": 12,
+        "verdict": 4
+    },
+    {
+        "id": 13,
+        "verdict": 1
+    },
+    {
+        "id": 14,
+        "verdict": 1
+    },
+    {
+        "id": 15,
+        "verdict": 2
+    },
+    {
+        "id": 16,
+        "verdict": 1
+    },
+    {
+        "id": 17,
+        "verdict": 1
+    },
+    {
+        "id": 18,
+        "verdict": 1
+    },
+    {
+        "id": 19,
+        "verdict": 2
+    },
+    {
+        "id": 20,
+        "verdict": 4
+    },
+    {
+        "id": 21,
+        "verdict": 1
+    },
+    {
+        "id": 22,
+        "verdict": 4
+    },
+    {
+        "id": 23,
+        "verdict": 3
+    },
+    {
+        "id": 24,
+        "verdict": 4
+    },
+    {
+        "id": 25,
+        "verdict": 1
+    },
+    {
+        "id": 26,
+        "verdict": 1
+    },
+    {
+        "id": 27,
+        "verdict": 1
+    },
+    {
+        "id": 28,
+        "verdict": 4
+    },
+    {
+        "id": 29,
+        "verdict": 1
+    },
+    {
+        "id": 30,
+        "verdict": 1
+    },
+    {
+        "id": 31,
+        "verdict": 1
+    },
+    {
+        "id": 32,
+        "verdict": 3
+    },
+    {
+        "id": 33,
+        "verdict": 1
+    },
+    {
+        "id": 34,
+        "verdict": 2
+    },
+    {
+        "id": 35,
+        "verdict": 1
+    },
+    {
+        "id": 36,
+        "verdict": 4
+    },
+    {
+        "id": 37,
+        "verdict": 1
+    },
+    {
+        "id": 38,
+        "verdict": 1
+    },
+    {
+        "id": 39,
+        "verdict": 3
+    },
+    {
+        "id": 40,
+        "verdict": 4
+    },
+    {
+        "id": 41,
+        "verdict": 1
+    },
+    {
+        "id": 42,
+        "verdict": 1
+    },
+    {
+        "id": 43,
+        "verdict": 1
+    },
+    {
+        "id": 44,
+        "verdict": 4
+    },
+    {
+        "id": 45,
+        "verdict": 1
+    },
+    {
+        "id": 46,
+        "verdict": 1
+    },
+    {
+        "id": 47,
+        "verdict": 1
+    },
+    {
+        "id": 48,
+        "verdict": 1
+    },
+    {
+        "id": 49,
+        "verdict": 1
+    },
+    {
+        "id": 50,
+        "verdict": 1
+    },
+    {
+        "id": 51,
+        "verdict": 3
+    },
+    {
+        "id": 52,
+        "verdict": 4
+    },
+    {
+        "id": 53,
+        "verdict": 1
+    },
+    {
+        "id": 54,
+        "verdict": 1
+    },
+    {
+        "id": 55,
+        "verdict": 3
+    },
+    {
+        "id": 56,
+        "verdict": 4
+    },
+    {
+        "id": 57,
+        "verdict": 1
+    },
+    {
+        "id": 58,
+        "verdict": 1
+    },
+    {
+        "id": 59,
+        "verdict": 1
+    },
+    {
+        "id": 60,
+        "verdict": 2
+    },
+    {
+        "id": 61,
+        "verdict": 1
+    },
+    {
+        "id": 62,
+        "verdict": 1
+    },
+    {
+        "id": 63,
+        "verdict": 1
+    },
+    {
+        "id": 64,
+        "verdict": 3
+    },
+    {
+        "id": 65,
+        "verdict": 1
+    },
+    {
+        "id": 66,
+        "verdict": 1
+    },
+    {
+        "id": 67,
+        "verdict": 1
+    },
+    {
+        "id": 68,
+        "verdict": 4
+    },
+    {
+        "id": 69,
+        "verdict": 1
+    },
+    {
+        "id": 70,
+        "verdict": 1
+    },
+    {
+        "id": 71,
+        "verdict": 1
+    },
+    {
+        "id": 72,
+        "verdict": 4
+    },
+    {
+        "id": 73,
+        "verdict": 1
+    },
+    {
+        "id": 74,
+        "verdict": 1
+    },
+    {
+        "id": 75,
+        "verdict": 1
+    },
+    {
+        "id": 76,
+        "verdict": 4
+    },
+    {
+        "id": 77,
+        "verdict": 1
+    },
+    {
+        "id": 78,
+        "verdict": 1
+    },
+    {
+        "id": 79,
+        "verdict": 3
+    },
+    {
+        "id": 80,
+        "verdict": 2
+    },
+    {
+        "id": 81,
+        "verdict": 1
+    },
+    {
+        "id": 82,
+        "verdict": 1
+    },
+    {
+        "id": 83,
+        "verdict": 1
+    },
+    {
+        "id": 84,
+        "verdict": 4
+    },
+    {
+        "id": 85,
+        "verdict": 1
+    },
+    {
+        "id": 86,
+        "verdict": 1
+    },
+    {
+        "id": 87,
+        "verdict": 3
+    },
+    {
+        "id": 88,
+        "verdict": 4
+    },
+    {
+        "id": 89,
+        "verdict": 1
+    },
+    {
+        "id": 90,
+        "verdict": 1
+    },
+    {
+        "id": 91,
+        "verdict": 1
+    },
+    {
+        "id": 92,
+        "verdict": 4
+    },
+    {
+        "id": 93,
+        "verdict": 1
+    },
+    {
+        "id": 94,
+        "verdict": 1
+    },
+    {
+        "id": 95,
+        "verdict": 3
+    },
+    {
+        "id": 96,
+        "verdict": 3
+    },
+    {
+        "id": 97,
+        "verdict": 1
+    },
+    {
+        "id": 98,
+        "verdict": 3
+    },
+    {
+        "id": 99,
+        "verdict": 1
+    },
+    {
+        "id": 100,
+        "verdict": 4
+    },
+    {
+        "id": 101,
+        "verdict": 1
+    },
+    {
+        "id": 102,
+        "verdict": 1
+    },
+    {
+        "id": 103,
+        "verdict": 1
+    },
+    {
+        "id": 104,
+        "verdict": 4
+    },
+    {
+        "id": 105,
+        "verdict": 1
+    },
+    {
+        "id": 106,
+        "verdict": 1
+    },
+    {
+        "id": 107,
+        "verdict": 4
+    },
+    {
+        "id": 108,
+        "verdict": 4
+    },
+    {
+        "id": 109,
+        "verdict": 1
+    },
+    {
+        "id": 110,
+        "verdict": 1
+    },
+    {
+        "id": 111,
+        "verdict": 1
+    },
+    {
+        "id": 112,
+        "verdict": 4
+    },
+    {
+        "id": 113,
+        "verdict": 1
+    },
+    {
+        "id": 114,
+        "verdict": 1
+    },
+    {
+        "id": 115,
+        "verdict": 1
+    },
+    {
+        "id": 116,
+        "verdict": 4
+    },
+    {
+        "id": 117,
+        "verdict": 1
+    },
+    {
+        "id": 118,
+        "verdict": 1
+    },
+    {
+        "id": 119,
+        "verdict": 1
+    },
+    {
+        "id": 120,
+        "verdict": 4
+    },
+    {
+        "id": 121,
+        "verdict": 1
+    },
+    {
+        "id": 122,
+        "verdict": 1
+    },
+    {
+        "id": 123,
+        "verdict": 3
+    },
+    {
+        "id": 124,
+        "verdict": 4
+    },
+    {
+        "id": 125,
+        "verdict": 1
+    },
+    {
+        "id": 126,
+        "verdict": 1
+    },
+    {
+        "id": 127,
+        "verdict": 1
+    },
+    {
+        "id": 128,
+        "verdict": 4
+    },
+    {
+        "id": 129,
+        "verdict": 1
+    },
+    {
+        "id": 130,
+        "verdict": 1
+    },
+    {
+        "id": 131,
+        "verdict": 1
+    },
+    {
+        "id": 132,
+        "verdict": 1
+    },
+    {
+        "id": 133,
+        "verdict": 1
+    },
+    {
+        "id": 134,
+        "verdict": 1
+    },
+    {
+        "id": 135,
+        "verdict": 1
+    },
+    {
+        "id": 136,
+        "verdict": 4
+    },
+    {
+        "id": 137,
+        "verdict": 1
+    },
+    {
+        "id": 138,
+        "verdict": 1
+    },
+    {
+        "id": 139,
+        "verdict": 2
+    },
+    {
+        "id": 140,
+        "verdict": 4
+    },
+    {
+        "id": 141,
+        "verdict": 1
+    },
+    {
+        "id": 142,
+        "verdict": 1
+    },
+    {
+        "id": 143,
+        "verdict": 1
+    },
+    {
+        "id": 144,
+        "verdict": 3
+    },
+    {
+        "id": 145,
+        "verdict": 1
+    },
+    {
+        "id": 146,
+        "verdict": 1
+    },
+    {
+        "id": 147,
+        "verdict": 4
+    },
+    {
+        "id": 148,
+        "verdict": 4
+    },
+    {
+        "id": 149,
+        "verdict": 1
+    },
+    {
+        "id": 150,
+        "verdict": 1
+    },
+    {
+        "id": 151,
+        "verdict": 4
+    },
+    {
+        "id": 152,
+        "verdict": 4
+    },
+    {
+        "id": 153,
+        "verdict": 1
+    },
+    {
+        "id": 154,
+        "verdict": 1
+    },
+    {
+        "id": 155,
+        "verdict": 1
+    },
+    {
+        "id": 156,
+        "verdict": 3
+    },
+    {
+        "id": 157,
+        "verdict": 1
+    },
+    {
+        "id": 158,
+        "verdict": 1
+    },
+    {
+        "id": 159,
+        "verdict": 4
+    },
+    {
+        "id": 160,
+        "verdict": 4
+    },
+    {
+        "id": 161,
+        "verdict": 1
+    },
+    {
+        "id": 162,
+        "verdict": 1
+    },
+    {
+        "id": 163,
+        "verdict": 1
+    },
+    {
+        "id": 164,
+        "verdict": 3
+    },
+    {
+        "id": 165,
+        "verdict": 1
+    },
+    {
+        "id": 166,
+        "verdict": 1
+    },
+    {
+        "id": 167,
+        "verdict": 1
+    },
+    {
+        "id": 168,
+        "verdict": 4
+    },
+    {
+        "id": 169,
+        "verdict": 1
+    },
+    {
+        "id": 170,
+        "verdict": 1
+    },
+    {
+        "id": 171,
+        "verdict": 3
+    },
+    {
+        "id": 172,
+        "verdict": 4
+    },
+    {
+        "id": 173,
+        "verdict": 1
+    },
+    {
+        "id": 174,
+        "verdict": 1
+    },
+    {
+        "id": 175,
+        "verdict": 2
+    },
+    {
+        "id": 176,
+        "verdict": 1
+    },
+    {
+        "id": 177,
+        "verdict": 1
+    },
+    {
+        "id": 178,
+        "verdict": 1
+    },
+    {
+        "id": 179,
+        "verdict": 1
+    },
+    {
+        "id": 180,
+        "verdict": 4
+    },
+    {
+        "id": 181,
+        "verdict": 1
+    },
+    {
+        "id": 182,
+        "verdict": 1
+    },
+    {
+        "id": 183,
+        "verdict": 1
+    },
+    {
+        "id": 184,
+        "verdict": 4
+    },
+    {
+        "id": 185,
+        "verdict": 1
+    },
+    {
+        "id": 186,
+        "verdict": 1
+    },
+    {
+        "id": 187,
+        "verdict": 4
+    },
+    {
+        "id": 188,
+        "verdict": 4
+    },
+    {
+        "id": 189,
+        "verdict": 1
+    },
+    {
+        "id": 190,
+        "verdict": 1
+    },
+    {
+        "id": 191,
+        "verdict": 1
+    },
+    {
+        "id": 192,
+        "verdict": 3
+    },
+    {
+        "id": 193,
+        "verdict": 1
+    },
+    {
+        "id": 194,
+        "verdict": 1
+    },
+    {
+        "id": 195,
+        "verdict": 4
+    },
+    {
+        "id": 196,
+        "verdict": 4
+    },
+    {
+        "id": 197,
+        "verdict": 1
+    },
+    {
+        "id": 198,
+        "verdict": 1
+    },
+    {
+        "id": 199,
+        "verdict": 3
+    },
+    {
+        "id": 200,
+        "verdict": 3
+    },
+    {
+        "id": 201,
+        "verdict": 1
+    },
+    {
+        "id": 202,
+        "verdict": 1
+    },
+    {
+        "id": 203,
+        "verdict": 1
+    },
+    {
+        "id": 204,
+        "verdict": 4
+    },
+    {
+        "id": 205,
+        "verdict": 1
+    },
+    {
+        "id": 206,
+        "verdict": 1
+    },
+    {
+        "id": 207,
+        "verdict": 1
+    },
+    {
+        "id": 208,
+        "verdict": 4
+    },
+    {
+        "id": 209,
+        "verdict": 1
+    },
+    {
+        "id": 210,
+        "verdict": 1
+    },
+    {
+        "id": 211,
+        "verdict": 4
+    },
+    {
+        "id": 212,
+        "verdict": 4
+    },
+    {
+        "id": 213,
+        "verdict": 1
+    },
+    {
+        "id": 214,
+        "verdict": 1
+    },
+    {
+        "id": 215,
+        "verdict": 1
+    },
+    {
+        "id": 216,
+        "verdict": 4
+    },
+    {
+        "id": 217,
+        "verdict": 1
+    },
+    {
+        "id": 218,
+        "verdict": 1
+    },
+    {
+        "id": 219,
+        "verdict": 4
+    },
+    {
+        "id": 220,
+        "verdict": 4
+    },
+    {
+        "id": 221,
+        "verdict": 1
+    },
+    {
+        "id": 222,
+        "verdict": 1
+    },
+    {
+        "id": 223,
+        "verdict": 1
+    },
+    {
+        "id": 224,
+        "verdict": 4
+    },
+    {
+        "id": 225,
+        "verdict": 1
+    },
+    {
+        "id": 226,
+        "verdict": 1
+    },
+    {
+        "id": 227,
+        "verdict": 4
+    },
+    {
+        "id": 228,
+        "verdict": 4
+    },
+    {
+        "id": 229,
+        "verdict": 1
+    },
+    {
+        "id": 230,
+        "verdict": 1
+    },
+    {
+        "id": 231,
+        "verdict": 1
+    },
+    {
+        "id": 232,
+        "verdict": 4
+    },
+    {
+        "id": 233,
+        "verdict": 1
+    },
+    {
+        "id": 234,
+        "verdict": 1
+    },
+    {
+        "id": 235,
+        "verdict": 1
+    },
+    {
+        "id": 236,
+        "verdict": 4
+    },
+    {
+        "id": 237,
+        "verdict": 1
+    },
+    {
+        "id": 238,
+        "verdict": 1
+    },
+    {
+        "id": 239,
+        "verdict": 4
+    },
+    {
+        "id": 240,
+        "verdict": 4
+    },
+    {
+        "id": 241,
+        "verdict": 1
+    },
+    {
+        "id": 242,
+        "verdict": 1
+    },
+    {
+        "id": 243,
+        "verdict": 4
+    },
+    {
+        "id": 244,
+        "verdict": 4
+    },
+    {
+        "id": 245,
+        "verdict": 1
+    },
+    {
+        "id": 246,
+        "verdict": 1
+    },
+    {
+        "id": 247,
+        "verdict": 4
+    },
+    {
+        "id": 248,
+        "verdict": 4
+    },
+    {
+        "id": 249,
+        "verdict": 1
+    },
+    {
+        "id": 250,
+        "verdict": 1
+    },
+    {
+        "id": 251,
+        "verdict": 1
+    },
+    {
+        "id": 252,
+        "verdict": 4
+    },
+    {
+        "id": 253,
+        "verdict": 1
+    },
+    {
+        "id": 254,
+        "verdict": 1
+    },
+    {
+        "id": 255,
+        "verdict": 3
+    },
+    {
+        "id": 256,
+        "verdict": 4
+    },
+    {
+        "id": 257,
+        "verdict": 1
+    },
+    {
+        "id": 258,
+        "verdict": 1
+    }
+]
