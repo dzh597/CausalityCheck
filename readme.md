@@ -36,4 +36,4 @@ CUDA_VISIBLE_DEVICES=0 python main.py \
   --exec_file ./pu_op.py
 </pre>
 
-Note: The absence of ps_op is due to the source data being ps_op itself.
+Note: The absence of ps_op is due to the source data being ps_op itself. Even though we have not released the final dataset, readers can use CausalProbe-2024 or any dataset to build their own CausalityCheck following the steps outlined above. We plan to release the complete dataset after the paper is accepted.
