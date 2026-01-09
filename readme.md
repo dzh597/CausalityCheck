@@ -19,3 +19,19 @@ Empirical inference, on the other hand, happens when a model does not construct 
 Install dependent Python libraries by running the command below.
 
 <pre> bash pip install -r requirements.txt  </pre>
+
+## Construction
+
+<pre> cd Construction  </pre>
+
+Construct the casualitycheck for the corresponding dataset using the following code. Taking CausalProbe as an example: model_name denotes the name of the large model employed, input_file specifies the source dataset file, result_fp_base defines the output path, api_key is replaced with ‘YOUR_KEY’, and exec_file indicates the task execution type.
+
+<pre> 
+CUDA_VISIBLE_DEVICES=0 python main.py \
+  --model_name gpt-5 \
+  --input_file CausalProbe-H.json \
+  --result_fp_base ./result_logs/ \
+  --api_key [your API key if using closed-source models] \
+  --api_base [your API's base url if necessary] \
+  --exec_file ./pu_op.py
+</pre>
